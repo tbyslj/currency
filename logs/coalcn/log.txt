@@ -1,0 +1,108 @@
+2021-02-25 18:05:39,634 currency.py[line:668] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-02-25 18:05:39,639 currency.py[line:748] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-02-25 18:07:28,826 currency.py[line:668] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-02-25 18:07:28,830 currency.py[line:748] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-02-26 18:35:54,930 currency.py[line:668] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-02-26 18:35:55,073 currency.py[line:748] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-02-26 18:37:45,412 currency.py[line:668] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-02-26 18:37:45,434 currency.py[line:748] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-02-27 18:55:26,374 currency.py[line:668] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-02-27 18:55:26,473 currency.py[line:748] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-02-27 18:57:08,198 currency.py[line:668] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-02-27 18:57:08,236 currency.py[line:748] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-01 18:18:25,808 currency.py[line:674] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-01 18:18:26,022 currency.py[line:754] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-01 18:20:06,164 currency.py[line:674] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-01 18:20:06,310 currency.py[line:754] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-02 18:41:27,025 currency.py[line:680] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-02 18:41:27,301 currency.py[line:760] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-02 18:43:09,011 currency.py[line:680] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-02 18:43:09,050 currency.py[line:760] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-03 18:16:47,813 currency.py[line:680] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-03 18:16:47,932 currency.py[line:760] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-03 18:18:19,502 currency.py[line:680] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-03 18:18:19,559 currency.py[line:760] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-04 18:42:33,727 currency.py[line:682] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-04 18:42:33,940 currency.py[line:762] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-04 18:44:03,996 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Max retries exceeded with url: /News/Detail,8dce8791-1da6-4af3-8fe1-e89d28bce96b.htm (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F4F696CCC8>, 'Connection to www.coalcn.com timed out. (connect timeout=20)'))
+2021-03-04 18:44:47,746 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Read timed out. (read timeout=20)
+2021-03-04 18:45:12,211 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Read timed out.
+2021-03-04 18:45:37,492 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Read timed out.
+2021-03-04 18:46:07,071 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Read timed out.
+2021-03-04 18:46:27,170 http_request.py[line:66] ERROR: [3/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Max retries exceeded with url: /News/Detail,62cb671e-f4d5-43e8-8abc-5c7c4779f7b4.htm (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F4F6A9FB88>, 'Connection to www.coalcn.com timed out. (connect timeout=20)'))
+2021-03-04 18:46:27,173 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 18:46:47,206 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Max retries exceeded with url: /News/Detail,8567406b-80fa-47d6-85cc-a59111863032.htm (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F4F69577C8>, 'Connection to www.coalcn.com timed out. (connect timeout=20)'))
+2021-03-04 18:47:23,199 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Read timed out.
+2021-03-04 18:48:01,008 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Max retries exceeded with url: /News/Detail,db3e9612-76b9-4fdd-a81c-1e64e290f2a3.htm (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F4F687B288>, 'Connection to www.coalcn.com timed out. (connect timeout=20)'))
+2021-03-04 18:48:42,802 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Max retries exceeded with url: /News/Detail,dd79d1fc-3848-41a8-9102-a8e4c2da4447.htm (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F4F6B15F88>, 'Connection to www.coalcn.com timed out. (connect timeout=20)'))
+2021-03-04 18:50:02,616 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Read timed out.
+2021-03-04 18:50:40,429 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Read timed out.
+2021-03-04 18:51:00,464 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Max retries exceeded with url: /News/Detail,5dd798b7-851a-4d2a-9af4-cf6c397f3967.htm (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F4F6B16E08>, 'Connection to www.coalcn.com timed out. (connect timeout=20)'))
+2021-03-04 18:51:30,178 http_request.py[line:66] ERROR: [3/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Read timed out.
+2021-03-04 18:51:30,193 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 18:52:03,923 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Read timed out.
+2021-03-04 18:52:42,748 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Read timed out. (read timeout=20)
+2021-03-04 18:53:13,715 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Read timed out.
+2021-03-04 18:53:37,152 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Read timed out.
+2021-03-04 18:55:37,144 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Max retries exceeded with url: /News/Detail,58c61fd7-95f9-4e85-86b0-527d922f3282.htm (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F4F691E1C8>, 'Connection to www.coalcn.com timed out. (connect timeout=20)'))
+2021-03-04 18:56:37,622 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Read timed out.
+2021-03-04 18:57:15,867 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-04 18:57:43,493 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Read timed out.
+2021-03-04 18:58:04,326 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Max retries exceeded with url: /News/Detail,9e34965c-c808-4c88-a70c-1c275fcbebfb.htm (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F4F6A13388>, 'Connection to www.coalcn.com timed out. (connect timeout=20)'))
+2021-03-04 18:58:31,058 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Max retries exceeded with url: /News/Detail,0165764d-aab3-45da-9ca2-69797a4b67c7.htm (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F4F6A0AEC8>, 'Connection to www.coalcn.com timed out. (connect timeout=20)'))
+2021-03-04 18:59:07,817 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Max retries exceeded with url: /News/Detail,e01a2c3f-6f33-4f83-8b74-a28903aa8fb5.htm (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F4F690B508>, 'Connection to www.coalcn.com timed out. (connect timeout=20)'))
+2021-03-04 19:00:09,986 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Max retries exceeded with url: /News/Detail,89ba7f34-27b7-449e-9820-0f1dfcb0fea9.htm (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F4F691E648>, 'Connection to www.coalcn.com timed out. (connect timeout=20)'))
+2021-03-04 19:00:39,425 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Read timed out.
+2021-03-04 19:00:59,473 http_request.py[line:66] ERROR: [3/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Max retries exceeded with url: /News/Detail,89ba7f34-27b7-449e-9820-0f1dfcb0fea9.htm (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F4F6B48BC8>, 'Connection to www.coalcn.com timed out. (connect timeout=20)'))
+2021-03-04 19:00:59,487 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 19:01:31,143 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Max retries exceeded with url: /News/Detail,b9132500-00de-45b4-8ea0-5ec68b7ff7e1.htm (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F4F6A0DD08>, 'Connection to www.coalcn.com timed out. (connect timeout=20)'))
+2021-03-04 19:02:59,396 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Max retries exceeded with url: /News/Detail,e6893038-8907-4803-b6b1-19e29673372f.htm (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F4F691E6C8>, 'Connection to www.coalcn.com timed out. (connect timeout=20)'))
+2021-03-04 19:03:29,885 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Read timed out.
+2021-03-04 19:04:14,249 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Read timed out.
+2021-03-04 19:04:16,731 currency.py[line:682] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-04 19:04:16,815 currency.py[line:762] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-04 19:04:44,442 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Read timed out.
+2021-03-04 19:05:04,375 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-04 19:05:27,268 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-04 19:05:27,318 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 19:05:48,117 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Read timed out.
+2021-03-04 19:06:14,785 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Read timed out.
+2021-03-04 19:06:41,468 http_request.py[line:66] ERROR: [3/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Read timed out.
+2021-03-04 19:06:41,539 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 19:07:05,731 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.coalcn.com', port=80): Read timed out.
+2021-03-05 18:25:41,431 currency.py[line:684] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-05 18:25:41,446 currency.py[line:764] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-05 18:27:34,992 currency.py[line:684] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-05 18:27:35,056 currency.py[line:764] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-06 22:57:37,142 currency.py[line:684] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-06 22:57:37,362 currency.py[line:764] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-06 22:59:20,233 currency.py[line:684] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-06 22:59:20,273 currency.py[line:764] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-07 18:18:08,061 currency.py[line:684] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-07 18:18:08,088 currency.py[line:764] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-07 18:19:42,646 currency.py[line:684] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-07 18:19:42,708 currency.py[line:764] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-08 18:18:48,653 currency.py[line:684] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-08 18:18:48,870 currency.py[line:764] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-08 18:20:41,447 currency.py[line:684] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-08 18:20:41,512 currency.py[line:764] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-09 18:22:12,910 currency.py[line:687] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-09 18:22:12,947 currency.py[line:767] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-09 18:24:09,883 currency.py[line:687] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-09 18:24:09,884 currency.py[line:767] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-10 18:37:15,282 currency.py[line:687] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-10 18:37:15,469 currency.py[line:767] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-10 18:39:08,753 currency.py[line:687] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-10 18:39:08,830 currency.py[line:767] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-11 18:16:28,482 currency.py[line:687] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-11 18:16:28,527 currency.py[line:767] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-11 18:18:25,793 currency.py[line:687] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-11 18:18:26,082 currency.py[line:767] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-12 20:52:24,057 currency.py[line:687] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-12 20:52:24,127 currency.py[line:767] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-12 20:54:14,822 currency.py[line:687] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-12 20:54:14,964 currency.py[line:767] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-14 13:39:25,792 currency.py[line:687] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-14 13:39:25,960 currency.py[line:767] INFO: unbalanced parenthesis at position 809 (line 5, column 50)
+2021-03-14 13:41:44,208 currency.py[line:687] INFO: nothing to repeat at position 23 (line 1, column 24)
+2021-03-14 13:41:44,244 currency.py[line:767] INFO: nothing to repeat at position 23 (line 1, column 24)

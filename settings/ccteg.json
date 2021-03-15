@@ -1,0 +1,90 @@
+{
+  "url_config": {
+    "source": "http://www.ccteg.cn/",
+    "domain": "www.ccteg.cn",
+    "turn_page": {
+      "mark": "",
+      "type": "html",
+      "symbol": "_",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "新闻中心",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "集团新闻",
+            "xpath": {
+              "id": "",
+              "class": "news_list",
+              "node": ""
+            }
+          },
+          {
+            "rex": "子企业动态",
+            "xpath": {
+              "id": "",
+              "class": "news_list",
+              "node": ""
+            }
+          },
+          {
+            "rex": "时政要闻",
+            "xpath": {
+              "id": "",
+              "class": "party_list",
+              "node": ""
+            }
+          },
+          {
+            "rex": "国资动态",
+            "xpath": {
+              "id": "",
+              "class": "party_list",
+              "node": ""
+            }
+          },
+          {
+            "rex": "行业动态",
+            "xpath": {
+              "id": "",
+              "class": "party_list",
+              "node": ""
+            }
+          },
+          {
+            "rex": "媒体聚焦",
+            "xpath": {
+              "id": "",
+              "class": "news_list",
+              "node": ""
+            }
+          },
+          {
+            "rex": "企业公告",
+            "xpath": {
+              "id": "",
+              "class": "party_list",
+              "node": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "html",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}

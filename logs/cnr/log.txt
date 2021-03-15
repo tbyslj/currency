@@ -1,0 +1,6 @@
+2021-02-25 18:07:18,751 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.cnr.cn', port=80): Read timed out. (read timeout=20)
+2021-02-26 18:34:48,155 currency.py[line:668] INFO: missing ), unterminated subpattern at position 560 (line 10, column 57)
+2021-02-27 18:54:21,675 currency.py[line:668] INFO: missing ), unterminated subpattern at position 560 (line 10, column 57)
+2021-03-01 18:17:19,144 currency.py[line:674] INFO: missing ), unterminated subpattern at position 560 (line 10, column 57)
+2021-03-02 18:40:07,463 currency.py[line:680] INFO: missing ), unterminated subpattern at position 560 (line 10, column 57)
+2021-03-03 18:14:43,149 currency.py[line:680] INFO: missing ), unterminated subpattern at position 560 (line 10, column 57)

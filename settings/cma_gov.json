@@ -1,0 +1,65 @@
+{
+  "url_config": {
+    "source": "http://www.cma.gov.cn/",
+    "domain": "www.cma.gov.cn",
+    "turn_page": {
+      "mark": "index",
+      "type": "html",
+      "symbol": "_",
+      "confirm": 0,
+      "start": 1,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "时政要闻",
+        "xpath": {
+          "id": "",
+          "class": "con_list_news_zt",
+          "node": ""
+        }
+      },
+      {
+        "rex": "气象要闻",
+        "xpath": {
+          "id": "",
+          "class": "con_list_news_zt",
+          "node": ""
+        }
+      },
+      {
+        "rex": "媒体关注",
+        "xpath": {
+          "id": "",
+          "class": "con_list_news_zt",
+          "node": ""
+        }
+      },
+      {
+        "rex": "科技创新",
+        "xpath": {
+          "id": "",
+          "class": "con_list_news_zt",
+          "node": ""
+        }
+      },
+      {
+        "rex": "省级动态",
+        "xpath": {
+          "id": "",
+          "class": "con_list_news_zt",
+          "node": ""
+        }
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "html",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
+

@@ -1,0 +1,73 @@
+{
+  "url_config": {
+    "source": "https://www.meadin.com/",
+    "domain": "www.meadin.com",
+    "turn_page": {
+      "mark": "",
+      "type": "",
+      "symbol": "",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "商业",
+        "xpath": {
+          "id": "",
+          "class": "right-content-news",
+          "node": "h3"
+        }
+      },
+      {
+        "rex": "酒店",
+        "xpath": {
+          "id": "",
+          "class": "right-content-news",
+          "node": "h3"
+        }
+      },
+      {
+        "rex": "景区",
+        "xpath": {
+          "id": "",
+          "class": "right-content-news",
+          "node": "h3"
+        }
+      },
+      {
+        "rex": "旅游",
+        "xpath": {
+          "id": "",
+          "class": "right-content-news",
+          "node": "h3"
+        }
+      },
+      {
+        "rex": "公寓",
+        "xpath": {
+          "id": "",
+          "class": "right-content-news",
+          "node": "h3"
+        }
+      },
+      {
+        "rex": "办公",
+        "xpath": {
+          "id": "",
+          "class": "right-content-news",
+          "node": "h3"
+        }
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "html",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
+

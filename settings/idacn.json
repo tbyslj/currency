@@ -1,0 +1,67 @@
+{
+  "url_config": {
+    "source": "http://www.idacn.org/",
+    "domain": "www.idacn.org",
+    "turn_page": {
+      "mark": "",
+      "type": "html",
+      "symbol": "-",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "资讯",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "协会动态",
+            "xpath": {
+              "id": "",
+              "class": "media-body",
+              "node": "h4"
+            }
+          },
+          {
+            "rex": "超硬新闻",
+            "xpath": {
+              "id": "",
+              "class": "media-body",
+              "node": "h4"
+            }
+          },
+          {
+            "rex": "国际资讯",
+            "xpath": {
+              "id": "",
+              "class": "media-body",
+              "node": "h4"
+            }
+          },
+          {
+            "rex": "企业新闻",
+            "xpath": {
+              "id": "",
+              "class": "media-body",
+              "node": "h4"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "html",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
+

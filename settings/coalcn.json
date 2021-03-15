@@ -1,0 +1,66 @@
+{
+  "url_config": {
+    "source": "http://www.coalcn.com/",
+    "domain": "www.coalcn.com",
+    "turn_page": {
+      "mark": "",
+      "type": "htm",
+      "symbol": ",",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "资讯",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "煤炭",
+            "xpath": {
+              "id": "",
+              "class": "caij_listBod",
+              "node": ""
+            }
+          },
+          {
+            "rex": "焦炭",
+            "xpath": {
+              "id": "",
+              "class": "caij_listBod",
+              "node": ""
+            }
+          },
+          {
+            "rex": "政策",
+            "xpath": {
+              "id": "",
+              "class": "caij_listBod",
+              "node": ""
+            }
+          },
+          {
+            "rex": "专题",
+            "xpath": {
+              "id": "",
+              "class": "caij_listBod",
+              "node": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "htm",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}

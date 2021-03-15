@@ -1,0 +1,80 @@
+{
+  "url_config": {
+    "source": "http://www.ebgyp.com/",
+    "domain": "www.ebgyp.com",
+    "turn_page": {
+      "mark": "",
+      "type": "html",
+      "symbol": "-",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "行业新闻",
+        "xpath": {
+          "id": "",
+          "class": "catlist_li",
+          "node": ""
+        }
+      },
+      {
+        "rex": "企业新闻",
+        "xpath": {
+          "id": "",
+          "class": "catlist_li",
+          "node": ""
+        }
+      },
+      {
+        "rex": "企业专访",
+        "xpath": {
+          "id": "",
+          "class": "catlist_li",
+          "node": ""
+        }
+      },
+      {
+        "rex": "技术应用",
+        "xpath": {
+          "id": "",
+          "class": "catlist_li",
+          "node": ""
+        }
+      },
+      {
+        "rex": "市场分析",
+        "xpath": {
+          "id": "",
+          "class": "catlist_li",
+          "node": ""
+        }
+      },
+      {
+        "rex": "行情动态",
+        "xpath": {
+          "id": "",
+          "class": "catlist_li",
+          "node": ""
+        }
+      },
+      {
+        "rex": "政策法规",
+        "xpath": {
+          "id": "",
+          "class": "catlist_li",
+          "node": ""
+        }
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "html",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}

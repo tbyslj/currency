@@ -1,0 +1,997 @@
+2021-02-19 20:09:20,065 currency.py[line:677] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-02-19 20:09:20,067 currency.py[line:757] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-02-19 20:09:21,497 currency.py[line:677] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-02-19 20:09:21,498 currency.py[line:757] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-02-19 20:09:33,834 currency.py[line:677] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-02-19 20:09:33,836 currency.py[line:757] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-02-19 20:09:39,457 currency.py[line:677] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-02-19 20:09:39,460 currency.py[line:757] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-02-19 20:09:41,504 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-02-19 20:09:41,604 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-02-19 20:09:41,693 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-02-19 20:09:41,694 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-19 20:09:41,695 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-19 20:09:41,796 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-02-19 20:09:41,889 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-02-19 20:09:41,981 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-02-19 20:09:41,983 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-19 20:09:41,984 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-19 20:11:19,067 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-02-19 20:11:19,152 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-02-19 20:11:19,240 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-02-19 20:11:19,240 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-19 20:11:19,241 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-19 20:11:19,324 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-02-19 20:11:19,421 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-02-19 20:11:19,521 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-02-19 20:11:19,522 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-19 20:11:19,523 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-19 20:11:25,860 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-02-19 20:11:25,943 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-02-19 20:11:26,044 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-02-19 20:11:26,044 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-19 20:11:26,045 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-20 20:47:52,473 currency.py[line:656] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-02-20 20:47:52,486 currency.py[line:736] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-02-20 20:47:52,810 currency.py[line:656] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-02-20 20:47:52,811 currency.py[line:736] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-02-20 20:47:57,629 currency.py[line:656] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-02-20 20:47:57,632 currency.py[line:736] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-02-20 20:48:07,394 currency.py[line:656] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-02-20 20:48:07,395 currency.py[line:736] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-02-20 20:48:08,309 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-02-20 20:48:08,393 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-02-20 20:48:08,480 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-02-20 20:48:08,481 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-20 20:48:08,481 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-20 20:48:08,581 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-02-20 20:48:08,675 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-02-20 20:48:08,779 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-02-20 20:48:08,780 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-20 20:48:08,780 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-20 20:49:18,693 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-02-20 20:49:42,292 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-02-20 20:49:53,428 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-02-20 20:49:53,522 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-02-20 20:49:53,614 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-02-20 20:49:53,614 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-20 20:49:53,614 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-20 20:49:53,709 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-02-20 20:49:53,796 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-02-20 20:49:53,893 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-02-20 20:49:53,893 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-20 20:49:53,893 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-20 20:49:59,915 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-02-20 20:50:00,010 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-02-20 20:50:00,109 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-02-20 20:50:00,110 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-20 20:50:00,110 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-22 12:01:44,816 currency.py[line:656] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-02-22 12:01:44,818 currency.py[line:736] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-02-22 12:01:47,101 currency.py[line:656] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-02-22 12:01:47,102 currency.py[line:736] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-02-22 12:01:58,302 currency.py[line:656] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-02-22 12:01:58,304 currency.py[line:736] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-02-22 12:02:03,154 currency.py[line:656] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-02-22 12:02:03,156 currency.py[line:736] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-02-22 12:02:06,980 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-02-22 12:02:07,056 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-02-22 12:02:07,149 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-02-22 12:02:07,150 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-22 12:02:07,150 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-22 12:02:07,230 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-02-22 12:02:07,321 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-02-22 12:02:07,404 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-02-22 12:02:07,405 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-22 12:02:07,405 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-22 12:03:49,382 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-02-22 12:03:49,466 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-02-22 12:03:49,554 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-02-22 12:03:49,555 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-22 12:03:49,555 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-22 12:03:49,638 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-02-22 12:03:49,722 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-02-22 12:03:49,806 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-02-22 12:03:49,807 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-22 12:03:49,807 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-22 12:03:55,822 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-02-22 12:03:55,901 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-02-22 12:03:56,000 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-02-22 12:03:56,001 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-22 12:03:56,001 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-23 15:54:08,391 currency.py[line:656] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-02-23 15:54:08,402 currency.py[line:736] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-02-23 15:54:19,802 currency.py[line:656] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-02-23 15:54:19,848 currency.py[line:736] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-02-23 15:54:23,258 currency.py[line:656] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-02-23 15:54:23,311 currency.py[line:736] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-02-23 15:54:39,274 currency.py[line:656] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-02-23 15:54:39,278 currency.py[line:736] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-02-23 15:54:52,164 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-02-23 15:54:52,254 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-02-23 15:54:52,357 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-02-23 15:54:52,357 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-23 15:54:52,358 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-23 15:54:53,480 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-02-23 15:54:53,566 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-02-23 15:54:53,647 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-02-23 15:54:53,647 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-23 15:54:53,647 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-23 15:59:13,344 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-02-23 15:59:13,450 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-02-23 15:59:13,542 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-02-23 15:59:13,543 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-23 15:59:13,543 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-23 15:59:13,634 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-02-23 15:59:13,718 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-02-23 15:59:13,821 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-02-23 15:59:13,822 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-23 15:59:13,822 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-23 15:59:27,489 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-02-23 15:59:27,580 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-02-23 15:59:27,661 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-02-23 15:59:27,661 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-23 15:59:27,661 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-25 18:14:57,418 currency.py[line:668] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-02-25 18:14:57,433 currency.py[line:748] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-02-25 18:14:59,922 currency.py[line:668] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-02-25 18:14:59,929 currency.py[line:748] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-02-25 18:15:10,385 currency.py[line:668] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-02-25 18:15:10,409 currency.py[line:748] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-02-25 18:15:16,250 currency.py[line:668] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-02-25 18:15:16,326 currency.py[line:748] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-02-25 18:15:19,001 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-02-25 18:15:19,087 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-02-25 18:15:19,169 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-02-25 18:15:19,171 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-25 18:15:19,175 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-25 18:15:19,263 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-02-25 18:15:19,345 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-02-25 18:15:19,436 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-02-25 18:15:19,441 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-25 18:15:19,466 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-25 18:17:18,312 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-02-25 18:17:18,397 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-02-25 18:17:18,484 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-02-25 18:17:18,494 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-25 18:17:18,495 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-25 18:17:18,582 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-02-25 18:17:18,679 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-02-25 18:17:18,761 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-02-25 18:17:18,762 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-25 18:17:18,762 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-25 18:17:26,653 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-02-25 18:17:26,773 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-02-25 18:17:26,882 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-02-25 18:17:26,907 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-25 18:17:26,907 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-26 18:44:22,541 currency.py[line:668] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-02-26 18:44:22,561 currency.py[line:748] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-02-26 18:44:24,134 currency.py[line:668] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-02-26 18:44:24,205 currency.py[line:748] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-02-26 18:44:33,711 currency.py[line:668] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-02-26 18:44:33,804 currency.py[line:748] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-02-26 18:44:45,416 currency.py[line:668] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-02-26 18:44:45,453 currency.py[line:748] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-02-26 18:44:45,978 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-02-26 18:44:46,065 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-02-26 18:44:46,153 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-02-26 18:44:46,157 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-26 18:44:46,157 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-26 18:44:46,233 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-02-26 18:44:46,311 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-02-26 18:44:46,413 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-02-26 18:44:46,424 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-26 18:44:46,425 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-26 18:46:56,555 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-02-26 18:46:56,641 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-02-26 18:46:56,747 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-02-26 18:46:56,748 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-26 18:46:56,748 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-26 18:46:56,822 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-02-26 18:46:56,913 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-02-26 18:46:57,050 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-02-26 18:46:57,128 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-26 18:46:57,152 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-26 18:47:06,366 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-02-26 18:47:06,443 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-02-26 18:47:06,774 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-02-26 18:47:06,802 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-26 18:47:06,819 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-27 19:03:50,215 currency.py[line:668] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-02-27 19:03:50,217 currency.py[line:748] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-02-27 19:03:51,387 currency.py[line:668] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-02-27 19:03:51,389 currency.py[line:748] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-02-27 19:04:00,782 currency.py[line:668] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-02-27 19:04:00,809 currency.py[line:748] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-02-27 19:04:15,737 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-02-27 19:04:16,807 currency.py[line:668] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-02-27 19:04:16,854 currency.py[line:748] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-02-27 19:04:18,692 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-02-27 19:04:18,832 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-02-27 19:04:18,920 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-02-27 19:04:18,940 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-27 19:04:18,982 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-27 19:04:19,072 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-02-27 19:04:19,167 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-02-27 19:04:19,360 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-02-27 19:04:19,380 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-27 19:04:19,395 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-27 19:06:30,312 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-02-27 19:06:30,419 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-02-27 19:06:30,522 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-02-27 19:06:30,523 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-27 19:06:30,524 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-27 19:06:30,598 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-02-27 19:06:30,677 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-02-27 19:06:30,820 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-02-27 19:06:30,840 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-27 19:06:30,840 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-27 19:06:39,109 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-02-27 19:06:39,213 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-02-27 19:06:39,361 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-02-27 19:06:39,405 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-27 19:06:39,490 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-01 18:29:40,610 currency.py[line:674] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-01 18:29:40,652 currency.py[line:754] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-01 18:29:41,979 currency.py[line:674] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-01 18:29:42,034 currency.py[line:754] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-01 18:29:52,981 currency.py[line:674] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-01 18:29:53,011 currency.py[line:754] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-01 18:30:00,392 currency.py[line:674] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-01 18:30:00,531 currency.py[line:754] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-01 18:30:05,172 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-01 18:30:05,249 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-01 18:30:05,338 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-01 18:30:05,338 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-01 18:30:05,338 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-01 18:30:05,425 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-01 18:30:08,576 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-01 18:30:08,686 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-01 18:30:08,703 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-01 18:30:08,726 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-01 18:32:30,084 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-01 18:32:30,183 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-01 18:32:30,325 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-01 18:32:30,378 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-01 18:32:30,420 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-01 18:32:30,508 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-01 18:32:30,610 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-01 18:32:30,728 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-01 18:32:30,772 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-01 18:32:30,838 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-01 18:32:39,905 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-01 18:32:40,008 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-01 18:32:40,105 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-01 18:32:40,106 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-01 18:32:40,106 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-02 18:54:24,022 currency.py[line:680] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-02 18:54:24,076 currency.py[line:760] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-02 18:54:28,831 currency.py[line:680] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-02 18:54:28,929 currency.py[line:760] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-02 18:54:38,882 currency.py[line:680] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-02 18:54:39,025 currency.py[line:760] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-02 18:54:49,833 currency.py[line:680] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-02 18:54:49,926 currency.py[line:760] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-02 18:54:51,558 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-02 18:54:51,672 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-02 18:54:51,813 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-02 18:54:51,818 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-02 18:54:51,818 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-02 18:54:51,932 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-02 18:54:52,034 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-02 18:54:52,273 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-02 18:54:52,275 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-02 18:54:52,280 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-02 18:57:05,241 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-02 18:57:05,343 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-02 18:57:05,459 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-02 18:57:05,501 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-02 18:57:05,504 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-02 18:57:05,615 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-02 18:57:05,706 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-02 18:57:05,789 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-02 18:57:05,800 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-02 18:57:05,800 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-02 18:57:14,255 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-02 18:57:14,342 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-02 18:57:14,501 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-02 18:57:14,520 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-02 18:57:14,520 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-03 18:29:49,033 currency.py[line:680] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-03 18:29:49,061 currency.py[line:760] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-03 18:29:49,811 currency.py[line:680] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-03 18:29:50,006 currency.py[line:760] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-03 18:30:02,561 currency.py[line:680] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-03 18:30:02,659 currency.py[line:760] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-03 18:30:11,160 currency.py[line:680] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-03 18:30:11,296 currency.py[line:760] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-03 18:30:14,543 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-03 18:30:14,758 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-03 18:30:14,857 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-03 18:30:14,872 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-03 18:30:14,901 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-03 18:30:14,976 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-03 18:30:15,069 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-03 18:30:15,158 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-03 18:30:15,173 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-03 18:30:15,174 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-03 18:32:28,364 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-03 18:32:28,449 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-03 18:32:28,647 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-03 18:32:28,647 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-03 18:32:28,667 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-03 18:32:28,743 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-03 18:32:28,823 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-03 18:32:28,915 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-03 18:32:28,959 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-03 18:32:29,195 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-03 18:32:37,306 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-03 18:32:37,409 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-03 18:32:37,504 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-03 18:32:37,535 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-03 18:32:37,644 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-04 18:59:32,928 currency.py[line:827] INFO: list index out of range
+2021-03-04 18:59:36,822 currency.py[line:682] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-04 18:59:36,891 currency.py[line:762] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-04 18:59:39,620 currency.py[line:682] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-04 18:59:39,682 currency.py[line:762] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-04 18:59:40,760 currency.py[line:682] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-04 18:59:40,820 currency.py[line:762] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-04 18:59:55,281 currency.py[line:682] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-04 18:59:55,339 currency.py[line:762] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-04 18:59:57,181 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-04 18:59:57,263 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-04 18:59:57,356 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-04 18:59:57,356 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 18:59:57,356 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-04 18:59:57,444 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-04 18:59:57,532 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-04 18:59:57,617 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-04 18:59:57,618 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 18:59:57,618 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-04 19:02:02,625 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-04 19:02:02,698 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-04 19:02:02,794 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-04 19:02:02,806 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 19:02:02,806 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-04 19:02:02,886 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-04 19:02:02,976 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-04 19:02:03,051 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-04 19:02:03,052 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 19:02:03,056 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-04 19:02:10,594 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-04 19:02:10,681 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-04 19:02:10,779 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-04 19:02:10,797 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 19:02:10,813 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-05 18:41:47,955 currency.py[line:834] INFO: list index out of range
+2021-03-05 18:41:57,605 currency.py[line:684] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-05 18:41:57,612 currency.py[line:764] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-05 18:42:00,613 currency.py[line:684] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-05 18:42:00,615 currency.py[line:764] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-05 18:42:11,116 currency.py[line:684] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-05 18:42:11,117 currency.py[line:764] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-05 18:42:13,200 currency.py[line:684] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-05 18:42:13,293 currency.py[line:764] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-05 18:42:20,397 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-05 18:42:20,518 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-05 18:42:20,603 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-05 18:42:20,645 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-05 18:42:20,645 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-05 18:42:20,786 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-05 18:42:20,934 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-05 18:42:21,010 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-05 18:42:21,010 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-05 18:42:21,011 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-06 23:12:59,009 currency.py[line:834] INFO: list index out of range
+2021-03-06 23:13:06,329 currency.py[line:684] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-06 23:13:06,433 currency.py[line:764] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-06 23:13:11,279 currency.py[line:684] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-06 23:13:11,486 currency.py[line:764] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-06 23:13:23,421 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-06 23:13:24,484 currency.py[line:684] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-06 23:13:24,615 currency.py[line:764] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-06 23:13:31,249 currency.py[line:684] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-06 23:13:31,392 currency.py[line:764] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-06 23:13:36,857 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-06 23:13:36,973 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-06 23:13:37,082 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-06 23:13:37,099 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 23:13:37,100 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-06 23:13:37,174 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-06 23:13:37,253 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-06 23:13:37,368 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-06 23:13:37,432 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 23:13:37,477 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-06 23:14:54,361 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-06 23:16:09,180 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-06 23:16:09,264 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-06 23:16:09,343 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-06 23:16:09,343 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 23:16:09,343 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-06 23:16:09,425 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-06 23:16:09,516 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-06 23:16:09,647 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-06 23:16:09,675 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 23:16:09,717 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-06 23:16:19,188 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-06 23:16:19,336 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-06 23:16:19,429 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-06 23:16:19,433 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 23:16:19,433 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-07 18:34:40,682 currency.py[line:684] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-07 18:34:40,863 currency.py[line:764] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-07 18:34:42,275 currency.py[line:684] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-07 18:34:42,352 currency.py[line:764] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-07 18:34:59,514 currency.py[line:684] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-07 18:34:59,670 currency.py[line:764] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-07 18:35:05,922 currency.py[line:684] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-07 18:35:05,958 currency.py[line:764] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-07 18:35:07,635 currency.py[line:834] INFO: list index out of range
+2021-03-07 18:35:11,618 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-07 18:35:11,701 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-07 18:35:11,791 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-07 18:35:11,822 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:35:11,856 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-07 18:35:11,970 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-07 18:35:12,060 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-07 18:35:12,148 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-07 18:35:12,149 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:35:12,149 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-07 18:37:34,506 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-07 18:37:34,622 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-07 18:37:34,761 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-07 18:37:34,794 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:37:34,819 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-07 18:37:34,911 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-07 18:37:35,012 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-07 18:37:35,104 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-07 18:37:35,148 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:37:35,152 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-07 18:37:43,037 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-07 18:37:43,149 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-07 18:37:43,252 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-07 18:37:43,307 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:37:43,354 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-08 18:31:37,822 currency.py[line:834] INFO: list index out of range
+2021-03-08 18:31:45,526 currency.py[line:684] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-08 18:31:45,726 currency.py[line:764] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-08 18:31:51,117 currency.py[line:684] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-08 18:31:51,131 currency.py[line:764] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-08 18:32:02,478 currency.py[line:684] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-08 18:32:02,626 currency.py[line:764] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-08 18:32:09,081 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-08 18:32:14,644 currency.py[line:684] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-08 18:32:14,646 currency.py[line:764] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-08 18:32:15,194 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-08 18:32:15,313 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-08 18:32:15,422 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-08 18:32:15,442 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:32:15,461 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-08 18:32:15,539 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-08 18:32:15,674 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-08 18:32:15,747 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-08 18:32:15,748 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:32:15,748 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-08 18:34:42,732 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-08 18:34:42,818 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-08 18:34:42,911 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-08 18:34:42,956 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:34:43,058 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-08 18:34:43,206 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-08 18:34:43,303 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-08 18:34:43,392 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-08 18:34:43,393 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:34:43,393 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-08 18:34:51,345 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-08 18:34:51,436 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-08 18:34:51,563 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-08 18:34:51,604 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:34:51,675 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-09 18:37:56,806 currency.py[line:687] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-09 18:37:56,891 currency.py[line:767] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-09 18:37:58,159 currency.py[line:687] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-09 18:37:58,238 currency.py[line:767] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-09 18:38:10,112 currency.py[line:687] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-09 18:38:10,114 currency.py[line:767] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-09 18:38:21,940 currency.py[line:687] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-09 18:38:21,965 currency.py[line:767] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-09 18:38:25,179 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-09 18:38:25,307 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-09 18:38:25,396 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-09 18:38:25,397 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:38:25,446 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-09 18:38:25,565 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-09 18:38:25,658 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-09 18:38:25,741 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-09 18:38:25,745 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:38:25,746 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-09 18:38:42,056 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-09 18:40:37,596 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-09 18:40:37,674 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-09 18:40:37,782 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-09 18:40:37,786 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:40:37,813 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-09 18:40:37,908 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-09 18:40:37,982 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-09 18:40:38,069 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-09 18:40:38,069 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:40:38,069 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-09 18:40:46,677 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-09 18:40:46,766 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-09 18:40:46,868 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-09 18:40:46,882 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:40:46,885 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-10 18:58:52,572 currency.py[line:687] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-10 18:58:52,592 currency.py[line:767] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-10 18:58:54,111 currency.py[line:687] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-10 18:58:54,237 currency.py[line:767] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-10 18:59:04,147 currency.py[line:687] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-10 18:59:04,210 currency.py[line:767] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-10 18:59:17,389 currency.py[line:687] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-10 18:59:17,668 currency.py[line:767] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-10 18:59:19,719 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-10 18:59:19,801 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-10 18:59:19,882 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-10 18:59:19,924 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 18:59:19,925 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-10 18:59:20,001 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-10 18:59:20,174 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-10 18:59:20,273 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-10 18:59:20,282 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 18:59:20,336 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-10 18:59:49,507 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:59:49,525 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:59:49,544 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:59:51,044 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:59:51,200 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:59:51,200 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:59:56,282 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:59:56,463 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:59:56,498 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:00:01,995 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:02,071 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:02,071 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:00:06,150 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:06,250 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:06,280 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:00:14,231 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:14,537 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:14,543 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:00:16,206 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:16,266 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:16,358 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:00:19,126 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:19,228 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:19,237 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:00:25,094 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:25,138 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:25,191 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:00:27,675 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:27,680 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:27,681 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:00:32,095 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:32,199 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:32,236 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:00:34,799 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:34,806 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:34,808 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:00:36,096 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:36,100 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:36,101 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:00:36,924 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:36,952 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:36,952 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:00:39,907 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:39,973 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:40,033 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:00:43,205 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:43,221 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:43,227 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:00:48,336 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:48,340 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:48,344 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:00:48,345 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:00:48,347 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:00:52,919 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:52,937 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:00:52,952 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:00:52,956 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:00:52,956 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:01:02,821 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:01:02,829 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:01:02,832 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:01:02,833 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:01:02,834 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:01:09,445 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:01:09,476 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:01:09,501 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:01:09,503 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:01:09,505 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:01:11,280 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:01:11,284 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:01:11,290 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:01:11,290 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:01:11,290 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:01:12,775 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:01:12,777 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:01:12,777 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:01:12,778 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:01:12,781 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:01:26,882 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:01:27,159 currency.py[line:191] INFO: list index out of range
+2021-03-10 19:01:27,199 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:01:27,230 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:01:27,237 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 19:02:46,894 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-10 19:02:47,004 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-10 19:02:47,101 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-10 19:02:47,125 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 19:02:47,188 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-10 19:02:47,295 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-10 19:02:47,416 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-10 19:02:47,519 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-10 19:02:47,538 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 19:02:47,538 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-10 19:02:59,310 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-10 19:02:59,390 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-10 19:02:59,481 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-10 19:02:59,503 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 19:02:59,503 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-11 18:37:39,521 currency.py[line:687] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-11 18:37:39,618 currency.py[line:767] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-11 18:37:41,166 currency.py[line:687] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-11 18:37:41,231 currency.py[line:767] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-11 18:37:48,298 currency.py[line:687] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-11 18:37:48,334 currency.py[line:767] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-11 18:38:06,699 currency.py[line:687] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-11 18:38:06,767 currency.py[line:767] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-11 18:38:07,596 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-11 18:38:07,742 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-11 18:38:07,828 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-11 18:38:07,829 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:38:07,829 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-11 18:38:07,916 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-11 18:38:08,008 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-11 18:38:08,123 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-11 18:38:08,143 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:38:08,165 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-11 18:38:25,464 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-11 18:38:36,991 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:38:37,016 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:38:37,053 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:38:38,753 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:38:38,827 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:38:38,888 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:38:43,166 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:38:43,172 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:38:43,172 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:38:47,235 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:38:47,238 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:38:47,239 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:38:54,222 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:38:54,292 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:38:54,358 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:38:58,562 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:38:58,587 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:38:58,588 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:39:03,953 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:03,975 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:03,987 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:39:05,818 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:05,838 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:05,865 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:39:09,460 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:09,506 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:09,535 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:39:12,331 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:12,382 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:12,412 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:39:16,749 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:16,768 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:16,943 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:39:23,762 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:23,794 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:23,812 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:39:25,520 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:25,560 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:25,624 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:39:28,085 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:28,336 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:28,488 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:39:31,731 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:31,801 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:31,881 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:39:36,706 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:36,812 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:36,844 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:39:36,860 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:39:36,881 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:39:43,996 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:44,011 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:44,016 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:39:44,084 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:39:44,159 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:39:53,379 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:53,447 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:53,562 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:39:53,802 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:39:53,927 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:39:57,216 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:57,228 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:39:57,229 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:39:57,229 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:39:57,230 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:40:01,608 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:40:01,660 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:40:01,728 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:40:01,762 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:40:01,853 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:40:08,674 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:40:08,709 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:40:08,742 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:40:08,775 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:40:08,802 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:40:19,689 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:40:19,725 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:40:19,811 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:40:20,021 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:40:20,217 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:40:23,222 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:40:23,249 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:40:23,431 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:40:23,532 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:40:23,606 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:41:56,474 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-11 18:41:56,566 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-11 18:41:56,677 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-11 18:41:56,702 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:41:56,834 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-11 18:41:56,967 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-11 18:41:57,098 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-11 18:41:57,183 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-11 18:41:57,186 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:41:57,186 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-11 18:42:10,969 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-11 18:42:11,070 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-11 18:42:11,203 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-11 18:42:11,249 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:42:11,249 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-12 21:15:23,010 currency.py[line:687] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-12 21:15:23,113 currency.py[line:767] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-12 21:15:32,581 currency.py[line:687] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-12 21:15:32,710 currency.py[line:767] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-12 21:15:36,653 currency.py[line:687] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-12 21:15:36,746 currency.py[line:767] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-12 21:15:49,419 currency.py[line:687] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-12 21:15:49,824 currency.py[line:767] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-12 21:15:56,392 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-12 21:16:00,296 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-12 21:16:00,370 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-12 21:16:00,460 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-12 21:16:00,477 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 21:16:00,477 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-12 21:16:00,566 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-12 21:16:00,643 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-12 21:16:00,754 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-12 21:16:00,780 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 21:16:00,813 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-12 21:16:32,413 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:16:32,435 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:16:32,435 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:16:38,706 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:16:38,747 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:16:38,749 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:16:43,485 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:16:43,514 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:16:43,518 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:16:48,612 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:16:48,681 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:16:48,700 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:16:56,254 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:16:56,294 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:16:56,360 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:16:57,631 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-12 21:17:00,848 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:01,254 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:01,342 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:17:09,203 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:09,272 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:09,404 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:17:11,563 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:11,582 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:11,588 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:17:12,561 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:12,566 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:12,567 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:17:14,210 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:14,271 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:14,352 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:17:15,364 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-12 21:17:19,324 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:19,384 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:19,480 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:17:33,193 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:33,294 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:33,312 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:17:34,843 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:34,862 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:34,865 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:17:40,910 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:41,054 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:41,151 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:17:44,168 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:44,265 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:44,277 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:17:49,474 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:49,521 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:49,563 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:17:49,584 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:17:49,616 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:17:53,939 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:54,053 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:54,066 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:17:54,094 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:17:54,101 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:17:58,855 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:58,910 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:17:58,952 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:17:59,152 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:17:59,152 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:18:06,352 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:18:06,421 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:18:06,471 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:18:06,494 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:18:06,507 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:18:08,802 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:18:08,877 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:18:08,931 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:18:08,997 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:18:09,040 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:18:13,646 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:18:13,691 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:18:13,735 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:18:13,935 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:18:14,013 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:18:16,737 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:18:16,789 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:18:16,903 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:18:17,009 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:18:17,129 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:18:25,589 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:18:25,629 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:18:25,666 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:18:25,668 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:18:25,699 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:20:05,134 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-12 21:20:05,259 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-12 21:20:05,378 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-12 21:20:05,413 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 21:20:05,477 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-12 21:20:05,574 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-12 21:20:05,667 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-12 21:20:05,744 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-12 21:20:05,860 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 21:20:05,957 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-12 21:20:19,877 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-12 21:20:20,030 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-12 21:20:20,129 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-12 21:20:20,225 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 21:20:20,277 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-14 14:01:02,241 currency.py[line:687] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-14 14:01:02,305 currency.py[line:767] INFO: unbalanced parenthesis at position 812 (line 10, column 183)
+2021-03-14 14:01:06,139 currency.py[line:687] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-14 14:01:06,417 currency.py[line:767] INFO: unbalanced parenthesis at position 507 (line 7, column 87)
+2021-03-14 14:01:07,758 currency.py[line:687] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-14 14:01:07,876 currency.py[line:767] INFO: unbalanced parenthesis at position 550 (line 9, column 77)
+2021-03-14 14:01:22,915 currency.py[line:687] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-14 14:01:23,123 currency.py[line:767] INFO: unbalanced parenthesis at position 549 (line 11, column 52)
+2021-03-14 14:01:33,982 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-14 14:01:34,062 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-14 14:01:34,180 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_1.htm
+2021-03-14 14:01:34,242 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 14:01:34,359 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-14 14:01:34,526 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-14 14:01:34,683 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-14 14:01:34,759 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/zcjd/index_2.htm
+2021-03-14 14:01:34,772 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 14:01:34,772 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-14 14:02:07,206 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:02:07,222 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:02:07,232 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:02:08,702 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:02:08,853 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:02:08,895 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:02:15,300 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:02:15,373 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:02:15,386 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:02:20,587 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:02:20,639 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:02:20,641 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:02:28,009 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:02:28,048 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:02:28,067 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:02:30,207 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:02:30,379 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:02:30,447 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:02:32,757 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:02:32,975 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:02:33,253 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:02:38,172 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:02:38,283 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:02:38,315 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:02:43,087 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:02:43,280 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:02:43,329 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:02:45,719 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:02:45,756 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:02:46,097 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:02:49,940 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:02:50,312 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:02:50,371 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:03:02,793 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:03:02,965 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:03:02,971 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:03:05,115 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:03:05,150 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:03:05,426 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:03:10,007 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:03:10,045 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:03:10,062 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:03:12,859 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:03:12,927 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:03:13,031 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:03:15,790 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:03:15,817 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:03:16,208 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:03:21,684 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:03:21,737 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:03:21,820 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:03:21,908 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:03:21,989 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:03:27,070 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:03:27,087 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:03:27,163 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:03:27,222 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:03:27,271 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:03:37,818 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:03:37,988 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:03:38,187 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:03:38,254 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:03:38,301 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:03:46,154 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:03:46,238 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:03:46,282 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:03:46,288 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:03:46,289 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:03:50,946 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:03:51,032 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:03:51,116 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:03:51,133 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:03:51,212 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:03:55,139 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:03:55,292 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:03:55,324 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:03:55,338 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:03:55,344 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:04:02,682 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:04:02,891 currency.py[line:191] INFO: list index out of range
+2021-03-14 14:04:02,894 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:04:02,920 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:04:02,928 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 14:05:42,769 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-14 14:05:42,927 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-14 14:05:43,065 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_1.htm
+2021-03-14 14:05:43,121 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 14:05:43,183 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-14 14:05:43,374 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-14 14:05:43,486 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-14 14:05:43,580 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/dwhz/index_2.htm
+2021-03-14 14:05:43,613 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 14:05:43,705 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-14 14:05:55,661 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-14 14:05:55,752 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-14 14:05:55,855 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.nkj.moa.gov.cn/kqsd/index_2.htm
+2021-03-14 14:05:55,858 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 14:05:55,858 currency.py[line:191] INFO: expected string or bytes-like object

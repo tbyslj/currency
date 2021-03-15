@@ -1,0 +1,50 @@
+{
+  "url_config": {
+    "source": "http://www.chinafeed.org.cn/",
+    "domain": "www.chinafeed.org.cn",
+    "turn_page": {
+      "mark": "index",
+      "type": "html",
+      "symbol": "_",
+      "confirm": 0,
+      "start": 1,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "新闻动态",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "协会新闻",
+            "xpath": {
+              "id": "",
+              "class": "news_list",
+              "node": ""
+            }
+          },
+          {
+            "rex": "行业新闻",
+            "xpath": {
+              "id": "",
+              "class": "news_list",
+              "node": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "html",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}

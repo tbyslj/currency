@@ -1,0 +1,57 @@
+{
+  "url_config": {
+    "source": "http://www.geothermal.cn/",
+    "domain": "www.geothermal.cn",
+    "turn_page": {
+      "mark": "#c_portalResNews_list-15735262960639107",
+      "type": "",
+      "symbol": "-",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "院内新闻",
+        "xpath": {
+          "id": "",
+          "class": "newList",
+          "node": ""
+        }
+      },
+      {
+        "rex": "行业动态",
+        "xpath": {
+          "id": "",
+          "class": "newList",
+          "node": ""
+        }
+      },
+      {
+        "rex": "公开专栏",
+        "xpath": {
+          "id": "",
+          "class": "newList",
+          "node": ""
+        }
+      },
+      {
+        "rex": "党建工作",
+        "xpath": {
+          "id": "",
+          "class": "newList",
+          "node": ""
+        }
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "html",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
+

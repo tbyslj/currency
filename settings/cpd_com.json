@@ -1,0 +1,74 @@
+{
+  "url_config": {
+    "source": "http://www.cpd.com.cn/index.html",
+    "domain": "cpd.com.cn",
+    "turn_page": {
+      "mark": "index",
+      "type": "html",
+      "symbol": "_",
+      "confirm": 0,
+      "start": 1,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "新闻",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "时政",
+            "xpath": {
+              "id": "newslist",
+              "class": "",
+              "node": "ul"
+            }
+          },
+          {
+            "rex": "公安",
+            "xpath": {
+              "id": "newslist",
+              "class": "",
+              "node": "ul"
+            }
+          },
+          {
+            "rex": "政法",
+            "xpath": {
+              "id": "newslist",
+              "class": "",
+              "node": "ul"
+            }
+          },
+          {
+            "rex": "社会",
+            "xpath": {
+              "id": "newslist",
+              "class": "",
+              "node": "ul"
+            }
+          },
+          {
+            "rex": "外警",
+            "xpath": {
+              "id": "newslist",
+              "class": "",
+              "node": "ul"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "html",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}

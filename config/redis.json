@@ -1,0 +1,7 @@
+{
+  "local_rw": {
+        "host": "192.168.1.128",
+        "password": null,
+        "port": 6379
+    }
+}

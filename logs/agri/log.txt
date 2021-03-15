@@ -1,0 +1,111 @@
+2021-02-19 17:32:16,422 currency.py[line:677] INFO: missing ), unterminated subpattern at position 1183 (line 10, column 35)
+2021-02-19 17:32:16,424 currency.py[line:757] INFO: missing ), unterminated subpattern at position 1183 (line 10, column 35)
+2021-02-19 17:32:23,123 currency.py[line:191] INFO: list index out of range
+2021-02-19 17:32:38,679 currency.py[line:677] INFO: unbalanced parenthesis at position 1117 (line 21, column 55)
+2021-02-19 17:32:38,682 currency.py[line:757] INFO: unbalanced parenthesis at position 1117 (line 21, column 55)
+2021-02-20 18:04:47,285 currency.py[line:191] INFO: list index out of range
+2021-02-20 18:05:01,845 currency.py[line:656] INFO: unbalanced parenthesis at position 1117 (line 21, column 55)
+2021-02-20 18:05:01,848 currency.py[line:736] INFO: unbalanced parenthesis at position 1117 (line 21, column 55)
+2021-02-20 18:05:02,961 currency.py[line:656] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-02-20 18:05:02,964 currency.py[line:736] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-02-22 09:35:47,277 currency.py[line:191] INFO: list index out of range
+2021-02-22 09:36:05,798 currency.py[line:656] INFO: unbalanced parenthesis at position 1117 (line 21, column 55)
+2021-02-22 09:36:05,800 currency.py[line:736] INFO: unbalanced parenthesis at position 1117 (line 21, column 55)
+2021-02-22 09:36:07,127 currency.py[line:656] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-02-22 09:36:07,129 currency.py[line:736] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-02-23 15:36:59,140 currency.py[line:191] INFO: list index out of range
+2021-02-23 15:37:20,563 currency.py[line:656] INFO: unbalanced parenthesis at position 1117 (line 21, column 55)
+2021-02-23 15:37:20,571 currency.py[line:736] INFO: unbalanced parenthesis at position 1117 (line 21, column 55)
+2021-02-23 15:37:22,250 currency.py[line:656] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-02-23 15:37:22,259 currency.py[line:736] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-02-25 18:01:23,928 currency.py[line:191] INFO: list index out of range
+2021-02-25 18:01:46,939 currency.py[line:668] INFO: unbalanced parenthesis at position 1117 (line 21, column 55)
+2021-02-25 18:01:47,083 currency.py[line:748] INFO: unbalanced parenthesis at position 1117 (line 21, column 55)
+2021-02-25 18:01:49,972 currency.py[line:668] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-02-25 18:01:50,055 currency.py[line:748] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-02-26 18:31:49,998 currency.py[line:191] INFO: list index out of range
+2021-02-26 18:32:11,642 currency.py[line:668] INFO: unbalanced parenthesis at position 1117 (line 21, column 55)
+2021-02-26 18:32:11,741 currency.py[line:748] INFO: unbalanced parenthesis at position 1117 (line 21, column 55)
+2021-02-26 18:32:13,372 currency.py[line:668] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-02-26 18:32:13,387 currency.py[line:748] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-02-27 18:51:19,037 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:51:40,628 currency.py[line:668] INFO: unbalanced parenthesis at position 1117 (line 21, column 55)
+2021-02-27 18:51:40,648 currency.py[line:748] INFO: unbalanced parenthesis at position 1117 (line 21, column 55)
+2021-02-27 18:51:42,103 currency.py[line:668] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-02-27 18:51:42,116 currency.py[line:748] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-01 18:15:24,875 currency.py[line:191] INFO: list index out of range
+2021-03-01 18:15:46,002 currency.py[line:674] INFO: unbalanced parenthesis at position 1117 (line 21, column 55)
+2021-03-01 18:15:46,036 currency.py[line:754] INFO: unbalanced parenthesis at position 1117 (line 21, column 55)
+2021-03-01 18:15:49,027 currency.py[line:674] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-01 18:15:49,059 currency.py[line:754] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-02 18:37:40,027 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:38:02,421 currency.py[line:680] INFO: unbalanced parenthesis at position 1117 (line 21, column 55)
+2021-03-02 18:38:02,611 currency.py[line:760] INFO: unbalanced parenthesis at position 1117 (line 21, column 55)
+2021-03-02 18:38:04,551 currency.py[line:680] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-02 18:38:04,616 currency.py[line:760] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-03 18:12:59,748 currency.py[line:191] INFO: list index out of range
+2021-03-03 18:13:26,341 currency.py[line:680] INFO: unbalanced parenthesis at position 1117 (line 21, column 55)
+2021-03-03 18:13:26,412 currency.py[line:760] INFO: unbalanced parenthesis at position 1117 (line 21, column 55)
+2021-03-03 18:13:28,707 currency.py[line:680] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-03 18:13:28,837 currency.py[line:760] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-04 18:37:21,229 currency.py[line:682] INFO: missing ), unterminated subpattern at position 576
+2021-03-04 18:37:21,303 currency.py[line:762] INFO: missing ), unterminated subpattern at position 576
+2021-03-04 18:37:51,717 currency.py[line:191] INFO: list index out of range
+2021-03-04 18:38:10,733 currency.py[line:682] INFO: unbalanced parenthesis at position 1128 (line 22, column 55)
+2021-03-04 18:38:10,761 currency.py[line:762] INFO: unbalanced parenthesis at position 1128 (line 22, column 55)
+2021-03-04 18:38:12,708 currency.py[line:682] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-04 18:38:12,785 currency.py[line:762] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-05 18:20:21,442 currency.py[line:684] INFO: missing ), unterminated subpattern at position 576
+2021-03-05 18:20:21,653 currency.py[line:764] INFO: missing ), unterminated subpattern at position 576
+2021-03-05 18:20:50,189 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:21:10,678 currency.py[line:684] INFO: unbalanced parenthesis at position 1128 (line 22, column 55)
+2021-03-05 18:21:10,722 currency.py[line:764] INFO: unbalanced parenthesis at position 1128 (line 22, column 55)
+2021-03-05 18:21:12,533 currency.py[line:684] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-05 18:21:12,538 currency.py[line:764] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-06 22:51:41,479 currency.py[line:684] INFO: missing ), unterminated subpattern at position 576
+2021-03-06 22:51:41,613 currency.py[line:764] INFO: missing ), unterminated subpattern at position 576
+2021-03-06 22:52:05,743 currency.py[line:191] INFO: list index out of range
+2021-03-06 22:52:28,387 currency.py[line:684] INFO: unbalanced parenthesis at position 1128 (line 22, column 55)
+2021-03-06 22:52:28,629 currency.py[line:764] INFO: unbalanced parenthesis at position 1128 (line 22, column 55)
+2021-03-06 22:52:31,152 currency.py[line:684] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-06 22:52:31,294 currency.py[line:764] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-07 18:12:42,226 currency.py[line:684] INFO: missing ), unterminated subpattern at position 576
+2021-03-07 18:12:42,311 currency.py[line:764] INFO: missing ), unterminated subpattern at position 576
+2021-03-07 18:13:05,100 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:13:23,276 currency.py[line:684] INFO: unbalanced parenthesis at position 1128 (line 22, column 55)
+2021-03-07 18:13:23,328 currency.py[line:764] INFO: unbalanced parenthesis at position 1128 (line 22, column 55)
+2021-03-07 18:13:24,789 currency.py[line:684] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-07 18:13:24,817 currency.py[line:764] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-08 18:13:43,546 currency.py[line:684] INFO: missing ), unterminated subpattern at position 576
+2021-03-08 18:13:43,600 currency.py[line:764] INFO: missing ), unterminated subpattern at position 576
+2021-03-08 18:14:04,261 currency.py[line:191] INFO: list index out of range
+2021-03-08 18:14:23,068 currency.py[line:684] INFO: unbalanced parenthesis at position 1128 (line 22, column 55)
+2021-03-08 18:14:23,201 currency.py[line:764] INFO: unbalanced parenthesis at position 1128 (line 22, column 55)
+2021-03-08 18:14:24,485 currency.py[line:684] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-08 18:14:24,496 currency.py[line:764] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-09 18:16:02,567 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:16:23,978 currency.py[line:687] INFO: unbalanced parenthesis at position 1128 (line 22, column 55)
+2021-03-09 18:16:24,033 currency.py[line:767] INFO: unbalanced parenthesis at position 1128 (line 22, column 55)
+2021-03-09 18:16:26,069 currency.py[line:687] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-09 18:16:26,282 currency.py[line:767] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-10 18:29:02,124 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:29:05,632 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-10 18:29:27,178 currency.py[line:687] INFO: unbalanced parenthesis at position 1128 (line 22, column 55)
+2021-03-10 18:29:27,316 currency.py[line:767] INFO: unbalanced parenthesis at position 1128 (line 22, column 55)
+2021-03-10 18:29:29,583 currency.py[line:687] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-10 18:29:29,883 currency.py[line:767] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-11 18:09:22,453 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:09:44,957 currency.py[line:687] INFO: unbalanced parenthesis at position 1128 (line 22, column 55)
+2021-03-11 18:09:45,053 currency.py[line:767] INFO: unbalanced parenthesis at position 1128 (line 22, column 55)
+2021-03-11 18:09:46,933 currency.py[line:687] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-11 18:09:47,176 currency.py[line:767] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-12 20:44:36,883 currency.py[line:191] INFO: list index out of range
+2021-03-12 20:44:59,759 currency.py[line:687] INFO: unbalanced parenthesis at position 1128 (line 22, column 55)
+2021-03-12 20:44:59,995 currency.py[line:767] INFO: unbalanced parenthesis at position 1128 (line 22, column 55)
+2021-03-12 20:45:02,527 currency.py[line:687] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-12 20:45:02,641 currency.py[line:767] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-14 13:33:07,433 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:33:29,994 currency.py[line:687] INFO: unbalanced parenthesis at position 1128 (line 22, column 55)
+2021-03-14 13:33:30,136 currency.py[line:767] INFO: unbalanced parenthesis at position 1128 (line 22, column 55)
+2021-03-14 13:33:32,602 currency.py[line:687] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)
+2021-03-14 13:33:32,706 currency.py[line:767] INFO: unbalanced parenthesis at position 1079 (line 21, column 53)

@@ -1,0 +1,73 @@
+{
+  "url_config": {
+    "source": "http://www.nkj.moa.gov.cn/",
+    "domain": "www.nkj.moa.gov.cn",
+    "turn_page": {
+      "mark": "index",
+      "type": "htm",
+      "symbol": "_",
+      "confirm": 0,
+      "start": 1,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "工作动态",
+        "xpath": {
+          "id": "div",
+          "class": "",
+          "node": ""
+        }
+      },
+      {
+        "rex": "政策解读",
+        "xpath": {
+          "id": "div",
+          "class": "",
+          "node": ""
+        }
+      },
+      {
+        "rex": "改革发展",
+        "xpath": {
+          "id": "div",
+          "class": "",
+          "node": ""
+        }
+      },
+      {
+        "rex": "热作农业",
+        "xpath": {
+          "id": "div",
+          "class": "",
+          "node": ""
+        }
+      },
+      {
+        "rex": "对外合作",
+        "xpath": {
+          "id": "div",
+          "class": "",
+          "node": ""
+        }
+      },
+      {
+        "rex": "垦情速递",
+        "xpath": {
+          "id": "div",
+          "class": "",
+          "node": ""
+        }
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
+

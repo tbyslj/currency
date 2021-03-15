@@ -1,0 +1,57 @@
+{
+  "url_config": {
+    "source": "http://www.ccoalnews.com/",
+    "domain": "www.ccoalnews.com",
+    "turn_page": {
+      "mark": "",
+      "type": "html",
+      "symbol": "_",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "要闻",
+        "xpath": {
+          "id": "",
+          "class": "listPage-l fl",
+          "node": "ul[1]"
+        }
+      },
+      {
+        "rex": "独家",
+        "xpath": {
+          "id": "",
+          "class": "listPage-l fl",
+          "node": "ul[1]"
+        }
+      },
+      {
+        "rex": "人事",
+        "xpath": {
+          "id": "",
+          "class": "listPage-l fl",
+          "node": "ul[1]"
+        }
+      },
+      {
+        "rex": "企业新闻",
+        "xpath": {
+          "id": "",
+          "class": "listPage-l fl",
+          "node": "ul[1]"
+        }
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "html",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
+

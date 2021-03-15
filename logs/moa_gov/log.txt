@@ -1,0 +1,33 @@
+2021-02-19 19:45:53,606 currency.py[line:757] INFO: missing ), unterminated subpattern at position 1183 (line 10, column 35)
+2021-02-19 19:47:01,307 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.moa.gov.cn/xw/bmdt/202102/t20210203_6361062.htm
+2021-02-20 20:30:46,689 currency.py[line:736] INFO: missing ), unterminated subpattern at position 1183 (line 10, column 35)
+2021-02-22 11:39:39,043 currency.py[line:736] INFO: missing ), unterminated subpattern at position 1183 (line 10, column 35)
+2021-02-22 11:40:09,395 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.moa.gov.cn/xw/bmdt/202102/t20210203_6361062.htm
+2021-02-23 15:55:21,377 currency.py[line:736] INFO: missing ), unterminated subpattern at position 980 (line 17, column 56)
+2021-02-23 15:56:06,437 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.moa.gov.cn/xw/bmdt/202102/t20210203_6361062.htm
+2021-03-04 18:56:26,154 currency.py[line:762] INFO: missing ), unterminated subpattern at position 578 (line 4, column 5)
+2021-03-04 18:58:22,745 currency.py[line:762] INFO: missing ), unterminated subpattern at position 578 (line 4, column 5)
+2021-03-05 18:39:57,860 currency.py[line:764] INFO: missing ), unterminated subpattern at position 579 (line 4, column 5)
+2021-03-05 18:40:50,099 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.moa.gov.cn/xw/qg/202103/t20210304_6362873.htm
+2021-03-05 18:40:50,210 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.moa.gov.cn/xw/qg/202103/t20210304_6362873.htm
+2021-03-05 18:40:50,354 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.moa.gov.cn/xw/qg/202103/t20210304_6362873.htm
+2021-03-05 18:40:50,369 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-05 18:42:01,636 currency.py[line:764] INFO: missing ), unterminated subpattern at position 578 (line 4, column 5)
+2021-03-06 23:08:22,966 currency.py[line:764] INFO: missing ), unterminated subpattern at position 579 (line 4, column 5)
+2021-03-06 23:09:32,071 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.moa.gov.cn/xw/qg/202103/t20210304_6362873.htm
+2021-03-06 23:09:32,211 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.moa.gov.cn/xw/qg/202103/t20210304_6362873.htm
+2021-03-06 23:10:49,784 currency.py[line:764] INFO: missing ), unterminated subpattern at position 578 (line 4, column 5)
+2021-03-07 18:31:36,657 currency.py[line:764] INFO: missing ), unterminated subpattern at position 579 (line 4, column 5)
+2021-03-07 18:33:57,595 currency.py[line:764] INFO: missing ), unterminated subpattern at position 578 (line 4, column 5)
+2021-03-08 18:31:23,335 currency.py[line:764] INFO: missing ), unterminated subpattern at position 579 (line 4, column 5)
+2021-03-08 18:34:00,795 currency.py[line:764] INFO: missing ), unterminated subpattern at position 578 (line 4, column 5)
+2021-03-09 18:36:12,365 currency.py[line:767] INFO: missing ), unterminated subpattern at position 578 (line 4, column 5)
+2021-03-09 18:38:32,107 currency.py[line:767] INFO: missing ), unterminated subpattern at position 578 (line 4, column 5)
+2021-03-10 18:54:03,140 currency.py[line:767] INFO: missing ), unterminated subpattern at position 579 (line 4, column 5)
+2021-03-10 18:57:09,542 currency.py[line:767] INFO: missing ), unterminated subpattern at position 578 (line 4, column 5)
+2021-03-11 18:33:01,585 currency.py[line:767] INFO: missing ), unterminated subpattern at position 579 (line 4, column 5)
+2021-03-11 18:35:43,661 currency.py[line:767] INFO: missing ), unterminated subpattern at position 578 (line 4, column 5)
+2021-03-12 21:11:39,954 currency.py[line:767] INFO: missing ), unterminated subpattern at position 578 (line 4, column 5)
+2021-03-12 21:14:15,106 currency.py[line:767] INFO: missing ), unterminated subpattern at position 298 (line 9, column 57)
+2021-03-14 13:55:57,985 currency.py[line:767] INFO: missing ), unterminated subpattern at position 579 (line 4, column 5)
+2021-03-14 13:58:43,898 currency.py[line:767] INFO: missing ), unterminated subpattern at position 298 (line 9, column 57)

@@ -1,0 +1,57 @@
+{
+  "url_config": {
+    "source": "https://www.cnmn.com.cn/",
+    "domain": "www.cnmn.com.cn",
+    "turn_page": {
+      "mark": "&pageindex",
+      "type": "",
+      "symbol": "=",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "重点新闻",
+        "xpath": {
+          "id": "tab11-1",
+          "class": "",
+          "node": "h4"
+        }
+      },
+      {
+        "rex": "政策法规",
+        "xpath": {
+          "id": "tab11-1",
+          "class": "",
+          "node": "h4"
+        }
+      },
+      {
+        "rex": "专题",
+        "xpath": {
+          "id": "tab11-1",
+          "class": "",
+          "node": "h4"
+        }
+      },
+      {
+        "rex": "公告",
+        "xpath": {
+          "id": "tab11-1",
+          "class": "",
+          "node": "h4"
+        }
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
+

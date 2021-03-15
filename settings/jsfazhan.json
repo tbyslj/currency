@@ -1,0 +1,80 @@
+{
+  "url_config": {
+    "source": "http://www.jsfazhan.com/",
+    "domain": "www.jsfazhan.com",
+    "turn_page": {
+      "mark": "",
+      "type": "html",
+      "symbol": "",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "热点",
+        "xpath": {
+          "id": "",
+          "class": "chunlist",
+          "node": ""
+        }
+      },
+      {
+        "rex": "行业",
+        "xpath": {
+          "id": "",
+          "class": "chunlist",
+          "node": ""
+        }
+      },
+      {
+        "rex": "投资",
+        "xpath": {
+          "id": "",
+          "class": "chunlist",
+          "node": ""
+        }
+      },
+      {
+        "rex": "科技",
+        "xpath": {
+          "id": "",
+          "class": "chunlist",
+          "node": ""
+        }
+      },
+      {
+        "rex": "快讯",
+        "xpath": {
+          "id": "",
+          "class": "chunlist",
+          "node": ""
+        }
+      },
+      {
+        "rex": "故事",
+        "xpath": {
+          "id": "",
+          "class": "chunlist",
+          "node": ""
+        }
+      },
+      {
+        "rex": "文学",
+        "xpath": {
+          "id": "",
+          "class": "chunlist",
+          "node": ""
+        }
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "html",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url_config": {
+    "source": "http://www.zys.moa.gov.cn/",
+    "domain": "www.zys.moa.gov.cn",
+    "turn_page": {
+      "mark": "index",
+      "type": "htm",
+      "symbol": "_",
+      "confirm": 0,
+      "start": 1,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "²¿Ë¾¶¯Ì¬",
+        "xpath": {
+          "id": "div",
+          "class": "",
+          "node": ""
+        }
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
+

@@ -1,0 +1,59 @@
+{
+  "url_config": {
+    "source": "http://www.clzt.com/",
+    "domain": "www.clzt.com",
+    "turn_page": {
+      "mark": "",
+      "type": "html",
+      "symbol": "",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "新闻中心",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "公司要闻",
+            "xpath": {
+              "id": "",
+              "class": "newsList",
+              "node": ""
+            }
+          },
+          {
+            "rex": "图片报道",
+            "xpath": {
+              "id": "",
+              "class": "sale ml",
+              "node": "ul"
+            }
+          },
+          {
+            "rex": "车间动态",
+            "xpath": {
+              "id": "",
+              "class": "newsList",
+              "node": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "html",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
+

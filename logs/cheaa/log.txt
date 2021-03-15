@@ -1,0 +1,455 @@
+2021-02-19 18:07:29,791 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-19 18:08:41,379 currency.py[line:677] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-02-19 18:08:41,385 currency.py[line:757] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-02-19 18:09:12,498 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-19 18:09:53,884 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-19 18:11:39,427 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-19 18:12:18,558 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-19 18:12:53,164 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-19 18:13:29,842 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-19 18:14:38,326 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-19 18:15:42,371 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-19 18:17:02,880 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-19 18:17:25,903 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-19 18:18:04,224 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-19 18:19:09,389 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-19 18:20:15,000 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-19 18:20:15,946 currency.py[line:677] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-02-19 18:20:15,947 currency.py[line:757] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-02-20 18:34:59,696 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-20 18:35:33,930 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out. (read timeout=20)
+2021-02-20 18:36:00,480 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-20 18:36:28,683 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-20 18:37:02,469 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-20 18:37:38,642 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-20 18:38:01,708 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-20 18:38:38,803 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-20 18:39:28,707 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-20 18:39:54,970 currency.py[line:656] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-02-20 18:39:54,975 currency.py[line:736] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-02-20 18:40:25,798 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-20 18:40:48,664 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-20 18:43:34,372 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-20 18:44:14,790 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-20 18:46:08,379 currency.py[line:656] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-02-20 18:46:08,381 currency.py[line:736] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-02-22 10:07:35,802 currency.py[line:656] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-02-22 10:07:35,808 currency.py[line:736] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-02-22 10:10:43,356 currency.py[line:656] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-02-22 10:10:43,362 currency.py[line:736] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-02-23 15:38:06,492 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-23 15:38:48,707 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-23 15:40:53,772 currency.py[line:656] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-02-23 15:40:53,815 currency.py[line:736] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-02-23 15:47:42,601 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-23 15:48:42,735 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-23 15:49:57,187 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-23 15:50:49,878 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-23 15:51:20,723 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-23 15:51:36,212 currency.py[line:656] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-02-23 15:51:36,214 currency.py[line:736] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-02-25 18:00:43,792 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:01:18,275 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:02:17,120 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:02:44,827 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:03:25,912 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:04:26,494 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:05:07,394 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:06:06,971 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:06:36,204 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:07:29,698 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:08:03,374 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:09:04,328 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:09:57,898 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:10:22,518 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:10:50,700 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:11:25,144 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:11:27,740 currency.py[line:668] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-02-25 18:11:27,778 currency.py[line:748] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-02-25 18:12:29,282 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:12:51,567 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:13:11,884 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out. (read timeout=20)
+2021-02-25 18:13:59,038 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:14:52,223 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:15:29,245 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:15:59,295 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:16:48,972 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:17:14,011 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out. (read timeout=20)
+2021-02-25 18:17:43,614 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:18:28,356 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:19:19,414 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:19:50,933 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:20:26,077 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:20:55,833 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:21:25,566 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:21:50,639 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:22:16,390 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:22:55,719 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:23:37,856 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out. (read timeout=20)
+2021-02-25 18:24:06,048 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:24:39,893 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:25:14,638 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:25:53,577 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:26:18,155 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:26:43,870 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:27:28,330 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:28:24,371 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:28:49,720 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:30:44,397 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:31:09,737 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:31:34,932 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:32:20,174 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:33:02,834 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:33:32,307 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:34:31,098 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:35:10,845 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:35:33,771 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:36:04,349 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:36:54,877 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:37:17,226 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-25 18:37:18,694 currency.py[line:668] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-02-25 18:37:18,695 currency.py[line:748] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-02-25 18:37:39,867 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-26 18:32:28,484 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-26 18:33:35,695 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-26 18:34:36,156 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-26 18:35:45,173 currency.py[line:668] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-02-26 18:35:45,200 currency.py[line:748] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-02-26 18:35:52,965 currency.py[line:668] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-02-26 18:35:53,259 currency.py[line:748] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-02-26 18:36:43,774 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-26 18:37:10,174 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-26 18:38:49,783 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-26 18:39:58,424 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-26 18:40:43,751 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-26 18:41:22,934 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-26 18:41:48,665 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-26 18:42:12,747 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-26 18:43:19,868 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-26 18:44:00,659 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-26 18:45:04,453 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-26 18:46:17,455 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-26 18:48:03,225 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-26 18:48:32,409 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-26 18:49:42,966 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-26 18:50:18,701 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-26 18:51:18,280 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-26 18:51:53,288 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-26 18:52:46,490 currency.py[line:668] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-02-26 18:52:46,494 currency.py[line:748] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-02-27 18:51:26,334 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 18:52:04,928 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 18:53:02,484 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 18:53:56,006 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 18:54:29,320 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out. (read timeout=20)
+2021-02-27 18:54:30,012 currency.py[line:668] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-02-27 18:54:30,176 currency.py[line:748] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-02-27 18:54:47,940 currency.py[line:668] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-02-27 18:54:48,017 currency.py[line:748] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-02-27 18:55:12,836 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 18:56:01,156 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 18:56:26,368 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 18:58:02,297 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 18:59:29,796 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 18:59:54,612 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 19:00:15,852 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 19:01:28,619 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 19:02:34,190 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 19:03:23,170 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 19:04:29,374 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 19:04:54,980 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 19:05:22,801 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out. (read timeout=20)
+2021-02-27 19:06:07,416 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 19:07:11,936 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 19:08:38,315 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 19:09:33,231 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 19:09:55,110 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 19:10:45,724 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 19:11:20,821 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 19:11:54,128 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 19:14:01,595 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 19:14:29,754 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 19:14:58,850 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 19:15:19,225 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 19:16:14,931 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 19:16:40,678 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 19:17:14,040 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-02-27 19:17:14,742 currency.py[line:668] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-02-27 19:17:14,745 currency.py[line:748] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-01 18:16:02,217 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-01 18:16:42,412 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-01 18:17:24,898 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-01 18:18:23,338 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-01 18:19:11,073 currency.py[line:674] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-01 18:19:11,110 currency.py[line:754] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-01 18:19:51,756 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-01 18:19:58,217 currency.py[line:674] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-01 18:19:58,329 currency.py[line:754] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-01 18:20:44,473 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-01 18:21:27,336 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-01 18:21:51,019 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-01 18:22:58,408 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-01 18:24:44,459 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-01 18:26:14,180 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-01 18:27:18,450 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-01 18:28:32,359 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-01 18:29:06,607 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-01 18:29:31,148 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-01 18:30:12,863 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-01 18:31:25,644 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out. (read timeout=20)
+2021-03-01 18:32:43,717 currency.py[line:674] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-01 18:32:43,833 currency.py[line:754] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-02 18:37:09,151 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:37:51,536 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:38:43,823 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:39:05,430 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out. (read timeout=20)
+2021-03-02 18:39:51,232 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:40:38,003 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:41:56,115 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:42:42,353 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:43:53,030 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:44:59,265 currency.py[line:680] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-02 18:44:59,275 currency.py[line:760] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-02 18:45:22,914 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:45:59,568 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:46:24,311 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:46:27,480 currency.py[line:680] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-02 18:46:27,490 currency.py[line:760] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-02 18:46:57,170 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:47:35,940 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:47:57,091 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:49:31,938 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:49:57,275 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:50:24,028 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:51:20,549 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:52:27,323 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:53:40,815 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:55:26,578 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:55:56,986 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:58:24,731 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:58:51,571 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 18:59:21,353 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 19:00:05,932 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 19:00:50,426 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 19:01:14,308 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 19:01:40,757 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 19:02:46,996 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 19:03:20,985 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 19:03:47,132 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 19:04:21,193 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 19:04:45,087 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-02 19:04:47,314 currency.py[line:680] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-02 19:04:47,472 currency.py[line:760] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-03 18:12:25,677 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-03 18:13:24,370 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-03 18:13:46,753 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-03 18:15:25,690 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-03 18:15:50,846 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-03 18:16:48,101 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-03 18:17:33,947 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out. (read timeout=20)
+2021-03-03 18:18:21,613 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-03 18:18:55,632 currency.py[line:680] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-03 18:18:55,783 currency.py[line:760] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-03 18:19:03,551 currency.py[line:680] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-03 18:19:03,624 currency.py[line:760] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-03 18:19:46,871 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-03 18:21:27,598 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-03 18:22:01,860 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-03 18:23:14,628 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-03 18:24:30,203 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-03 18:25:20,557 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-03 18:26:27,648 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-03 18:27:07,184 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-03 18:28:01,449 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-03 18:32:13,338 currency.py[line:680] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-03 18:32:13,388 currency.py[line:760] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-04 18:37:40,197 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-04 18:38:56,606 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-04 18:39:30,778 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-04 18:41:32,984 currency.py[line:682] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-04 18:41:33,055 currency.py[line:762] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-04 18:41:41,611 currency.py[line:682] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-04 18:41:41,712 currency.py[line:762] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-04 18:42:31,912 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-04 18:43:01,644 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-04 18:44:58,994 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-04 18:47:22,002 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-04 18:48:38,172 currency.py[line:682] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-04 18:48:38,467 currency.py[line:762] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-05 18:22:16,392 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-05 18:23:12,741 currency.py[line:684] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-05 18:23:12,956 currency.py[line:764] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-05 18:23:24,052 currency.py[line:684] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-05 18:23:24,157 currency.py[line:764] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-05 18:24:09,802 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-05 18:25:34,487 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-05 18:26:18,541 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-05 18:29:45,168 currency.py[line:684] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-05 18:29:45,323 currency.py[line:764] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-06 22:53:24,314 currency.py[line:684] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-06 22:53:24,396 currency.py[line:764] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-06 22:53:33,416 currency.py[line:684] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-06 22:53:33,529 currency.py[line:764] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-06 22:58:32,068 currency.py[line:684] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-06 22:58:32,133 currency.py[line:764] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-07 18:14:14,279 currency.py[line:684] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-07 18:14:14,345 currency.py[line:764] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-07 18:14:22,552 currency.py[line:684] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-07 18:14:22,604 currency.py[line:764] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-07 18:16:20,611 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-07 18:17:58,042 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-07 18:18:57,074 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-07 18:19:07,067 http_request.py[line:66] ERROR: [2/3] ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2021-03-07 18:20:36,134 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-07 18:21:33,505 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-07 18:22:01,274 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-07 18:23:20,099 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-07 18:24:00,268 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-07 18:24:42,730 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-07 18:25:23,668 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-07 18:26:19,036 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-07 18:26:41,711 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-07 18:27:11,178 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-07 18:27:41,413 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-07 18:28:23,369 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-07 18:29:11,373 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-07 18:29:15,473 currency.py[line:684] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-07 18:29:15,541 currency.py[line:764] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-08 18:14:52,836 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-08 18:15:47,850 currency.py[line:684] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-08 18:15:47,888 currency.py[line:764] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-08 18:15:57,648 currency.py[line:684] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-08 18:15:57,678 currency.py[line:764] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-08 18:18:26,976 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0525/574339.shtml
+2021-03-08 18:18:27,006 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0525/574339.shtml
+2021-03-08 18:18:27,030 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0525/574339.shtml
+2021-03-08 18:18:27,055 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:19:20,330 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/1221/584539.shtml
+2021-03-08 18:19:20,353 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/1221/584539.shtml
+2021-03-08 18:19:20,374 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/1221/584539.shtml
+2021-03-08 18:19:20,375 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:20:32,168 currency.py[line:684] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-08 18:20:32,247 currency.py[line:764] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-09 18:15:42,742 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2018/0207/528098.shtml
+2021-03-09 18:15:42,836 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2018/0207/528098.shtml
+2021-03-09 18:15:42,937 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2018/0207/528098.shtml
+2021-03-09 18:15:42,947 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:17:04,817 currency.py[line:687] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-09 18:17:04,875 currency.py[line:767] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-09 18:17:14,627 currency.py[line:687] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-09 18:17:14,799 currency.py[line:767] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-09 18:18:38,773 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0429/572789.shtml
+2021-03-09 18:18:38,860 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0429/572789.shtml
+2021-03-09 18:18:38,936 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0429/572789.shtml
+2021-03-09 18:18:38,937 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:18:40,385 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0330/571048.shtml
+2021-03-09 18:18:40,459 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0330/571048.shtml
+2021-03-09 18:18:40,531 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0330/571048.shtml
+2021-03-09 18:18:40,567 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:18:59,121 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0312/570208.shtml
+2021-03-09 18:18:59,191 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0312/570208.shtml
+2021-03-09 18:18:59,268 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0312/570208.shtml
+2021-03-09 18:18:59,292 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:20:16,566 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/1221/584539.shtml
+2021-03-09 18:20:16,698 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/1221/584539.shtml
+2021-03-09 18:20:16,719 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/1221/584539.shtml
+2021-03-09 18:20:16,722 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:21:04,123 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0518/573754.shtml
+2021-03-09 18:21:04,160 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0518/573754.shtml
+2021-03-09 18:21:04,195 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0518/573754.shtml
+2021-03-09 18:21:04,213 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:21:33,032 currency.py[line:687] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-09 18:21:33,153 currency.py[line:767] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-10 18:28:55,144 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-10 18:29:22,776 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2018/0207/528098.shtml
+2021-03-10 18:29:22,838 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2018/0207/528098.shtml
+2021-03-10 18:29:22,912 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2018/0207/528098.shtml
+2021-03-10 18:29:22,966 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 18:31:21,980 currency.py[line:687] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-10 18:31:22,188 currency.py[line:767] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-10 18:31:31,986 currency.py[line:687] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-10 18:31:32,008 currency.py[line:767] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-10 18:33:08,499 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0429/572789.shtml
+2021-03-10 18:33:08,525 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0429/572789.shtml
+2021-03-10 18:33:08,561 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0429/572789.shtml
+2021-03-10 18:33:08,575 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 18:33:10,165 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0330/571048.shtml
+2021-03-10 18:33:10,188 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0330/571048.shtml
+2021-03-10 18:33:10,238 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0330/571048.shtml
+2021-03-10 18:33:10,240 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 18:33:33,518 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0312/570208.shtml
+2021-03-10 18:33:33,564 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0312/570208.shtml
+2021-03-10 18:33:33,618 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0312/570208.shtml
+2021-03-10 18:33:33,618 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 18:36:30,889 currency.py[line:687] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-10 18:36:31,027 currency.py[line:767] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-11 18:09:14,037 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2018/0207/528098.shtml
+2021-03-11 18:09:14,114 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2018/0207/528098.shtml
+2021-03-11 18:09:14,160 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2018/0207/528098.shtml
+2021-03-11 18:09:14,174 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:10:49,736 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-11 18:11:29,957 currency.py[line:687] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-11 18:11:30,068 currency.py[line:767] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-11 18:12:03,048 currency.py[line:687] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-11 18:12:03,618 currency.py[line:767] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-11 18:14:08,414 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0429/572789.shtml
+2021-03-11 18:14:08,457 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0429/572789.shtml
+2021-03-11 18:14:08,579 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0429/572789.shtml
+2021-03-11 18:14:08,623 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:14:10,590 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0330/571048.shtml
+2021-03-11 18:14:10,626 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0330/571048.shtml
+2021-03-11 18:14:10,677 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0330/571048.shtml
+2021-03-11 18:14:10,758 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:14:49,411 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-11 18:15:06,571 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0312/570208.shtml
+2021-03-11 18:15:06,689 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0312/570208.shtml
+2021-03-11 18:15:06,858 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0312/570208.shtml
+2021-03-11 18:15:06,888 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:20:22,977 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-11 18:21:21,243 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cheaa.com', port=80): Read timed out.
+2021-03-11 18:21:31,689 currency.py[line:687] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-11 18:21:31,776 currency.py[line:767] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-12 20:44:21,937 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2018/0207/528098.shtml
+2021-03-12 20:44:22,018 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2018/0207/528098.shtml
+2021-03-12 20:44:22,095 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2018/0207/528098.shtml
+2021-03-12 20:44:22,152 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 20:46:16,096 currency.py[line:687] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-12 20:46:16,106 currency.py[line:767] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-12 20:46:30,203 currency.py[line:687] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-12 20:46:30,285 currency.py[line:767] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-12 20:48:25,442 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0429/572789.shtml
+2021-03-12 20:48:25,517 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0429/572789.shtml
+2021-03-12 20:48:25,587 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0429/572789.shtml
+2021-03-12 20:48:25,634 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 20:48:31,948 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0330/571048.shtml
+2021-03-12 20:48:32,015 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0330/571048.shtml
+2021-03-12 20:48:32,137 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0330/571048.shtml
+2021-03-12 20:48:32,238 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 20:48:56,252 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0312/570208.shtml
+2021-03-12 20:48:56,424 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0312/570208.shtml
+2021-03-12 20:48:56,490 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0312/570208.shtml
+2021-03-12 20:48:56,508 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 20:52:10,050 currency.py[line:687] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-12 20:52:10,088 currency.py[line:767] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-14 13:32:50,448 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2018/0207/528098.shtml
+2021-03-14 13:32:50,492 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2018/0207/528098.shtml
+2021-03-14 13:32:50,530 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2018/0207/528098.shtml
+2021-03-14 13:32:50,605 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 13:34:42,918 currency.py[line:687] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-14 13:34:43,005 currency.py[line:767] INFO: missing ), unterminated subpattern at position 2098 (line 16, column 51)
+2021-03-14 13:34:57,004 currency.py[line:687] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-14 13:34:57,038 currency.py[line:767] INFO: multiple repeat at position 2212 (line 14, column 10)
+2021-03-14 13:36:45,485 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0429/572789.shtml
+2021-03-14 13:36:45,557 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0429/572789.shtml
+2021-03-14 13:36:45,593 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0429/572789.shtml
+2021-03-14 13:36:45,614 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 13:36:47,659 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0330/571048.shtml
+2021-03-14 13:36:47,736 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0330/571048.shtml
+2021-03-14 13:36:47,774 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0330/571048.shtml
+2021-03-14 13:36:47,796 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 13:37:10,159 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0312/570208.shtml
+2021-03-14 13:37:10,181 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0312/570208.shtml
+2021-03-14 13:37:10,213 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cheaa.com/2020/0312/570208.shtml
+2021-03-14 13:37:10,215 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 13:40:22,239 currency.py[line:687] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)
+2021-03-14 13:40:22,267 currency.py[line:767] INFO: missing ), unterminated subpattern at position 346 (line 5, column 113)

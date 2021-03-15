@@ -1,0 +1,33 @@
+{
+  "url_config": {
+    "source": "http://www.qdtent.com/",
+    "domain": "www.qdtent.com",
+    "turn_page": {
+      "mark": "News1",
+      "type": "html",
+      "symbol": "_",
+      "confirm": 1,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "新闻中心",
+        "xpath": {
+          "id": "",
+          "class": "infro",
+          "node": "ul"
+        }
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "html",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
+

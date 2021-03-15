@@ -1,0 +1,74 @@
+{
+  "url_config": {
+    "source": "http://www.samr.gov.cn/",
+    "domain": "www.samr.gov.cn",
+    "turn_page": {
+      "mark": "index",
+      "type": "html",
+      "symbol": "_",
+      "confirm": 0,
+      "start": 1,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "新闻",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "时政要闻",
+            "xpath": {
+              "id": "",
+              "class": "Three_zhnlist_02",
+              "node": ""
+            }
+          },
+          {
+            "rex": "总局",
+            "xpath": {
+              "id": "",
+              "class": "Three_zhnlist_02",
+              "node": ""
+            }
+          },
+          {
+            "rex": "司局",
+            "xpath": {
+              "id": "",
+              "class": "Three_zhnlist_02",
+              "node": ""
+            }
+          },
+          {
+            "rex": "地方",
+            "xpath": {
+              "id": "",
+              "class": "Three_zhnlist_02",
+              "node": ""
+            }
+          },
+          {
+            "rex": "媒体聚焦",
+            "xpath": {
+              "id": "",
+              "class": "Three_zhnlist_02",
+              "node": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}

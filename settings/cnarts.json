@@ -1,0 +1,58 @@
+{
+  "url_config": {
+    "source": "http://www.cnarts.net.cn/cweb/index.asp",
+    "domain": "www.cnarts.net.cn",
+    "turn_page": {
+      "mark": "&querydate=&title=&page",
+      "type": "",
+      "symbol": "=",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "艺术新闻",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "艺术传真",
+            "xpath": {
+              "id": "",
+              "class": "list_in_er",
+              "node": ""
+            }
+          },
+          {
+            "rex": "展览资讯",
+            "xpath": {
+              "id": "",
+              "class": "list_in_er",
+              "node": ""
+            }
+          },
+          {
+            "rex": "集藏信息",
+            "xpath": {
+              "id": "",
+              "class": "list_in_er",
+              "node": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}

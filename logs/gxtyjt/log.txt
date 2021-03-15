@@ -1,0 +1,23 @@
+2021-03-09 18:30:31,227 currency.py[line:687] INFO: missing ), unterminated subpattern at position 916
+2021-03-09 18:30:31,253 currency.py[line:767] INFO: missing ), unterminated subpattern at position 916
+2021-03-09 18:30:55,836 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1054
+2021-03-09 18:30:55,841 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1054
+2021-03-10 18:46:33,180 currency.py[line:687] INFO: missing ), unterminated subpattern at position 916
+2021-03-10 18:46:33,328 currency.py[line:767] INFO: missing ), unterminated subpattern at position 916
+2021-03-10 18:47:06,345 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1054
+2021-03-10 18:47:06,463 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1054
+2021-03-11 18:26:47,187 currency.py[line:687] INFO: missing ), unterminated subpattern at position 916
+2021-03-11 18:26:47,325 currency.py[line:767] INFO: missing ), unterminated subpattern at position 916
+2021-03-11 18:27:20,123 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1054
+2021-03-11 18:27:20,180 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1054
+2021-03-12 21:02:38,589 currency.py[line:687] INFO: missing ), unterminated subpattern at position 916
+2021-03-12 21:02:38,619 currency.py[line:767] INFO: missing ), unterminated subpattern at position 916
+2021-03-12 21:03:20,767 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1054
+2021-03-12 21:03:20,917 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1054
+2021-03-14 13:48:27,561 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.gxtyjt.com.cn', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002AD5ECDD288>, 'Connection to www.gxtyjt.com.cn timed out. (connect timeout=20)'))
+2021-03-14 13:48:47,680 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.gxtyjt.com.cn', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002AD5ED135C8>, 'Connection to www.gxtyjt.com.cn timed out. (connect timeout=20)'))
+2021-03-14 13:49:07,699 http_request.py[line:66] ERROR: [3/3] HTTPConnectionPool(host='www.gxtyjt.com.cn', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002AD5DB45848>, 'Connection to www.gxtyjt.com.cn timed out. (connect timeout=20)'))
+2021-03-14 13:49:07,725 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 13:49:07,771 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-14 13:49:07,826 currency.py[line:97] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:07,839 currency.py[line:175] INFO: can only concatenate list (not "NoneType") to list

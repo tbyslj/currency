@@ -1,0 +1,33 @@
+{
+  "url_config": {
+    "source": "http://www.easugar.com/",
+    "domain": "www.easugar.com",
+    "turn_page": {
+      "mark": "?p",
+      "type": "",
+      "symbol": "=",
+      "confirm": 0,
+      "start": 2,
+      "page": 5
+    },
+    "classify": [
+      {
+        "rex": "集团新闻",
+        "xpath": {
+          "id": "",
+          "class": "pt30",
+          "node": ""
+        }
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
+

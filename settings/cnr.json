@@ -1,0 +1,100 @@
+{
+  "url_config": {
+    "source": "http://www.cnr.cn/",
+    "domain": "cnr.cn",
+    "turn_page": {
+      "mark": "index",
+      "type": ".html",
+      "symbol": "_",
+      "confirm": 0,
+      "start": 1,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "军事",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "中国军情",
+            "xpath": {
+              "id": "",
+              "class": "left",
+              "node": "ul"
+            }
+          },
+          {
+            "rex": "国际军事",
+            "xpath": {
+              "id": "container",
+              "class": "",
+              "node": ""
+            }
+          }
+        ]
+      },
+      {
+        "rex": "财经",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "财经数评",
+            "xpath": {
+              "id": "",
+              "class": "articleList",
+              "node": ""
+            }
+          },
+          {
+            "rex": "金融理财",
+            "xpath": {
+              "id": "",
+              "class": "articleList",
+              "node": ""
+            }
+          },
+          {
+            "rex": "证券市场",
+            "xpath": {
+              "id": "",
+              "class": "articleList",
+              "node": ""
+            }
+          },
+          {
+            "rex": "产品经济",
+            "xpath": {
+              "id": "",
+              "class": "articleList",
+              "node": ""
+            }
+          },
+          {
+            "rex": "天下财经",
+            "xpath": {
+              "id": "",
+              "class": "articleList",
+              "node": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}

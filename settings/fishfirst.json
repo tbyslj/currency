@@ -1,0 +1,66 @@
+{
+  "url_config": {
+    "source": "http://www.fishfirst.cn/",
+    "domain": "www.fishfirst.cn",
+    "turn_page": {
+      "mark": "&page",
+      "type": "",
+      "symbol": "=",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "新闻中心",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "独家新闻",
+            "xpath": {
+              "id": "",
+              "class": "bbda cl",
+              "node": ""
+            }
+          },
+          {
+            "rex": "市场趋势",
+            "xpath": {
+              "id": "",
+              "class": "piclist_lynn",
+              "node": ""
+            }
+          },
+          {
+            "rex": "会议展览",
+            "xpath": {
+              "id": "",
+              "class": "bbda cl",
+              "node": ""
+            }
+          },
+          {
+            "rex": "企业热点",
+            "xpath": {
+              "id": "",
+              "class": "bbda cl",
+              "node": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "html",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}

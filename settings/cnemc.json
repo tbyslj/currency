@@ -1,0 +1,75 @@
+{
+  "url_config": {
+    "source": "http://www.cnemc.cn/",
+    "domain": "www.cnemc.cn",
+    "turn_page": {
+      "mark": "index",
+      "type": "shtml",
+      "symbol": "_",
+      "confirm": 0,
+      "start": 1,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "工作动态",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "文件通知",
+            "xpath": {
+              "id": "contentPageData",
+              "class": "",
+              "node": ""
+            }
+          },
+          {
+            "rex": "地方信息",
+            "xpath": {
+              "id": "contentPageData",
+              "class": "",
+              "node": ""
+            }
+          },
+          {
+            "rex": "监测培训",
+            "xpath": {
+              "id": "contentPageData",
+              "class": "",
+              "node": ""
+            }
+          },
+          {
+            "rex": "会议信息",
+            "xpath": {
+              "id": "contentPageData",
+              "class": "",
+              "node": ""
+            }
+          },
+          {
+            "rex": "国际合作",
+            "xpath": {
+              "id": "contentPageData",
+              "class": "",
+              "node": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
+

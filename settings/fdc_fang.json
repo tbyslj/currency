@@ -1,0 +1,66 @@
+{
+  "url_config": {
+    "source": "https://fdc.fang.com/",
+    "domain": "fdc.fang.com",
+    "turn_page": {
+      "mark": "",
+      "type": "html",
+      "symbol": "",
+      "confirm": 1,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "产业资讯",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "宏观经济",
+            "xpath": {
+              "id": "divlist1",
+              "class": "",
+              "node": "ul"
+            }
+          },
+          {
+            "rex": "政策解读",
+            "xpath": {
+              "id": "divlist1",
+              "class": "",
+              "node": "ul"
+            }
+          },
+          {
+            "rex": "中指研究",
+            "xpath": {
+              "id": "divlist1",
+              "class": "",
+              "node": "ul"
+            }
+          },
+          {
+            "rex": "行业活动",
+            "xpath": {
+              "id": "divlist1",
+              "class": "",
+              "node": "ul"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "htm",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "url_config": {
+    "source": "https://www.hbzhan.com/",
+    "domain": "www.hbzhan.com",
+    "turn_page": {
+      "mark": "",
+      "type": "html",
+      "symbol": "_p",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "资讯",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "行业动态",
+            "xpath": {
+              "id": "",
+              "class": "leftBox",
+              "node": "h3"
+            }
+          },
+          {
+            "rex": "市场行情",
+            "xpath": {
+              "id": "",
+              "class": "leftBox",
+              "node": "h3"
+            }
+          },
+          {
+            "rex": "政策法规",
+            "xpath": {
+              "id": "",
+              "class": "leftBox",
+              "node": "h3"
+            }
+          },
+          {
+            "rex": "地方新闻",
+            "xpath": {
+              "id": "",
+              "class": "leftBox",
+              "node": "h3"
+            }
+          },
+          {
+            "rex": "环境监测",
+            "xpath": {
+              "id": "",
+              "class": "leftBox",
+              "node": "h3"
+            }
+          },
+          {
+            "rex": "清洁能源",
+            "xpath": {
+              "id": "",
+              "class": "leftBox",
+              "node": "h3"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "html",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}

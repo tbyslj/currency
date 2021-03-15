@@ -1,0 +1,128 @@
+{
+  "url_config": {
+    "source": "http://www.ce.cn/",
+    "domain": "ce.cn",
+    "turn_page": {
+      "mark": "index",
+      "type": "shtml",
+      "symbol": "_",
+      "confirm": 0,
+      "start": 1,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "金融证券",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "股票",
+            "xpath": {
+              "id": "",
+              "class": "",
+              "node": ""
+            },
+            "classify": [
+              {
+                "rex": "大势研判",
+                "xpath": {
+                  "id": "",
+                  "class": "font14",
+                  "node": ""
+                }
+              },
+              {
+                "rex": "行业新闻",
+                "xpath": {
+                  "id": "",
+                  "class": "font14",
+                  "node": ""
+                }
+              },
+              {
+                "rex": "公司聚焦",
+                "xpath": {
+                  "id": "",
+                  "class": "font14",
+                  "node": ""
+                }
+              }
+            ]
+          },
+          {
+            "rex": "期货",
+            "xpath": {
+              "id": "",
+              "class": "",
+              "node": ""
+            },
+            "classify": [
+              {
+                "rex": "资讯&公告",
+                "xpath": {
+                  "id": "",
+                  "class": "font14",
+                  "node": ""
+                }
+              },
+              {
+                "rex": "评论&研报",
+                "xpath": {
+                  "id": "",
+                  "class": "font14",
+                  "node": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rex": "时政社会",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "科教",
+            "xpath": {
+              "id": "",
+              "class": "sec_left",
+              "node": "ul"
+            }
+          },
+          {
+            "rex": "法制",
+            "xpath": {
+              "id": "",
+              "class": "sec_left",
+              "node": "ul"
+            }
+          },
+          {
+            "rex": "社会",
+            "xpath": {
+              "id": "",
+              "class": "sec_left",
+              "node": "ul"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "shtml",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}

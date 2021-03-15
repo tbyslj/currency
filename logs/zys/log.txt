@@ -1,0 +1,127 @@
+2021-02-19 20:48:28,563 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-02-19 20:48:28,658 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-02-19 20:48:28,740 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-02-19 20:48:28,741 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-19 20:48:33,059 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-02-19 20:48:33,156 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-02-19 20:48:33,248 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-02-19 20:48:33,249 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-19 20:48:34,915 currency.py[line:1107] INFO: 'NoneType' object is not subscriptable
+2021-02-20 21:52:12,394 currency.py[line:656] INFO: unbalanced parenthesis at position 53 (line 3, column 17)
+2021-02-20 21:52:12,404 currency.py[line:736] INFO: unbalanced parenthesis at position 53 (line 3, column 17)
+2021-02-20 21:52:42,863 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-02-20 21:52:42,954 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-02-20 21:52:43,028 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-02-20 21:52:43,029 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-20 21:52:47,511 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-02-20 21:52:47,610 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-02-20 21:52:47,692 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-02-20 21:52:47,693 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-22 13:08:04,328 currency.py[line:656] INFO: unbalanced parenthesis at position 53 (line 3, column 17)
+2021-02-22 13:08:04,330 currency.py[line:736] INFO: unbalanced parenthesis at position 53 (line 3, column 17)
+2021-02-22 13:08:33,066 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-02-22 13:08:33,154 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-02-22 13:08:33,235 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-02-22 13:08:33,236 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-22 13:08:37,455 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-02-22 13:08:37,536 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-02-22 13:08:37,625 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-02-22 13:08:37,625 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-23 16:12:57,487 currency.py[line:656] INFO: unbalanced parenthesis at position 53 (line 3, column 17)
+2021-02-23 16:12:57,762 currency.py[line:736] INFO: unbalanced parenthesis at position 53 (line 3, column 17)
+2021-02-23 16:13:48,428 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-02-23 16:13:48,505 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-02-23 16:13:48,591 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-02-23 16:13:48,591 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-23 16:13:58,128 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-02-23 16:13:58,215 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-02-23 16:13:58,299 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-02-23 16:13:58,300 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-25 18:22:41,526 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-02-25 18:22:41,644 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-02-25 18:22:41,736 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-02-25 18:22:41,757 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-25 18:22:47,079 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-02-25 18:22:47,151 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-02-25 18:22:47,237 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-02-25 18:22:47,257 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-26 18:50:26,190 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-02-26 18:50:26,273 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-02-26 18:50:26,384 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-02-26 18:50:26,424 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-26 18:50:32,479 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-02-26 18:50:32,571 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-02-26 18:50:32,688 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-02-26 18:50:32,734 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-27 19:10:15,495 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-02-27 19:10:15,579 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-02-27 19:10:15,684 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-02-27 19:10:15,741 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-27 19:10:21,962 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-02-27 19:10:22,050 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-02-27 19:10:22,124 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-02-27 19:10:22,134 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-01 18:37:41,036 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-01 18:37:41,157 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-01 18:37:41,247 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-01 18:37:41,293 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-01 18:37:48,135 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-01 18:37:48,239 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-01 18:37:48,357 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-01 18:37:48,412 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-02 19:02:52,759 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-02 19:02:52,900 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-02 19:02:53,008 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-02 19:02:53,037 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-02 19:02:58,857 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-02 19:02:58,962 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-02 19:02:59,145 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-02 19:02:59,155 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-03 18:37:24,982 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-03 18:37:25,096 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-03 18:37:25,228 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-03 18:37:25,268 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-03 18:37:31,232 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-03 18:37:31,332 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-03 18:37:31,440 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-03 18:37:31,465 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 19:10:35,532 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-04 19:10:35,618 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-04 19:10:35,693 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-04 19:10:35,707 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 19:10:41,616 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-04 19:10:41,697 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-04 19:10:41,781 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-04 19:10:41,795 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 23:19:54,233 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-06 23:19:54,307 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-06 23:19:54,430 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-06 23:19:54,458 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 23:20:00,194 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-06 23:20:00,277 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-06 23:20:00,411 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-06 23:20:00,453 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:45:25,232 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-07 18:45:25,368 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-07 18:45:25,458 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-07 18:45:25,486 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:45:31,663 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-07 18:45:31,751 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-07 18:45:31,875 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-07 18:45:32,085 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:40:46,327 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-08 18:40:46,437 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-08 18:40:46,588 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-08 18:40:46,688 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:40:53,326 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-08 18:40:53,429 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-08 18:40:53,535 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-08 18:40:53,582 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:51:07,894 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-09 18:51:07,985 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-09 18:51:08,280 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201712/t20171227_6313859.htm
+2021-03-09 18:51:08,304 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:51:13,962 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-09 18:51:14,060 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-09 18:51:14,143 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.zys.moa.gov.cn/zcwj/201904/t20190428_6245772.htm
+2021-03-09 18:51:14,183 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误

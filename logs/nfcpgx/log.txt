@@ -1,0 +1,250 @@
+2021-03-04 19:09:10,157 currency.py[line:682] INFO: missing ), unterminated subpattern at position 640
+2021-03-04 19:09:10,161 currency.py[line:762] INFO: missing ), unterminated subpattern at position 640
+2021-03-04 19:09:39,159 currency.py[line:682] INFO: missing ), unterminated subpattern at position 764
+2021-03-04 19:09:39,280 currency.py[line:762] INFO: missing ), unterminated subpattern at position 764
+2021-03-04 19:11:04,538 currency.py[line:682] INFO: nothing to repeat at position 2254
+2021-03-04 19:11:04,542 currency.py[line:762] INFO: nothing to repeat at position 2254
+2021-03-04 19:14:58,352 currency.py[line:682] INFO: nothing to repeat at position 921
+2021-03-04 19:14:58,354 currency.py[line:762] INFO: nothing to repeat at position 921
+2021-03-04 19:15:36,753 currency.py[line:682] INFO: nothing to repeat at position 0
+2021-03-04 19:15:36,754 currency.py[line:762] INFO: nothing to repeat at position 0
+2021-03-04 19:16:18,145 currency.py[line:682] INFO: multiple repeat at position 339
+2021-03-04 19:16:18,147 currency.py[line:762] INFO: multiple repeat at position 339
+2021-03-04 19:17:01,946 currency.py[line:682] INFO: nothing to repeat at position 851
+2021-03-04 19:17:01,947 currency.py[line:762] INFO: nothing to repeat at position 851
+2021-03-04 19:19:23,034 currency.py[line:682] INFO: nothing to repeat at position 226
+2021-03-04 19:19:23,035 currency.py[line:762] INFO: nothing to repeat at position 226
+2021-03-04 19:19:28,860 currency.py[line:682] INFO: bad character range 6-( at position 46 (line 2, column 42)
+2021-03-04 19:19:28,861 currency.py[line:762] INFO: bad character range 6-( at position 46 (line 2, column 42)
+2021-03-04 19:19:36,464 currency.py[line:682] INFO: nothing to repeat at position 777 (line 5, column 32)
+2021-03-04 19:19:36,466 currency.py[line:762] INFO: nothing to repeat at position 777 (line 5, column 32)
+2021-03-04 19:19:49,897 currency.py[line:682] INFO: nothing to repeat at position 191 (line 1, column 192)
+2021-03-04 19:19:49,898 currency.py[line:762] INFO: nothing to repeat at position 191 (line 1, column 192)
+2021-03-04 19:20:57,480 currency.py[line:682] INFO: nothing to repeat at position 726
+2021-03-04 19:20:57,481 currency.py[line:762] INFO: nothing to repeat at position 726
+2021-03-04 19:21:05,817 currency.py[line:682] INFO: nothing to repeat at position 1627
+2021-03-04 19:21:05,820 currency.py[line:762] INFO: nothing to repeat at position 1627
+2021-03-04 19:21:09,901 currency.py[line:682] INFO: nothing to repeat at position 2565
+2021-03-04 19:21:09,904 currency.py[line:762] INFO: nothing to repeat at position 2565
+2021-03-04 19:21:14,870 currency.py[line:682] INFO: unbalanced parenthesis at position 154
+2021-03-04 19:21:14,872 currency.py[line:762] INFO: unbalanced parenthesis at position 154
+2021-03-04 19:21:50,133 currency.py[line:682] INFO: multiple repeat at position 1624
+2021-03-04 19:21:50,135 currency.py[line:762] INFO: multiple repeat at position 1624
+2021-03-04 19:21:51,453 currency.py[line:682] INFO: multiple repeat at position 1538
+2021-03-04 19:21:51,455 currency.py[line:762] INFO: multiple repeat at position 1538
+2021-03-04 19:21:55,293 currency.py[line:682] INFO: nothing to repeat at position 1495
+2021-03-04 19:21:55,295 currency.py[line:762] INFO: nothing to repeat at position 1495
+2021-03-04 19:22:01,954 currency.py[line:682] INFO: multiple repeat at position 2210
+2021-03-04 19:22:01,956 currency.py[line:762] INFO: multiple repeat at position 2210
+2021-03-06 23:15:43,041 currency.py[line:684] INFO: missing ), unterminated subpattern at position 640
+2021-03-06 23:15:43,081 currency.py[line:764] INFO: missing ), unterminated subpattern at position 640
+2021-03-06 23:15:48,599 currency.py[line:684] INFO: missing ), unterminated subpattern at position 764
+2021-03-06 23:15:48,602 currency.py[line:764] INFO: missing ), unterminated subpattern at position 764
+2021-03-06 23:16:16,123 currency.py[line:684] INFO: nothing to repeat at position 2254
+2021-03-06 23:16:16,126 currency.py[line:764] INFO: nothing to repeat at position 2254
+2021-03-06 23:19:50,957 currency.py[line:684] INFO: nothing to repeat at position 921
+2021-03-06 23:19:50,966 currency.py[line:764] INFO: nothing to repeat at position 921
+2021-03-06 23:20:04,573 currency.py[line:684] INFO: nothing to repeat at position 0
+2021-03-06 23:20:04,578 currency.py[line:764] INFO: nothing to repeat at position 0
+2021-03-06 23:20:26,332 currency.py[line:684] INFO: multiple repeat at position 339
+2021-03-06 23:20:26,364 currency.py[line:764] INFO: multiple repeat at position 339
+2021-03-06 23:21:31,778 currency.py[line:684] INFO: nothing to repeat at position 851
+2021-03-06 23:21:31,950 currency.py[line:764] INFO: nothing to repeat at position 851
+2021-03-06 23:26:24,473 currency.py[line:684] INFO: nothing to repeat at position 226
+2021-03-06 23:26:24,476 currency.py[line:764] INFO: nothing to repeat at position 226
+2021-03-06 23:26:33,720 currency.py[line:684] INFO: bad character range 6-( at position 46 (line 2, column 42)
+2021-03-06 23:26:33,765 currency.py[line:764] INFO: bad character range 6-( at position 46 (line 2, column 42)
+2021-03-06 23:26:39,049 currency.py[line:684] INFO: nothing to repeat at position 777 (line 5, column 32)
+2021-03-06 23:26:39,079 currency.py[line:764] INFO: nothing to repeat at position 777 (line 5, column 32)
+2021-03-06 23:26:52,795 currency.py[line:684] INFO: nothing to repeat at position 191 (line 1, column 192)
+2021-03-06 23:26:52,798 currency.py[line:764] INFO: nothing to repeat at position 191 (line 1, column 192)
+2021-03-06 23:29:27,900 currency.py[line:684] INFO: nothing to repeat at position 726
+2021-03-06 23:29:27,901 currency.py[line:764] INFO: nothing to repeat at position 726
+2021-03-06 23:29:36,280 currency.py[line:684] INFO: nothing to repeat at position 1627
+2021-03-06 23:29:36,282 currency.py[line:764] INFO: nothing to repeat at position 1627
+2021-03-06 23:29:43,001 currency.py[line:684] INFO: unbalanced parenthesis at position 154
+2021-03-06 23:29:43,004 currency.py[line:764] INFO: unbalanced parenthesis at position 154
+2021-03-06 23:29:45,302 currency.py[line:684] INFO: nothing to repeat at position 2565
+2021-03-06 23:29:45,305 currency.py[line:764] INFO: nothing to repeat at position 2565
+2021-03-06 23:30:35,348 currency.py[line:684] INFO: nothing to repeat at position 1495
+2021-03-06 23:30:35,351 currency.py[line:764] INFO: nothing to repeat at position 1495
+2021-03-06 23:30:41,917 currency.py[line:684] INFO: multiple repeat at position 1538
+2021-03-06 23:30:41,919 currency.py[line:764] INFO: multiple repeat at position 1538
+2021-03-06 23:30:48,502 currency.py[line:684] INFO: multiple repeat at position 1624
+2021-03-06 23:30:48,504 currency.py[line:764] INFO: multiple repeat at position 1624
+2021-03-06 23:31:00,259 currency.py[line:684] INFO: multiple repeat at position 2210
+2021-03-06 23:31:00,263 currency.py[line:764] INFO: multiple repeat at position 2210
+2021-03-07 18:35:52,318 currency.py[line:684] INFO: missing ), unterminated subpattern at position 640
+2021-03-07 18:35:52,398 currency.py[line:764] INFO: missing ), unterminated subpattern at position 640
+2021-03-07 18:35:57,016 currency.py[line:684] INFO: missing ), unterminated subpattern at position 764
+2021-03-07 18:35:57,018 currency.py[line:764] INFO: missing ), unterminated subpattern at position 764
+2021-03-07 18:36:34,983 currency.py[line:684] INFO: nothing to repeat at position 2254
+2021-03-07 18:36:34,997 currency.py[line:764] INFO: nothing to repeat at position 2254
+2021-03-07 18:40:23,599 currency.py[line:684] INFO: nothing to repeat at position 921
+2021-03-07 18:40:23,711 currency.py[line:764] INFO: nothing to repeat at position 921
+2021-03-07 18:40:39,564 currency.py[line:684] INFO: nothing to repeat at position 0
+2021-03-07 18:40:39,573 currency.py[line:764] INFO: nothing to repeat at position 0
+2021-03-07 18:40:56,623 currency.py[line:684] INFO: multiple repeat at position 339
+2021-03-07 18:40:56,686 currency.py[line:764] INFO: multiple repeat at position 339
+2021-03-07 18:42:05,796 currency.py[line:684] INFO: nothing to repeat at position 851
+2021-03-07 18:42:05,872 currency.py[line:764] INFO: nothing to repeat at position 851
+2021-03-07 18:45:53,260 currency.py[line:684] INFO: nothing to repeat at position 226
+2021-03-07 18:45:53,416 currency.py[line:764] INFO: nothing to repeat at position 226
+2021-03-07 18:46:01,983 currency.py[line:684] INFO: bad character range 6-( at position 46 (line 2, column 42)
+2021-03-07 18:46:02,059 currency.py[line:764] INFO: bad character range 6-( at position 46 (line 2, column 42)
+2021-03-07 18:46:13,531 currency.py[line:684] INFO: nothing to repeat at position 777 (line 5, column 32)
+2021-03-07 18:46:13,533 currency.py[line:764] INFO: nothing to repeat at position 777 (line 5, column 32)
+2021-03-07 18:46:31,021 currency.py[line:684] INFO: nothing to repeat at position 191 (line 1, column 192)
+2021-03-07 18:46:31,039 currency.py[line:764] INFO: nothing to repeat at position 191 (line 1, column 192)
+2021-03-07 18:49:21,941 currency.py[line:684] INFO: nothing to repeat at position 726
+2021-03-07 18:49:21,945 currency.py[line:764] INFO: nothing to repeat at position 726
+2021-03-07 18:49:46,961 currency.py[line:684] INFO: nothing to repeat at position 1627
+2021-03-07 18:49:46,964 currency.py[line:764] INFO: nothing to repeat at position 1627
+2021-03-07 18:49:50,961 currency.py[line:684] INFO: unbalanced parenthesis at position 154
+2021-03-07 18:49:50,963 currency.py[line:764] INFO: unbalanced parenthesis at position 154
+2021-03-07 18:49:53,475 currency.py[line:684] INFO: nothing to repeat at position 2565
+2021-03-07 18:49:53,478 currency.py[line:764] INFO: nothing to repeat at position 2565
+2021-03-07 18:50:23,412 currency.py[line:684] INFO: multiple repeat at position 1538
+2021-03-07 18:50:23,414 currency.py[line:764] INFO: multiple repeat at position 1538
+2021-03-07 18:50:34,801 currency.py[line:684] INFO: multiple repeat at position 1624
+2021-03-07 18:50:34,806 currency.py[line:764] INFO: multiple repeat at position 1624
+2021-03-07 18:50:41,364 currency.py[line:684] INFO: nothing to repeat at position 1495
+2021-03-07 18:50:41,367 currency.py[line:764] INFO: nothing to repeat at position 1495
+2021-03-07 18:51:05,081 currency.py[line:684] INFO: multiple repeat at position 2210
+2021-03-07 18:51:05,090 currency.py[line:764] INFO: multiple repeat at position 2210
+2021-03-10 19:10:43,262 currency.py[line:687] INFO: missing ), unterminated subpattern at position 640
+2021-03-10 19:10:43,275 currency.py[line:767] INFO: missing ), unterminated subpattern at position 640
+2021-03-10 19:10:52,624 currency.py[line:687] INFO: missing ), unterminated subpattern at position 764
+2021-03-10 19:10:52,632 currency.py[line:767] INFO: missing ), unterminated subpattern at position 764
+2021-03-10 19:12:01,754 currency.py[line:687] INFO: nothing to repeat at position 2254
+2021-03-10 19:12:02,124 currency.py[line:767] INFO: nothing to repeat at position 2254
+2021-03-10 19:19:20,738 currency.py[line:687] INFO: nothing to repeat at position 450
+2021-03-10 19:19:20,765 currency.py[line:767] INFO: nothing to repeat at position 450
+2021-03-10 19:20:52,880 currency.py[line:687] INFO: unterminated character set at position 851
+2021-03-10 19:20:52,885 currency.py[line:767] INFO: unterminated character set at position 851
+2021-03-10 19:21:26,302 currency.py[line:687] INFO: nothing to repeat at position 748
+2021-03-10 19:21:26,303 currency.py[line:767] INFO: nothing to repeat at position 748
+2021-03-10 19:25:42,945 currency.py[line:687] INFO: nothing to repeat at position 226
+2021-03-10 19:25:42,946 currency.py[line:767] INFO: nothing to repeat at position 226
+2021-03-10 19:25:55,985 currency.py[line:687] INFO: bad character range 6-( at position 46 (line 2, column 42)
+2021-03-10 19:25:55,986 currency.py[line:767] INFO: bad character range 6-( at position 46 (line 2, column 42)
+2021-03-10 19:26:41,309 currency.py[line:687] INFO: nothing to repeat at position 777 (line 5, column 32)
+2021-03-10 19:26:41,311 currency.py[line:767] INFO: nothing to repeat at position 777 (line 5, column 32)
+2021-03-10 19:27:05,167 currency.py[line:687] INFO: nothing to repeat at position 191 (line 1, column 192)
+2021-03-10 19:27:05,168 currency.py[line:767] INFO: nothing to repeat at position 191 (line 1, column 192)
+2021-03-10 19:30:05,726 currency.py[line:687] INFO: nothing to repeat at position 726
+2021-03-10 19:30:05,727 currency.py[line:767] INFO: nothing to repeat at position 726
+2021-03-10 19:30:06,369 currency.py[line:687] INFO: nothing to repeat at position 1627
+2021-03-10 19:30:06,371 currency.py[line:767] INFO: nothing to repeat at position 1627
+2021-03-10 19:30:33,564 currency.py[line:687] INFO: unbalanced parenthesis at position 154
+2021-03-10 19:30:33,566 currency.py[line:767] INFO: unbalanced parenthesis at position 154
+2021-03-10 19:32:42,979 currency.py[line:687] INFO: multiple repeat at position 1624
+2021-03-10 19:32:42,981 currency.py[line:767] INFO: multiple repeat at position 1624
+2021-03-10 19:32:47,503 currency.py[line:687] INFO: nothing to repeat at position 1495
+2021-03-10 19:32:47,505 currency.py[line:767] INFO: nothing to repeat at position 1495
+2021-03-10 19:32:51,827 currency.py[line:687] INFO: multiple repeat at position 1538
+2021-03-10 19:32:51,829 currency.py[line:767] INFO: multiple repeat at position 1538
+2021-03-10 19:33:04,106 currency.py[line:687] INFO: multiple repeat at position 2210
+2021-03-10 19:33:04,109 currency.py[line:767] INFO: multiple repeat at position 2210
+2021-03-11 18:47:50,519 currency.py[line:687] INFO: missing ), unterminated subpattern at position 640
+2021-03-11 18:47:50,597 currency.py[line:767] INFO: missing ), unterminated subpattern at position 640
+2021-03-11 18:48:06,419 currency.py[line:687] INFO: missing ), unterminated subpattern at position 764
+2021-03-11 18:48:06,469 currency.py[line:767] INFO: missing ), unterminated subpattern at position 764
+2021-03-11 18:48:46,085 currency.py[line:687] INFO: nothing to repeat at position 2254
+2021-03-11 18:48:46,215 currency.py[line:767] INFO: nothing to repeat at position 2254
+2021-03-11 18:52:29,755 currency.py[line:687] INFO: nothing to repeat at position 450
+2021-03-11 18:52:29,915 currency.py[line:767] INFO: nothing to repeat at position 450
+2021-03-11 18:55:28,021 currency.py[line:687] INFO: unterminated character set at position 851
+2021-03-11 18:55:28,049 currency.py[line:767] INFO: unterminated character set at position 851
+2021-03-11 18:55:52,544 currency.py[line:687] INFO: nothing to repeat at position 748
+2021-03-11 18:55:52,545 currency.py[line:767] INFO: nothing to repeat at position 748
+2021-03-11 18:59:18,563 currency.py[line:687] INFO: nothing to repeat at position 226
+2021-03-11 18:59:18,566 currency.py[line:767] INFO: nothing to repeat at position 226
+2021-03-11 18:59:47,158 currency.py[line:687] INFO: bad character range 6-( at position 46 (line 2, column 42)
+2021-03-11 18:59:47,159 currency.py[line:767] INFO: bad character range 6-( at position 46 (line 2, column 42)
+2021-03-11 19:00:50,346 currency.py[line:687] INFO: nothing to repeat at position 777 (line 5, column 32)
+2021-03-11 19:00:50,349 currency.py[line:767] INFO: nothing to repeat at position 777 (line 5, column 32)
+2021-03-11 19:01:22,963 currency.py[line:687] INFO: nothing to repeat at position 191 (line 1, column 192)
+2021-03-11 19:01:22,964 currency.py[line:767] INFO: nothing to repeat at position 191 (line 1, column 192)
+2021-03-11 19:02:52,665 currency.py[line:687] INFO: nothing to repeat at position 726
+2021-03-11 19:02:52,667 currency.py[line:767] INFO: nothing to repeat at position 726
+2021-03-11 19:03:09,623 currency.py[line:687] INFO: nothing to repeat at position 1627
+2021-03-11 19:03:09,625 currency.py[line:767] INFO: nothing to repeat at position 1627
+2021-03-11 19:03:16,534 currency.py[line:687] INFO: unbalanced parenthesis at position 154
+2021-03-11 19:03:16,535 currency.py[line:767] INFO: unbalanced parenthesis at position 154
+2021-03-11 19:03:56,235 currency.py[line:687] INFO: multiple repeat at position 1538
+2021-03-11 19:03:56,237 currency.py[line:767] INFO: multiple repeat at position 1538
+2021-03-11 19:04:00,181 currency.py[line:687] INFO: nothing to repeat at position 1495
+2021-03-11 19:04:00,185 currency.py[line:767] INFO: nothing to repeat at position 1495
+2021-03-11 19:04:14,819 currency.py[line:687] INFO: multiple repeat at position 1624
+2021-03-11 19:04:14,822 currency.py[line:767] INFO: multiple repeat at position 1624
+2021-03-11 19:04:21,287 currency.py[line:687] INFO: multiple repeat at position 2210
+2021-03-11 19:04:21,290 currency.py[line:767] INFO: multiple repeat at position 2210
+2021-03-12 21:22:59,053 currency.py[line:687] INFO: missing ), unterminated subpattern at position 640
+2021-03-12 21:22:59,104 currency.py[line:767] INFO: missing ), unterminated subpattern at position 640
+2021-03-12 21:23:20,384 currency.py[line:687] INFO: missing ), unterminated subpattern at position 764
+2021-03-12 21:23:20,393 currency.py[line:767] INFO: missing ), unterminated subpattern at position 764
+2021-03-12 21:24:02,931 currency.py[line:687] INFO: nothing to repeat at position 2254
+2021-03-12 21:24:03,050 currency.py[line:767] INFO: nothing to repeat at position 2254
+2021-03-12 21:27:31,535 currency.py[line:687] INFO: nothing to repeat at position 450
+2021-03-12 21:27:32,015 currency.py[line:767] INFO: nothing to repeat at position 450
+2021-03-12 21:29:35,202 currency.py[line:687] INFO: unterminated character set at position 851
+2021-03-12 21:29:35,229 currency.py[line:767] INFO: unterminated character set at position 851
+2021-03-12 21:29:54,493 currency.py[line:687] INFO: nothing to repeat at position 748
+2021-03-12 21:29:54,805 currency.py[line:767] INFO: nothing to repeat at position 748
+2021-03-12 21:35:15,715 currency.py[line:687] INFO: nothing to repeat at position 226
+2021-03-12 21:35:15,840 currency.py[line:767] INFO: nothing to repeat at position 226
+2021-03-12 21:35:20,694 currency.py[line:687] INFO: bad character range 6-( at position 46 (line 2, column 42)
+2021-03-12 21:35:20,825 currency.py[line:767] INFO: bad character range 6-( at position 46 (line 2, column 42)
+2021-03-12 21:36:05,352 currency.py[line:687] INFO: nothing to repeat at position 777 (line 5, column 32)
+2021-03-12 21:36:05,356 currency.py[line:767] INFO: nothing to repeat at position 777 (line 5, column 32)
+2021-03-12 21:37:11,308 currency.py[line:687] INFO: nothing to repeat at position 191 (line 1, column 192)
+2021-03-12 21:37:11,309 currency.py[line:767] INFO: nothing to repeat at position 191 (line 1, column 192)
+2021-03-12 21:39:57,857 currency.py[line:687] INFO: nothing to repeat at position 726
+2021-03-12 21:39:57,859 currency.py[line:767] INFO: nothing to repeat at position 726
+2021-03-12 21:40:38,307 currency.py[line:687] INFO: nothing to repeat at position 1627
+2021-03-12 21:40:38,309 currency.py[line:767] INFO: nothing to repeat at position 1627
+2021-03-12 21:40:53,381 currency.py[line:687] INFO: unbalanced parenthesis at position 154
+2021-03-12 21:40:53,414 currency.py[line:767] INFO: unbalanced parenthesis at position 154
+2021-03-12 21:41:32,380 currency.py[line:687] INFO: nothing to repeat at position 1495
+2021-03-12 21:41:32,382 currency.py[line:767] INFO: nothing to repeat at position 1495
+2021-03-12 21:41:33,659 currency.py[line:687] INFO: multiple repeat at position 1624
+2021-03-12 21:41:33,661 currency.py[line:767] INFO: multiple repeat at position 1624
+2021-03-12 21:41:47,629 currency.py[line:687] INFO: multiple repeat at position 1538
+2021-03-12 21:41:47,632 currency.py[line:767] INFO: multiple repeat at position 1538
+2021-03-12 21:41:55,097 currency.py[line:687] INFO: multiple repeat at position 2210
+2021-03-12 21:41:55,100 currency.py[line:767] INFO: multiple repeat at position 2210
+2021-03-14 14:03:48,783 currency.py[line:687] INFO: missing ), unterminated subpattern at position 640
+2021-03-14 14:03:48,907 currency.py[line:767] INFO: missing ), unterminated subpattern at position 640
+2021-03-14 14:04:05,015 currency.py[line:687] INFO: missing ), unterminated subpattern at position 764
+2021-03-14 14:04:05,050 currency.py[line:767] INFO: missing ), unterminated subpattern at position 764
+2021-03-14 14:04:44,114 currency.py[line:687] INFO: nothing to repeat at position 2254
+2021-03-14 14:04:44,219 currency.py[line:767] INFO: nothing to repeat at position 2254
+2021-03-14 14:09:23,007 currency.py[line:687] INFO: nothing to repeat at position 450
+2021-03-14 14:09:23,106 currency.py[line:767] INFO: nothing to repeat at position 450
+2021-03-14 14:10:19,231 currency.py[line:687] INFO: unterminated character set at position 851
+2021-03-14 14:10:19,368 currency.py[line:767] INFO: unterminated character set at position 851
+2021-03-14 14:10:30,826 currency.py[line:687] INFO: nothing to repeat at position 748
+2021-03-14 14:10:30,908 currency.py[line:767] INFO: nothing to repeat at position 748
+2021-03-14 14:14:54,099 currency.py[line:687] INFO: nothing to repeat at position 226
+2021-03-14 14:14:54,198 currency.py[line:767] INFO: nothing to repeat at position 226
+2021-03-14 14:15:17,349 currency.py[line:687] INFO: bad character range 6-( at position 46 (line 2, column 42)
+2021-03-14 14:15:17,467 currency.py[line:767] INFO: bad character range 6-( at position 46 (line 2, column 42)
+2021-03-14 14:16:00,940 currency.py[line:687] INFO: nothing to repeat at position 777 (line 5, column 32)
+2021-03-14 14:16:01,046 currency.py[line:767] INFO: nothing to repeat at position 777 (line 5, column 32)
+2021-03-14 14:16:47,867 currency.py[line:687] INFO: nothing to repeat at position 191 (line 1, column 192)
+2021-03-14 14:16:47,900 currency.py[line:767] INFO: nothing to repeat at position 191 (line 1, column 192)
+2021-03-14 14:19:18,018 currency.py[line:687] INFO: nothing to repeat at position 726
+2021-03-14 14:19:18,024 currency.py[line:767] INFO: nothing to repeat at position 726
+2021-03-14 14:19:28,420 currency.py[line:687] INFO: nothing to repeat at position 1627
+2021-03-14 14:19:28,479 currency.py[line:767] INFO: nothing to repeat at position 1627
+2021-03-14 14:19:36,681 currency.py[line:687] INFO: unbalanced parenthesis at position 154
+2021-03-14 14:19:36,683 currency.py[line:767] INFO: unbalanced parenthesis at position 154
+2021-03-14 14:20:19,286 currency.py[line:687] INFO: multiple repeat at position 1624
+2021-03-14 14:20:19,292 currency.py[line:767] INFO: multiple repeat at position 1624
+2021-03-14 14:20:25,616 currency.py[line:687] INFO: nothing to repeat at position 1495
+2021-03-14 14:20:25,656 currency.py[line:767] INFO: nothing to repeat at position 1495
+2021-03-14 14:20:44,415 currency.py[line:687] INFO: multiple repeat at position 1538
+2021-03-14 14:20:44,456 currency.py[line:767] INFO: multiple repeat at position 1538
+2021-03-14 14:21:09,430 currency.py[line:687] INFO: multiple repeat at position 2210
+2021-03-14 14:21:09,515 currency.py[line:767] INFO: multiple repeat at position 2210

@@ -1,0 +1,20 @@
+{
+    "local_rw": {
+        "host": "127.0.0.1",
+        "user": "root",
+        "password": "tby123..",
+        "port": 3306
+    },
+    "shkx": {
+        "host": "118.178.126.169",
+        "user": "web",
+        "password": "Xbook.gli.cn!@#",
+        "port": 3306
+    },
+    "local_shkx": {
+        "host": "192.168.1.197",
+        "user": "root",
+        "password": "root",
+        "port": 3306
+    }
+}

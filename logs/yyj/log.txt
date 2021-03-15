@@ -1,0 +1,194 @@
+2021-02-20 21:42:06,808 currency.py[line:656] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-02-20 21:42:06,809 currency.py[line:736] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-02-20 21:42:24,758 currency.py[line:656] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-02-20 21:42:24,762 currency.py[line:736] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-02-20 21:43:49,539 currency.py[line:656] INFO: unbalanced parenthesis at position 199
+2021-02-20 21:43:49,540 currency.py[line:736] INFO: unbalanced parenthesis at position 199
+2021-02-20 21:43:58,673 currency.py[line:656] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-02-20 21:43:58,677 currency.py[line:736] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-02-20 21:44:03,079 currency.py[line:656] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-02-20 21:44:03,083 currency.py[line:736] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-02-22 12:56:42,841 currency.py[line:656] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-02-22 12:56:42,843 currency.py[line:736] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-02-22 12:57:04,387 currency.py[line:656] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-02-22 12:57:04,390 currency.py[line:736] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-02-22 12:58:37,210 currency.py[line:656] INFO: unbalanced parenthesis at position 199
+2021-02-22 12:58:37,211 currency.py[line:736] INFO: unbalanced parenthesis at position 199
+2021-02-22 12:58:45,475 currency.py[line:656] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-02-22 12:58:45,479 currency.py[line:736] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-02-22 12:58:47,897 currency.py[line:656] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-02-22 12:58:47,900 currency.py[line:736] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-02-23 16:03:48,192 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-02-23 16:05:11,230 currency.py[line:656] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-02-23 16:05:11,232 currency.py[line:736] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-02-23 16:05:37,625 currency.py[line:656] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-02-23 16:05:37,677 currency.py[line:736] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-02-23 16:09:47,917 currency.py[line:656] INFO: unbalanced parenthesis at position 199
+2021-02-23 16:09:47,919 currency.py[line:736] INFO: unbalanced parenthesis at position 199
+2021-02-23 16:10:08,138 currency.py[line:656] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-02-23 16:10:08,145 currency.py[line:736] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-02-23 16:10:20,669 currency.py[line:656] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-02-23 16:10:20,717 currency.py[line:736] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-02-23 16:17:12,567 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.yyj.moa.gov.cn', port=80): Read timed out. (read timeout=20)
+2021-02-25 18:20:14,384 currency.py[line:668] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-02-25 18:20:14,499 currency.py[line:748] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-02-25 18:20:35,639 currency.py[line:668] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-02-25 18:20:35,662 currency.py[line:748] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-02-25 18:22:37,463 currency.py[line:668] INFO: unbalanced parenthesis at position 199
+2021-02-25 18:22:37,567 currency.py[line:748] INFO: unbalanced parenthesis at position 199
+2021-02-25 18:22:41,894 currency.py[line:668] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-02-25 18:22:41,898 currency.py[line:748] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-02-25 18:22:46,561 currency.py[line:668] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-02-25 18:22:46,564 currency.py[line:748] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-02-26 18:48:16,209 http_request.py[line:66] ERROR: [1/3] ('Connection broken: IncompleteRead(5170 bytes read, 2966 more expected)', IncompleteRead(5170 bytes read, 2966 more expected))
+2021-02-26 18:49:16,369 currency.py[line:668] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-02-26 18:49:16,370 currency.py[line:748] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-02-26 18:49:39,778 currency.py[line:668] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-02-26 18:49:39,889 currency.py[line:748] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-02-26 18:51:48,836 currency.py[line:668] INFO: unbalanced parenthesis at position 199
+2021-02-26 18:51:48,901 currency.py[line:748] INFO: unbalanced parenthesis at position 199
+2021-02-26 18:51:59,707 currency.py[line:668] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-02-26 18:51:59,863 currency.py[line:748] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-02-26 18:52:01,165 currency.py[line:668] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-02-26 18:52:01,237 currency.py[line:748] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-02-27 19:08:09,599 currency.py[line:668] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-02-27 19:08:09,645 currency.py[line:748] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-02-27 19:08:30,819 currency.py[line:668] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-02-27 19:08:30,853 currency.py[line:748] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-02-27 19:10:31,757 currency.py[line:668] INFO: unbalanced parenthesis at position 199
+2021-02-27 19:10:31,824 currency.py[line:748] INFO: unbalanced parenthesis at position 199
+2021-02-27 19:10:44,198 currency.py[line:668] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-02-27 19:10:44,353 currency.py[line:748] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-02-27 19:10:51,585 currency.py[line:668] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-02-27 19:10:51,689 currency.py[line:748] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-01 18:35:47,859 currency.py[line:674] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-01 18:35:47,984 currency.py[line:754] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-01 18:36:19,318 currency.py[line:674] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-01 18:36:19,489 currency.py[line:754] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-01 18:38:29,665 currency.py[line:674] INFO: unbalanced parenthesis at position 199
+2021-03-01 18:38:29,778 currency.py[line:754] INFO: unbalanced parenthesis at position 199
+2021-03-01 18:38:39,941 currency.py[line:674] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-01 18:38:39,979 currency.py[line:754] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-01 18:38:40,909 currency.py[line:674] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-01 18:38:40,927 currency.py[line:754] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-01 18:40:55,318 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-02 19:03:27,405 currency.py[line:680] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-02 19:03:27,426 currency.py[line:760] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-02 19:03:47,199 currency.py[line:680] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-02 19:03:47,211 currency.py[line:760] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-02 19:05:54,294 currency.py[line:680] INFO: unbalanced parenthesis at position 199
+2021-03-02 19:05:54,520 currency.py[line:760] INFO: unbalanced parenthesis at position 199
+2021-03-02 19:06:04,960 currency.py[line:680] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-02 19:06:05,035 currency.py[line:760] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-02 19:06:08,305 currency.py[line:680] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-02 19:06:08,478 currency.py[line:760] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-03 18:37:41,853 currency.py[line:680] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-03 18:37:41,929 currency.py[line:760] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-03 18:38:00,139 currency.py[line:680] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-03 18:38:00,184 currency.py[line:760] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-03 18:40:13,810 currency.py[line:680] INFO: unbalanced parenthesis at position 199
+2021-03-03 18:40:13,852 currency.py[line:760] INFO: unbalanced parenthesis at position 199
+2021-03-03 18:40:17,539 currency.py[line:680] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-03 18:40:17,544 currency.py[line:760] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-03 18:40:23,135 currency.py[line:680] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-03 18:40:23,207 currency.py[line:760] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-04 19:09:06,851 currency.py[line:682] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-04 19:09:06,893 currency.py[line:762] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-04 19:09:32,044 currency.py[line:682] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-04 19:09:32,060 currency.py[line:762] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-04 19:09:48,994 currency.py[line:827] INFO: list index out of range
+2021-03-04 19:11:36,598 currency.py[line:682] INFO: unbalanced parenthesis at position 199
+2021-03-04 19:11:36,612 currency.py[line:762] INFO: unbalanced parenthesis at position 199
+2021-03-04 19:11:41,533 currency.py[line:682] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-04 19:11:41,536 currency.py[line:762] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-04 19:11:43,658 currency.py[line:682] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-04 19:11:43,660 currency.py[line:762] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-06 23:20:19,635 currency.py[line:684] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-06 23:20:19,642 currency.py[line:764] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-06 23:20:51,518 currency.py[line:684] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-06 23:20:51,550 currency.py[line:764] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-06 23:21:11,116 currency.py[line:834] INFO: list index out of range
+2021-03-06 23:21:39,683 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-06 23:23:13,684 currency.py[line:684] INFO: unbalanced parenthesis at position 199
+2021-03-06 23:23:13,721 currency.py[line:764] INFO: unbalanced parenthesis at position 199
+2021-03-06 23:23:20,878 currency.py[line:684] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-06 23:23:20,927 currency.py[line:764] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-06 23:23:24,453 currency.py[line:684] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-06 23:23:24,535 currency.py[line:764] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-07 18:42:40,619 currency.py[line:684] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-07 18:42:41,077 currency.py[line:764] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-07 18:42:58,211 currency.py[line:684] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-07 18:42:58,301 currency.py[line:764] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-07 18:43:30,295 currency.py[line:834] INFO: list index out of range
+2021-03-07 18:45:16,988 currency.py[line:684] INFO: unbalanced parenthesis at position 199
+2021-03-07 18:45:17,155 currency.py[line:764] INFO: unbalanced parenthesis at position 199
+2021-03-07 18:45:23,896 currency.py[line:684] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-07 18:45:23,963 currency.py[line:764] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-07 18:45:34,421 currency.py[line:684] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-07 18:45:34,556 currency.py[line:764] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-08 18:40:26,914 currency.py[line:684] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-08 18:40:27,178 currency.py[line:764] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-08 18:40:53,818 currency.py[line:684] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-08 18:40:53,833 currency.py[line:764] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-08 18:41:07,489 currency.py[line:834] INFO: list index out of range
+2021-03-08 18:42:59,389 currency.py[line:684] INFO: unbalanced parenthesis at position 199
+2021-03-08 18:42:59,457 currency.py[line:764] INFO: unbalanced parenthesis at position 199
+2021-03-08 18:43:06,425 currency.py[line:684] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-08 18:43:06,432 currency.py[line:764] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-08 18:43:12,301 currency.py[line:684] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-08 18:43:12,346 currency.py[line:764] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-08 18:44:11,612 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-09 18:47:50,294 currency.py[line:687] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-09 18:47:50,329 currency.py[line:767] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-09 18:48:22,323 currency.py[line:687] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-09 18:48:22,390 currency.py[line:767] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-09 18:50:31,220 currency.py[line:687] INFO: unbalanced parenthesis at position 199
+2021-03-09 18:50:31,355 currency.py[line:767] INFO: unbalanced parenthesis at position 199
+2021-03-09 18:50:40,065 currency.py[line:687] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-09 18:50:40,126 currency.py[line:767] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-09 18:50:40,673 currency.py[line:687] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-09 18:50:40,710 currency.py[line:767] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-09 18:53:32,356 http_request.py[line:66] ERROR: [1/3] ('Connection broken: IncompleteRead(5170 bytes read, 1142 more expected)', IncompleteRead(5170 bytes read, 1142 more expected))
+2021-03-10 19:10:36,608 currency.py[line:687] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-10 19:10:36,634 currency.py[line:767] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-10 19:10:58,007 currency.py[line:687] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-10 19:10:58,326 currency.py[line:767] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-10 19:13:49,913 currency.py[line:687] INFO: unbalanced parenthesis at position 199
+2021-03-10 19:13:49,990 currency.py[line:767] INFO: unbalanced parenthesis at position 199
+2021-03-10 19:14:02,638 currency.py[line:687] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-10 19:14:02,683 currency.py[line:767] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-10 19:14:06,587 currency.py[line:687] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-10 19:14:06,653 currency.py[line:767] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-11 18:50:19,367 currency.py[line:687] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-11 18:50:19,517 currency.py[line:767] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-11 18:50:40,796 currency.py[line:687] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-11 18:50:40,884 currency.py[line:767] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-11 18:53:26,049 currency.py[line:687] INFO: unbalanced parenthesis at position 199
+2021-03-11 18:53:26,183 currency.py[line:767] INFO: unbalanced parenthesis at position 199
+2021-03-11 18:53:41,693 currency.py[line:687] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-11 18:53:41,758 currency.py[line:767] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-11 18:53:45,382 currency.py[line:687] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-11 18:53:45,514 currency.py[line:767] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-12 21:28:52,469 currency.py[line:687] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-12 21:28:52,689 currency.py[line:767] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-12 21:29:26,316 currency.py[line:687] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-12 21:29:26,326 currency.py[line:767] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-12 21:30:42,729 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-12 21:32:17,475 currency.py[line:687] INFO: unbalanced parenthesis at position 199
+2021-03-12 21:32:17,809 currency.py[line:767] INFO: unbalanced parenthesis at position 199
+2021-03-12 21:32:34,158 currency.py[line:687] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-12 21:32:34,287 currency.py[line:767] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-12 21:32:37,700 currency.py[line:687] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-12 21:32:37,865 currency.py[line:767] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-14 14:13:06,884 currency.py[line:687] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-14 14:13:07,113 currency.py[line:767] INFO: unbalanced parenthesis at position 310 (line 2, column 273)
+2021-03-14 14:13:45,440 currency.py[line:687] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-14 14:13:45,496 currency.py[line:767] INFO: missing ), unterminated subpattern at position 2328 (line 49, column 57)
+2021-03-14 14:16:40,790 currency.py[line:687] INFO: unbalanced parenthesis at position 199
+2021-03-14 14:16:40,875 currency.py[line:767] INFO: unbalanced parenthesis at position 199
+2021-03-14 14:16:49,405 currency.py[line:687] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-14 14:16:49,504 currency.py[line:767] INFO: unbalanced parenthesis at position 796 (line 20, column 9)
+2021-03-14 14:16:53,536 currency.py[line:687] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-14 14:16:53,543 currency.py[line:767] INFO: missing ), unterminated subpattern at position 320 (line 6, column 199)
+2021-03-14 14:17:11,394 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-14 14:21:06,180 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))

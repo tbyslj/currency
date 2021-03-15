@@ -1,0 +1,98 @@
+{
+  "url_config": {
+    "source": "https://www.zyzhan.com/",
+    "domain": "www.zyzhan.com",
+    "turn_page": {
+      "mark": "",
+      "type": "html",
+      "symbol": "_p",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "新闻",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "行业动态",
+            "xpath": {
+              "id": "",
+              "class": "listLeft",
+              "node": "dl/dt"
+            }
+          },
+          {
+            "rex": "市场分析",
+            "xpath": {
+              "id": "",
+              "class": "listLeft",
+              "node": "dl/dt"
+            }
+          },
+          {
+            "rex": "企业新闻",
+            "xpath": {
+              "id": "",
+              "class": "listLeft",
+              "node": "dl/dt"
+            }
+          },
+          {
+            "rex": "人物访谈",
+            "xpath": {
+              "id": "",
+              "class": "listLeft",
+              "node": "dl/dt"
+            }
+          },
+          {
+            "rex": "展会报道",
+            "xpath": {
+              "id": "",
+              "class": "listLeft",
+              "node": "dl/dt"
+            }
+          },
+          {
+            "rex": "政策法规",
+            "xpath": {
+              "id": "",
+              "class": "listLeft",
+              "node": "dl/dt"
+            }
+          },
+          {
+            "rex": "技术文章",
+            "xpath": {
+              "id": "",
+              "class": "listLeft",
+              "node": "dl/dt"
+            }
+          },
+          {
+            "rex": "医药股市",
+            "xpath": {
+              "id": "",
+              "class": "listLeft",
+              "node": "dl/dt"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "html",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}

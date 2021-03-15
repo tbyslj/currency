@@ -1,0 +1,82 @@
+{
+  "url_config": {
+    "source": "http://www.hellosea.net/",
+    "domain": "www.hellosea.net",
+    "turn_page": {
+      "mark": "index",
+      "type": "html",
+      "symbol": "_",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "资讯",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "海洋政务",
+            "xpath": {
+              "id": "",
+              "class": "list-li",
+              "node": ""
+            }
+          },
+          {
+            "rex": "国内资讯",
+            "xpath": {
+              "id": "",
+              "class": "list-li",
+              "node": ""
+            }
+          },
+          {
+            "rex": "国际资讯",
+            "xpath": {
+              "id": "",
+              "class": "list-li",
+              "node": ""
+            }
+          },
+          {
+            "rex": "海洋评论",
+            "xpath": {
+              "id": "",
+              "class": "list-li",
+              "node": ""
+            }
+          },
+          {
+            "rex": "特约专稿",
+            "xpath": {
+              "id": "",
+              "class": "list-li",
+              "node": ""
+            }
+          },
+          {
+            "rex": "海南",
+            "xpath": {
+              "id": "",
+              "class": "list-li",
+              "node": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "html",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}

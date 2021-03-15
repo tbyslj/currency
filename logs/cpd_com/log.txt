@@ -1,0 +1,248 @@
+2021-02-19 18:58:40,335 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-02-19 18:58:40,420 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-02-19 18:58:40,503 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-02-19 18:58:40,504 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-19 18:58:54,598 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-02-19 18:58:54,689 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-02-19 18:58:54,767 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-02-19 18:58:54,768 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-20 19:32:38,519 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-02-20 19:32:38,614 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-02-20 19:32:38,693 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-02-20 19:32:38,693 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-20 19:32:51,644 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-02-20 19:32:51,720 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-02-20 19:32:51,807 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-02-20 19:32:51,807 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-22 10:42:00,736 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-02-22 10:42:00,820 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-02-22 10:42:00,905 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-02-22 10:42:00,905 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-22 10:42:14,949 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-02-22 10:42:15,027 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-02-22 10:42:15,099 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-02-22 10:42:15,100 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-23 15:49:52,156 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-02-23 15:49:52,257 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-02-23 15:49:52,339 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-02-23 15:49:52,340 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-23 15:50:26,817 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-02-23 15:50:26,903 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-02-23 15:50:26,981 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-02-23 15:50:26,981 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-25 18:06:40,015 currency.py[line:668] INFO: missing ), unterminated subpattern at position 2264 (line 21, column 3)
+2021-02-25 18:06:40,058 currency.py[line:748] INFO: missing ), unterminated subpattern at position 2264 (line 21, column 3)
+2021-02-25 18:10:06,193 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-02-25 18:10:06,269 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-02-25 18:10:06,351 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-02-25 18:10:06,374 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-25 18:10:24,181 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-02-25 18:10:24,261 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-02-25 18:10:24,340 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-02-25 18:10:24,342 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-26 18:36:49,424 currency.py[line:668] INFO: missing ), unterminated subpattern at position 2264 (line 21, column 3)
+2021-02-26 18:36:49,524 currency.py[line:748] INFO: missing ), unterminated subpattern at position 2264 (line 21, column 3)
+2021-02-26 18:40:16,617 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-02-26 18:40:16,694 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-02-26 18:40:16,773 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-02-26 18:40:16,782 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-26 18:40:32,974 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-02-26 18:40:33,069 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-02-26 18:40:33,162 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-02-26 18:40:33,201 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-27 18:56:20,982 currency.py[line:668] INFO: missing ), unterminated subpattern at position 2264 (line 21, column 3)
+2021-02-27 18:56:20,988 currency.py[line:748] INFO: missing ), unterminated subpattern at position 2264 (line 21, column 3)
+2021-02-27 18:59:45,197 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-02-27 18:59:45,287 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-02-27 18:59:45,363 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-02-27 18:59:45,363 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-27 18:59:59,965 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-02-27 19:00:00,047 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-02-27 19:00:00,217 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-02-27 19:00:00,217 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-01 18:19:50,396 currency.py[line:674] INFO: missing ), unterminated subpattern at position 2264 (line 21, column 3)
+2021-03-01 18:19:50,435 currency.py[line:754] INFO: missing ), unterminated subpattern at position 2264 (line 21, column 3)
+2021-03-01 18:23:16,653 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-01 18:23:16,746 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-01 18:23:16,830 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-01 18:23:16,881 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-01 18:23:35,412 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-01 18:23:35,493 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-01 18:23:35,595 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-01 18:23:35,604 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-02 18:48:11,551 currency.py[line:680] INFO: missing ), unterminated subpattern at position 2264 (line 21, column 3)
+2021-03-02 18:48:11,620 currency.py[line:760] INFO: missing ), unterminated subpattern at position 2264 (line 21, column 3)
+2021-03-02 18:52:58,919 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cpd.com.cn', port=80): Read timed out. (read timeout=20)
+2021-03-02 18:56:27,307 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cpd.com.cn', port=80): Read timed out.
+2021-03-02 18:57:26,879 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-02 18:57:26,968 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-02 18:57:27,047 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-02 18:57:27,083 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-02 18:57:47,814 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-02 18:57:47,901 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-02 18:57:47,983 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-02 18:57:47,995 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-03 18:19:06,940 currency.py[line:680] INFO: missing ), unterminated subpattern at position 2264 (line 21, column 3)
+2021-03-03 18:19:07,127 currency.py[line:760] INFO: missing ), unterminated subpattern at position 2264 (line 21, column 3)
+2021-03-03 18:22:18,657 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-03 18:22:18,736 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-03 18:22:18,819 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-03 18:22:18,841 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-03 18:22:35,544 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-03 18:22:35,636 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-03 18:22:35,715 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-03 18:22:35,723 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 18:44:57,787 currency.py[line:682] INFO: missing ), unterminated subpattern at position 2264 (line 21, column 3)
+2021-03-04 18:44:57,819 currency.py[line:762] INFO: missing ), unterminated subpattern at position 2264 (line 21, column 3)
+2021-03-04 18:48:05,913 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-04 18:48:06,010 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-04 18:48:06,125 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-04 18:48:06,168 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 18:48:22,427 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-04 18:48:22,523 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-04 18:48:22,617 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-04 18:48:22,637 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-05 18:30:13,539 currency.py[line:684] INFO: missing ), unterminated subpattern at position 2264 (line 21, column 3)
+2021-03-05 18:30:13,639 currency.py[line:764] INFO: missing ), unterminated subpattern at position 2264 (line 21, column 3)
+2021-03-05 18:34:03,134 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-05 18:34:03,219 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-05 18:34:03,304 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-05 18:34:03,350 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-05 18:34:22,802 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-05 18:34:22,989 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-05 18:34:23,131 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-05 18:34:23,180 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 23:04:41,621 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-06 23:04:41,706 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-06 23:04:41,808 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-06 23:04:41,838 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 23:05:12,516 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-06 23:05:12,645 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-06 23:05:12,717 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-06 23:05:12,721 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:23:41,905 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-07 18:23:42,003 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-07 18:23:42,102 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-07 18:23:42,177 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:24:01,852 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-07 18:24:01,941 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-07 18:24:02,092 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-07 18:24:02,176 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:21:41,002 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.cpd.com.cn', port=80): Read timed out.
+2021-03-08 18:29:28,017 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-08 18:29:28,177 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-08 18:29:28,293 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-08 18:29:28,321 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:29:45,852 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-08 18:29:45,934 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-08 18:29:46,027 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-08 18:29:46,027 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:27:37,631 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-09 18:27:37,708 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-09 18:27:37,799 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-09 18:27:37,824 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:28:01,552 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-09 18:28:01,664 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-09 18:28:01,826 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-09 18:28:01,869 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 18:37:01,884 currency.py[line:191] INFO: Document is empty
+2021-03-10 18:37:01,899 currency.py[line:191] INFO: Document is empty
+2021-03-10 18:37:01,902 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:38:04,047 currency.py[line:191] INFO: Document is empty
+2021-03-10 18:38:04,072 currency.py[line:191] INFO: Document is empty
+2021-03-10 18:38:04,072 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:38:08,532 currency.py[line:191] INFO: Document is empty
+2021-03-10 18:38:08,544 currency.py[line:191] INFO: Document is empty
+2021-03-10 18:38:08,615 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:38:15,451 currency.py[line:191] INFO: Document is empty
+2021-03-10 18:38:15,452 currency.py[line:191] INFO: Document is empty
+2021-03-10 18:38:15,452 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:39:18,391 currency.py[line:191] INFO: Document is empty
+2021-03-10 18:39:18,408 currency.py[line:191] INFO: Document is empty
+2021-03-10 18:39:18,423 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:43:30,050 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-10 18:43:30,198 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-10 18:43:30,307 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-10 18:43:30,345 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 18:43:55,530 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-10 18:43:55,670 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-10 18:43:55,768 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-10 18:43:55,865 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:17:49,826 currency.py[line:191] INFO: Document is empty
+2021-03-11 18:17:49,853 currency.py[line:191] INFO: Document is empty
+2021-03-11 18:17:49,898 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:18:58,941 currency.py[line:191] INFO: Document is empty
+2021-03-11 18:18:58,945 currency.py[line:191] INFO: Document is empty
+2021-03-11 18:18:58,945 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:19:04,218 currency.py[line:191] INFO: Document is empty
+2021-03-11 18:19:04,243 currency.py[line:191] INFO: Document is empty
+2021-03-11 18:19:04,410 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:19:08,304 currency.py[line:191] INFO: Document is empty
+2021-03-11 18:19:08,317 currency.py[line:191] INFO: Document is empty
+2021-03-11 18:19:08,317 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:19:15,181 currency.py[line:191] INFO: Document is empty
+2021-03-11 18:19:15,194 currency.py[line:191] INFO: Document is empty
+2021-03-11 18:19:15,205 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:20:07,505 currency.py[line:191] INFO: Document is empty
+2021-03-11 18:20:07,506 currency.py[line:191] INFO: Document is empty
+2021-03-11 18:20:07,506 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:24:48,918 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-11 18:24:49,152 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-11 18:24:49,263 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-11 18:24:49,278 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:25:13,220 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-11 18:25:13,324 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-11 18:25:13,454 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-11 18:25:13,501 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 20:52:30,019 currency.py[line:191] INFO: Document is empty
+2021-03-12 20:52:30,044 currency.py[line:191] INFO: Document is empty
+2021-03-12 20:52:30,049 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 20:53:26,449 currency.py[line:191] INFO: Document is empty
+2021-03-12 20:53:26,451 currency.py[line:191] INFO: Document is empty
+2021-03-12 20:53:26,451 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 20:53:28,844 currency.py[line:191] INFO: Document is empty
+2021-03-12 20:53:28,845 currency.py[line:191] INFO: Document is empty
+2021-03-12 20:53:28,845 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 20:53:35,336 currency.py[line:191] INFO: Document is empty
+2021-03-12 20:53:35,348 currency.py[line:191] INFO: Document is empty
+2021-03-12 20:53:35,352 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 20:53:41,402 currency.py[line:191] INFO: Document is empty
+2021-03-12 20:53:41,405 currency.py[line:191] INFO: Document is empty
+2021-03-12 20:53:41,405 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 20:54:32,521 currency.py[line:191] INFO: Document is empty
+2021-03-12 20:54:32,534 currency.py[line:191] INFO: Document is empty
+2021-03-12 20:54:32,534 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 20:58:19,897 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-12 20:58:19,974 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-12 20:58:20,074 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-12 20:58:20,095 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 20:58:42,193 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-12 20:58:42,279 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-12 20:58:42,357 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-12 20:58:42,377 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 13:40:55,768 currency.py[line:191] INFO: Document is empty
+2021-03-14 13:40:55,792 currency.py[line:191] INFO: Document is empty
+2021-03-14 13:40:55,794 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:42:10,559 currency.py[line:191] INFO: Document is empty
+2021-03-14 13:42:10,578 currency.py[line:191] INFO: Document is empty
+2021-03-14 13:42:10,578 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:42:14,689 currency.py[line:191] INFO: Document is empty
+2021-03-14 13:42:14,692 currency.py[line:191] INFO: Document is empty
+2021-03-14 13:42:14,692 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:42:20,387 currency.py[line:191] INFO: Document is empty
+2021-03-14 13:42:20,411 currency.py[line:191] INFO: Document is empty
+2021-03-14 13:42:20,513 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:42:27,644 currency.py[line:191] INFO: Document is empty
+2021-03-14 13:42:27,674 currency.py[line:191] INFO: Document is empty
+2021-03-14 13:42:27,674 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:43:33,728 currency.py[line:191] INFO: Document is empty
+2021-03-14 13:43:33,729 currency.py[line:191] INFO: Document is empty
+2021-03-14 13:43:33,729 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:48:10,044 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-14 13:48:10,150 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-14 13:48:10,397 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42282674/content.html
+2021-03-14 13:48:10,405 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 13:48:35,991 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-14 13:48:36,065 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-14 13:48:36,159 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://news.cpd.com.cn/n3600/c42107096/content.html
+2021-03-14 13:48:36,184 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误

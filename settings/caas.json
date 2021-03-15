@@ -1,0 +1,67 @@
+{
+  "url_config": {
+    "source": "http://www.caas.cn/",
+    "domain": "www.caas.cn",
+    "turn_page": {
+      "mark": "",
+      "type": "html",
+      "symbol": "",
+      "confirm": 0,
+      "start": 1,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "新闻中心",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "人教动态",
+            "xpath": {
+              "id": "",
+              "class": "list05",
+              "node": ""
+            }
+          },
+          {
+            "rex": "科研进展",
+            "xpath": {
+              "id": "",
+              "class": "list05",
+              "node": ""
+            }
+          },
+          {
+            "rex": "学术活动",
+            "xpath": {
+              "id": "",
+              "class": "list05",
+              "node": ""
+            }
+          },
+          {
+            "rex": "党政工作",
+            "xpath": {
+              "id": "",
+              "class": "list05",
+              "node": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "html",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
+

@@ -1,0 +1,74 @@
+{
+  "url_config": {
+    "source": "http://www.eepw.com.cn/",
+    "domain": "www.eepw.com.cn",
+    "turn_page": {
+      "mark": "page",
+      "type": "",
+      "symbol": "/",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "新闻",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "业界新闻",
+            "xpath": {
+              "id": "",
+              "class": "listBox",
+              "node": "h2"
+            }
+          },
+          {
+            "rex": "设计应用",
+            "xpath": {
+              "id": "",
+              "class": "listBox",
+              "node": "h2"
+            }
+          },
+          {
+            "rex": "新品发布",
+            "xpath": {
+              "id": "",
+              "class": "listBox",
+              "node": "h2"
+            }
+          },
+          {
+            "rex": "EEPW观点",
+            "xpath": {
+              "id": "",
+              "class": "listBox",
+              "node": "h2"
+            }
+          },
+          {
+            "rex": "牛人业话",
+            "xpath": {
+              "id": "",
+              "class": "listBox",
+              "node": "h2"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "htm",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}

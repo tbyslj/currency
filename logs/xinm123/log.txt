@@ -1,0 +1,386 @@
+2021-02-20 21:23:14,175 currency.py[line:656] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-20 21:23:14,176 currency.py[line:736] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-20 21:23:14,434 currency.py[line:656] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-20 21:23:14,436 currency.py[line:736] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-20 21:23:14,678 currency.py[line:656] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-20 21:23:14,679 currency.py[line:736] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-20 21:23:28,190 currency.py[line:656] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-20 21:23:28,192 currency.py[line:736] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-20 21:23:28,433 currency.py[line:656] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-20 21:23:28,434 currency.py[line:736] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-20 21:23:28,674 currency.py[line:656] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-20 21:23:28,675 currency.py[line:736] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-20 21:27:31,329 currency.py[line:656] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-20 21:27:31,331 currency.py[line:736] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-20 21:27:31,595 currency.py[line:656] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-20 21:27:31,597 currency.py[line:736] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-20 21:27:31,832 currency.py[line:656] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-20 21:27:31,834 currency.py[line:736] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-20 21:28:28,490 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-20 21:28:28,530 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-20 21:28:28,571 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-20 21:28:28,573 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-20 21:28:28,610 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-20 21:28:28,651 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-20 21:28:28,689 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-20 21:28:28,691 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-20 21:29:39,294 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-20 21:29:39,341 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-20 21:29:39,377 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-20 21:29:39,378 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-20 21:32:50,190 currency.py[line:656] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-20 21:32:50,192 currency.py[line:736] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-20 21:32:50,582 currency.py[line:656] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-20 21:32:50,585 currency.py[line:736] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-20 21:32:50,974 currency.py[line:656] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-20 21:32:50,977 currency.py[line:736] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-20 21:32:54,097 currency.py[line:656] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-20 21:32:54,099 currency.py[line:736] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-20 21:32:55,379 currency.py[line:656] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-20 21:32:55,380 currency.py[line:736] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-20 21:32:55,700 currency.py[line:656] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-20 21:32:55,701 currency.py[line:736] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-22 12:37:39,426 currency.py[line:656] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-22 12:37:39,428 currency.py[line:736] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-22 12:37:39,695 currency.py[line:656] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-22 12:37:39,696 currency.py[line:736] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-22 12:37:39,949 currency.py[line:656] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-22 12:37:39,950 currency.py[line:736] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-22 12:37:53,338 currency.py[line:656] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-22 12:37:53,339 currency.py[line:736] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-22 12:37:53,586 currency.py[line:656] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-22 12:37:53,588 currency.py[line:736] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-22 12:37:53,826 currency.py[line:656] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-22 12:37:53,827 currency.py[line:736] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-22 12:41:52,103 currency.py[line:656] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-22 12:41:52,105 currency.py[line:736] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-22 12:41:52,337 currency.py[line:656] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-22 12:41:52,339 currency.py[line:736] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-22 12:41:52,601 currency.py[line:656] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-22 12:41:52,603 currency.py[line:736] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-22 12:42:50,465 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-22 12:42:50,514 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-22 12:42:50,553 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-22 12:42:50,554 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-22 12:42:50,601 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-22 12:42:50,650 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-22 12:42:50,700 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-22 12:42:50,701 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-22 12:44:00,833 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-22 12:44:00,870 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-22 12:44:02,162 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-22 12:44:02,163 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-22 12:46:50,368 currency.py[line:656] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-22 12:46:50,372 currency.py[line:736] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-22 12:46:50,764 currency.py[line:656] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-22 12:46:50,767 currency.py[line:736] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-22 12:46:51,163 currency.py[line:656] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-22 12:46:51,165 currency.py[line:736] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-22 12:46:54,741 currency.py[line:656] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-22 12:46:54,743 currency.py[line:736] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-22 12:46:55,030 currency.py[line:656] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-22 12:46:55,032 currency.py[line:736] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-22 12:46:55,305 currency.py[line:656] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-22 12:46:55,307 currency.py[line:736] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-23 16:04:45,578 currency.py[line:656] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-23 16:04:45,592 currency.py[line:736] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-23 16:04:46,242 currency.py[line:656] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-23 16:04:46,246 currency.py[line:736] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-23 16:04:46,869 currency.py[line:656] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-23 16:04:46,872 currency.py[line:736] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-23 16:05:19,225 currency.py[line:656] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-23 16:05:19,226 currency.py[line:736] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-23 16:05:19,899 currency.py[line:656] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-23 16:05:19,900 currency.py[line:736] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-23 16:05:20,544 currency.py[line:656] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-23 16:05:20,546 currency.py[line:736] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-23 16:15:28,389 currency.py[line:656] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-23 16:15:28,394 currency.py[line:736] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-23 16:15:28,771 currency.py[line:656] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-23 16:15:28,776 currency.py[line:736] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-23 16:15:29,242 currency.py[line:656] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-23 16:15:29,246 currency.py[line:736] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-23 16:17:46,896 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-23 16:17:46,941 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-23 16:17:47,039 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-23 16:17:47,039 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-23 16:17:47,105 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-23 16:17:48,181 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-23 16:17:48,493 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-23 16:17:48,493 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-23 16:19:58,558 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-23 16:19:58,784 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-23 16:19:58,827 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-23 16:19:58,828 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-23 16:24:19,330 currency.py[line:656] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-23 16:24:19,338 currency.py[line:736] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-23 16:24:20,085 currency.py[line:656] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-23 16:24:20,093 currency.py[line:736] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-23 16:24:20,808 currency.py[line:656] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-23 16:24:20,816 currency.py[line:736] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-23 16:24:25,849 currency.py[line:656] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-23 16:24:25,853 currency.py[line:736] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-23 16:24:26,370 currency.py[line:656] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-23 16:24:26,375 currency.py[line:736] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-23 16:24:26,846 currency.py[line:656] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-23 16:24:26,850 currency.py[line:736] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-25 18:20:08,550 currency.py[line:668] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-25 18:20:08,658 currency.py[line:748] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-25 18:20:09,003 currency.py[line:668] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-25 18:20:09,115 currency.py[line:748] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-25 18:20:09,421 currency.py[line:668] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-25 18:20:09,436 currency.py[line:748] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-25 18:20:24,996 currency.py[line:668] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-25 18:20:25,047 currency.py[line:748] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-25 18:20:25,312 currency.py[line:668] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-25 18:20:25,314 currency.py[line:748] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-25 18:20:25,595 currency.py[line:668] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-25 18:20:25,715 currency.py[line:748] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-25 18:25:17,913 currency.py[line:668] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-25 18:25:18,140 currency.py[line:748] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-25 18:25:18,515 currency.py[line:668] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-25 18:25:18,612 currency.py[line:748] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-25 18:25:19,079 currency.py[line:668] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-25 18:25:19,214 currency.py[line:748] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-25 18:26:30,520 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-25 18:26:30,566 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-25 18:26:30,655 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-25 18:26:30,655 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-25 18:26:30,698 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-25 18:26:30,744 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-25 18:26:30,816 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-25 18:26:30,837 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-25 18:27:45,859 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-25 18:27:45,889 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-25 18:27:45,931 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-25 18:27:45,932 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-25 18:30:58,858 currency.py[line:668] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-25 18:30:58,861 currency.py[line:748] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-25 18:30:59,325 currency.py[line:668] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-25 18:30:59,328 currency.py[line:748] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-25 18:30:59,752 currency.py[line:668] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-25 18:30:59,770 currency.py[line:748] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-25 18:31:03,345 currency.py[line:668] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-25 18:31:03,347 currency.py[line:748] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-25 18:31:03,630 currency.py[line:668] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-25 18:31:03,679 currency.py[line:748] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-25 18:31:04,013 currency.py[line:668] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-25 18:31:04,015 currency.py[line:748] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-26 18:49:17,220 currency.py[line:668] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-26 18:49:17,253 currency.py[line:748] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-26 18:49:17,597 currency.py[line:668] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-26 18:49:17,663 currency.py[line:748] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-26 18:49:18,055 currency.py[line:668] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-26 18:49:18,118 currency.py[line:748] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-26 18:49:41,820 currency.py[line:668] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-26 18:49:41,908 currency.py[line:748] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-26 18:49:42,293 currency.py[line:668] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-26 18:49:42,330 currency.py[line:748] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-26 18:49:42,888 currency.py[line:668] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-26 18:49:42,971 currency.py[line:748] INFO: unbalanced parenthesis at position 70 (line 2, column 34)
+2021-02-26 18:54:34,425 currency.py[line:668] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-26 18:54:34,462 currency.py[line:748] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-26 18:54:34,808 currency.py[line:668] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-26 18:54:34,883 currency.py[line:748] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-26 18:54:35,144 currency.py[line:668] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-26 18:54:35,170 currency.py[line:748] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-26 18:55:40,411 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-26 18:55:40,451 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-26 18:55:40,472 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-26 18:55:40,479 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-26 18:55:40,508 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-26 18:55:40,528 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-26 18:55:40,549 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-26 18:55:40,550 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-26 18:56:48,085 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-26 18:56:48,117 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-26 18:56:48,137 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-26 18:56:48,138 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-26 18:59:40,340 currency.py[line:668] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-26 18:59:40,349 currency.py[line:748] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-26 18:59:40,746 currency.py[line:668] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-26 18:59:40,748 currency.py[line:748] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-26 18:59:41,158 currency.py[line:668] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-26 18:59:41,165 currency.py[line:748] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-26 18:59:44,112 currency.py[line:668] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-26 18:59:44,116 currency.py[line:748] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-26 18:59:44,389 currency.py[line:668] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-26 18:59:44,390 currency.py[line:748] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-26 18:59:44,671 currency.py[line:668] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-26 18:59:44,708 currency.py[line:748] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-27 19:08:58,662 currency.py[line:668] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-27 19:08:58,741 currency.py[line:748] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-27 19:08:59,167 currency.py[line:668] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-27 19:08:59,248 currency.py[line:748] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-27 19:08:59,772 currency.py[line:668] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-27 19:08:59,806 currency.py[line:748] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-02-27 19:14:09,704 currency.py[line:668] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-27 19:14:09,773 currency.py[line:748] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-27 19:14:10,038 currency.py[line:668] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-27 19:14:10,047 currency.py[line:748] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-27 19:14:10,353 currency.py[line:668] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-27 19:14:10,445 currency.py[line:748] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-02-27 19:15:18,248 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-27 19:15:18,271 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-27 19:15:18,292 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-27 19:15:18,293 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-27 19:15:18,316 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-27 19:15:18,338 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-27 19:15:18,358 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-27 19:15:18,359 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-27 19:16:27,256 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-27 19:16:27,281 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-27 19:16:27,313 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-02-27 19:16:27,313 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-27 19:19:26,553 currency.py[line:668] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-27 19:19:26,580 currency.py[line:748] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-27 19:19:27,010 currency.py[line:668] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-27 19:19:27,046 currency.py[line:748] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-27 19:19:27,638 currency.py[line:668] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-27 19:19:27,650 currency.py[line:748] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-02-27 19:19:30,892 currency.py[line:668] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-27 19:19:30,895 currency.py[line:748] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-27 19:19:31,185 currency.py[line:668] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-27 19:19:31,188 currency.py[line:748] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-27 19:19:32,376 currency.py[line:668] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-02-27 19:19:32,380 currency.py[line:748] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-03-01 18:34:21,828 currency.py[line:674] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-03-01 18:34:21,963 currency.py[line:754] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-03-01 18:36:21,102 currency.py[line:674] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-03-01 18:36:21,106 currency.py[line:754] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-03-01 18:36:53,879 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-01 18:36:53,936 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-01 18:36:53,984 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-01 18:36:53,989 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-01 18:39:06,010 currency.py[line:674] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-03-01 18:39:06,024 currency.py[line:754] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-03-01 18:39:07,769 currency.py[line:674] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-03-01 18:39:07,860 currency.py[line:754] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-03-02 19:01:45,147 currency.py[line:680] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-03-02 19:01:45,287 currency.py[line:760] INFO: unbalanced parenthesis at position 261 (line 3, column 2)
+2021-03-02 19:03:36,883 currency.py[line:680] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-03-02 19:03:36,921 currency.py[line:760] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-03-02 19:04:05,526 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-02 19:04:05,580 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-02 19:04:05,663 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-02 19:04:05,672 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-02 19:06:09,148 currency.py[line:680] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-03-02 19:06:09,220 currency.py[line:760] INFO: missing ), unterminated subpattern at position 1020 (line 19, column 82)
+2021-03-02 19:06:11,177 currency.py[line:680] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-03-02 19:06:11,241 currency.py[line:760] INFO: multiple repeat at position 795 (line 18, column 46)
+2021-03-03 18:35:49,323 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-03 18:35:49,370 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-03 18:35:49,415 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-03 18:35:49,418 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 19:05:06,954 currency.py[line:682] INFO: missing ), unterminated subpattern at position 2157 (line 26, column 77)
+2021-03-04 19:05:06,976 currency.py[line:762] INFO: missing ), unterminated subpattern at position 2157 (line 26, column 77)
+2021-03-04 19:07:02,303 currency.py[line:682] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-03-04 19:07:02,408 currency.py[line:762] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-03-04 19:07:31,590 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-04 19:07:31,675 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-04 19:07:31,713 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-04 19:07:31,714 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 19:09:12,262 currency.py[line:682] INFO: missing ), unterminated subpattern at position 1634 (line 15, column 86)
+2021-03-04 19:09:12,266 currency.py[line:762] INFO: missing ), unterminated subpattern at position 1634 (line 15, column 86)
+2021-03-06 23:18:46,785 currency.py[line:684] INFO: missing ), unterminated subpattern at position 2157 (line 26, column 77)
+2021-03-06 23:18:46,945 currency.py[line:764] INFO: missing ), unterminated subpattern at position 2157 (line 26, column 77)
+2021-03-06 23:21:09,592 currency.py[line:684] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-03-06 23:21:09,675 currency.py[line:764] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-03-06 23:21:42,467 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-06 23:21:42,687 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-06 23:21:42,747 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-06 23:21:42,757 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 23:23:36,586 currency.py[line:684] INFO: missing ), unterminated subpattern at position 1634 (line 15, column 86)
+2021-03-06 23:23:36,617 currency.py[line:764] INFO: missing ), unterminated subpattern at position 1634 (line 15, column 86)
+2021-03-07 18:39:50,446 currency.py[line:684] INFO: missing ), unterminated subpattern at position 2157 (line 26, column 77)
+2021-03-07 18:39:50,471 currency.py[line:764] INFO: missing ), unterminated subpattern at position 2157 (line 26, column 77)
+2021-03-07 18:42:16,489 currency.py[line:684] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-03-07 18:42:16,492 currency.py[line:764] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-03-07 18:42:49,956 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-07 18:42:50,022 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-07 18:42:50,070 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-07 18:42:50,090 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:44:41,514 currency.py[line:684] INFO: missing ), unterminated subpattern at position 1634 (line 15, column 86)
+2021-03-07 18:44:41,583 currency.py[line:764] INFO: missing ), unterminated subpattern at position 1634 (line 15, column 86)
+2021-03-08 18:37:37,885 currency.py[line:684] INFO: missing ), unterminated subpattern at position 2157 (line 26, column 77)
+2021-03-08 18:37:38,009 currency.py[line:764] INFO: missing ), unterminated subpattern at position 2157 (line 26, column 77)
+2021-03-08 18:40:01,412 currency.py[line:684] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-03-08 18:40:01,696 currency.py[line:764] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-03-08 18:40:35,089 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-08 18:40:35,111 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-08 18:40:35,132 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-08 18:40:35,133 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:42:17,059 currency.py[line:684] INFO: missing ), unterminated subpattern at position 1634 (line 15, column 86)
+2021-03-08 18:42:17,210 currency.py[line:764] INFO: missing ), unterminated subpattern at position 1634 (line 15, column 86)
+2021-03-09 18:44:03,630 currency.py[line:687] INFO: missing ), unterminated subpattern at position 2157 (line 26, column 77)
+2021-03-09 18:44:03,680 currency.py[line:767] INFO: missing ), unterminated subpattern at position 2157 (line 26, column 77)
+2021-03-09 18:46:20,597 currency.py[line:687] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-03-09 18:46:20,634 currency.py[line:767] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-03-09 18:46:52,000 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-09 18:46:52,028 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-09 18:46:52,058 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-09 18:46:52,059 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:48:26,737 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1459 (line 15, column 80)
+2021-03-09 18:48:26,749 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1459 (line 15, column 80)
+2021-03-09 18:48:33,305 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1634 (line 15, column 86)
+2021-03-09 18:48:33,374 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1634 (line 15, column 86)
+2021-03-10 19:05:41,560 currency.py[line:687] INFO: missing ), unterminated subpattern at position 2157 (line 26, column 77)
+2021-03-10 19:05:41,573 currency.py[line:767] INFO: missing ), unterminated subpattern at position 2157 (line 26, column 77)
+2021-03-10 19:08:12,076 currency.py[line:687] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-03-10 19:08:12,116 currency.py[line:767] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-03-10 19:08:44,979 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-10 19:08:45,010 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-10 19:08:45,033 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-10 19:08:45,033 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 19:10:44,487 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1459 (line 15, column 80)
+2021-03-10 19:10:44,568 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1459 (line 15, column 80)
+2021-03-10 19:10:54,423 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1634 (line 15, column 86)
+2021-03-10 19:10:54,594 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1634 (line 15, column 86)
+2021-03-11 18:47:09,927 currency.py[line:687] INFO: missing ), unterminated subpattern at position 2157 (line 26, column 77)
+2021-03-11 18:47:09,942 currency.py[line:767] INFO: missing ), unterminated subpattern at position 2157 (line 26, column 77)
+2021-03-11 18:49:47,215 currency.py[line:687] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-03-11 18:49:47,322 currency.py[line:767] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-03-11 18:50:21,508 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-11 18:50:21,531 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-11 18:50:21,554 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-11 18:50:21,585 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:52:21,113 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1459 (line 15, column 80)
+2021-03-11 18:52:21,120 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1459 (line 15, column 80)
+2021-03-11 18:52:29,994 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1634 (line 15, column 86)
+2021-03-11 18:52:30,229 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1634 (line 15, column 86)
+2021-03-12 21:24:24,665 currency.py[line:687] INFO: missing ), unterminated subpattern at position 2157 (line 26, column 77)
+2021-03-12 21:24:25,212 currency.py[line:767] INFO: missing ), unterminated subpattern at position 2157 (line 26, column 77)
+2021-03-12 21:27:13,856 currency.py[line:687] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-03-12 21:27:14,018 currency.py[line:767] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-03-12 21:27:52,501 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-12 21:27:52,545 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-12 21:27:52,829 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-12 21:27:52,836 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 21:29:26,310 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:29:26,320 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:29:26,321 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:29:30,478 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:29:30,487 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:29:30,488 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:29:34,048 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:29:34,068 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:29:34,069 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:29:53,841 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:29:53,864 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:29:53,898 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:29:58,078 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1459 (line 15, column 80)
+2021-03-12 21:29:58,151 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1459 (line 15, column 80)
+2021-03-12 21:30:07,373 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1634 (line 15, column 86)
+2021-03-12 21:30:07,606 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1634 (line 15, column 86)
+2021-03-14 14:09:34,408 currency.py[line:687] INFO: missing ), unterminated subpattern at position 2157 (line 26, column 77)
+2021-03-14 14:09:34,785 currency.py[line:767] INFO: missing ), unterminated subpattern at position 2157 (line 26, column 77)
+2021-03-14 14:12:28,833 currency.py[line:687] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-03-14 14:12:29,439 currency.py[line:767] INFO: unbalanced parenthesis at position 612 (line 21, column 2)
+2021-03-14 14:13:10,545 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-14 14:13:10,605 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-14 14:13:10,667 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.xinm123.com/html/pig/20190508492388.html
+2021-03-14 14:13:10,688 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 14:15:34,012 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1459 (line 15, column 80)
+2021-03-14 14:15:34,154 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1459 (line 15, column 80)
+2021-03-14 14:15:44,837 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1634 (line 15, column 86)
+2021-03-14 14:15:45,002 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1634 (line 15, column 86)

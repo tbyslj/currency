@@ -1,0 +1,80 @@
+{
+  "url_config": {
+    "source": "http://news.cheaa.com/",
+    "domain": "news.cheaa.com",
+    "turn_page": {
+      "mark": "",
+      "type": "shtml",
+      "symbol": "_",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "行业原创",
+        "xpath": {
+          "id": "",
+          "class": "hbox-r",
+          "node": "h2"
+        }
+      },
+      {
+        "rex": "家电人物",
+        "xpath": {
+          "id": "",
+          "class": "hbox-r",
+          "node": "h2"
+        }
+      },
+      {
+        "rex": "新闻评论",
+        "xpath": {
+          "id": "",
+          "class": "hbox-r",
+          "node": "h2"
+        }
+      },
+      {
+        "rex": "摄氏零度",
+        "xpath": {
+          "id": "",
+          "class": "hbox-r",
+          "node": "h2"
+        }
+      },
+      {
+        "rex": "有料公司",
+        "xpath": {
+          "id": "",
+          "class": "hbox-r",
+          "node": "h2"
+        }
+      },
+      {
+        "rex": "国际传真",
+        "xpath": {
+          "id": "",
+          "class": "hbox-r",
+          "node": "h2"
+        }
+      },
+      {
+        "rex": "江湖夜语",
+        "xpath": {
+          "id": "",
+          "class": "hbox-r",
+          "node": "h2"
+        }
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "shtml",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}

@@ -1,0 +1,794 @@
+2021-03-04 19:03:23,425 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.shuichan.cc', port=80): Read timed out.
+2021-03-04 19:03:43,438 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.shuichan.cc', port=80): Read timed out. (read timeout=20)
+2021-03-07 18:38:24,210 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.shuichan.cc', port=80): Read timed out. (read timeout=20)
+2021-03-10 19:02:18,879 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.shuichan.cc', port=80): Read timed out. (read timeout=20)
+2021-03-10 19:02:40,139 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.shuichan.cc', port=80): Read timed out. (read timeout=20)
+2021-03-10 19:05:57,050 currency.py[line:687] INFO: unbalanced parenthesis at position 1736
+2021-03-10 19:05:57,138 currency.py[line:767] INFO: unbalanced parenthesis at position 1736
+2021-03-10 19:06:02,180 currency.py[line:687] INFO: unbalanced parenthesis at position 423
+2021-03-10 19:06:02,223 currency.py[line:767] INFO: unbalanced parenthesis at position 423
+2021-03-10 19:06:09,259 currency.py[line:687] INFO: unbalanced parenthesis at position 892
+2021-03-10 19:06:09,461 currency.py[line:767] INFO: unbalanced parenthesis at position 892
+2021-03-10 19:06:12,482 currency.py[line:687] INFO: unbalanced parenthesis at position 437
+2021-03-10 19:06:12,487 currency.py[line:767] INFO: unbalanced parenthesis at position 437
+2021-03-10 19:06:32,209 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1067
+2021-03-10 19:06:32,525 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1067
+2021-03-10 19:06:34,591 currency.py[line:687] INFO: unbalanced parenthesis at position 856
+2021-03-10 19:06:34,634 currency.py[line:767] INFO: unbalanced parenthesis at position 856
+2021-03-10 19:06:37,941 currency.py[line:687] INFO: unbalanced parenthesis at position 634
+2021-03-10 19:06:37,950 currency.py[line:767] INFO: unbalanced parenthesis at position 634
+2021-03-10 19:06:41,589 currency.py[line:687] INFO: missing ), unterminated subpattern at position 986
+2021-03-10 19:06:41,803 currency.py[line:767] INFO: missing ), unterminated subpattern at position 986
+2021-03-10 19:06:46,727 currency.py[line:687] INFO: missing ), unterminated subpattern at position 58
+2021-03-10 19:06:46,842 currency.py[line:767] INFO: missing ), unterminated subpattern at position 58
+2021-03-10 19:06:47,729 currency.py[line:687] INFO: unbalanced parenthesis at position 1061
+2021-03-10 19:06:47,743 currency.py[line:767] INFO: unbalanced parenthesis at position 1061
+2021-03-10 19:06:49,047 currency.py[line:687] INFO: unbalanced parenthesis at position 2787
+2021-03-10 19:06:49,052 currency.py[line:767] INFO: unbalanced parenthesis at position 2787
+2021-03-10 19:07:00,858 currency.py[line:687] INFO: unbalanced parenthesis at position 1021
+2021-03-10 19:07:01,096 currency.py[line:767] INFO: unbalanced parenthesis at position 1021
+2021-03-10 19:07:03,698 currency.py[line:687] INFO: unbalanced parenthesis at position 292
+2021-03-10 19:07:03,733 currency.py[line:767] INFO: unbalanced parenthesis at position 292
+2021-03-10 19:07:07,337 currency.py[line:687] INFO: unbalanced parenthesis at position 485
+2021-03-10 19:07:07,341 currency.py[line:767] INFO: unbalanced parenthesis at position 485
+2021-03-10 19:07:11,833 currency.py[line:687] INFO: unbalanced parenthesis at position 534
+2021-03-10 19:07:11,835 currency.py[line:767] INFO: unbalanced parenthesis at position 534
+2021-03-10 19:07:15,705 currency.py[line:687] INFO: unbalanced parenthesis at position 299
+2021-03-10 19:07:15,753 currency.py[line:767] INFO: unbalanced parenthesis at position 299
+2021-03-10 19:07:20,299 currency.py[line:687] INFO: unbalanced parenthesis at position 823
+2021-03-10 19:07:20,434 currency.py[line:767] INFO: unbalanced parenthesis at position 823
+2021-03-10 19:07:21,329 currency.py[line:687] INFO: unbalanced parenthesis at position 328
+2021-03-10 19:07:21,342 currency.py[line:767] INFO: unbalanced parenthesis at position 328
+2021-03-10 19:07:23,227 currency.py[line:687] INFO: unbalanced parenthesis at position 407
+2021-03-10 19:07:23,362 currency.py[line:767] INFO: unbalanced parenthesis at position 407
+2021-03-10 19:07:35,863 currency.py[line:687] INFO: unbalanced parenthesis at position 2041
+2021-03-10 19:07:36,004 currency.py[line:767] INFO: unbalanced parenthesis at position 2041
+2021-03-10 19:07:43,899 currency.py[line:687] INFO: unbalanced parenthesis at position 3035
+2021-03-10 19:07:43,908 currency.py[line:767] INFO: unbalanced parenthesis at position 3035
+2021-03-10 19:07:45,466 currency.py[line:687] INFO: unbalanced parenthesis at position 689
+2021-03-10 19:07:45,467 currency.py[line:767] INFO: unbalanced parenthesis at position 689
+2021-03-10 19:07:53,888 currency.py[line:687] INFO: unbalanced parenthesis at position 2414
+2021-03-10 19:07:53,892 currency.py[line:767] INFO: unbalanced parenthesis at position 2414
+2021-03-10 19:07:57,604 currency.py[line:687] INFO: unbalanced parenthesis at position 918
+2021-03-10 19:07:57,689 currency.py[line:767] INFO: unbalanced parenthesis at position 918
+2021-03-10 19:08:05,835 currency.py[line:687] INFO: unbalanced parenthesis at position 1131
+2021-03-10 19:08:06,031 currency.py[line:767] INFO: unbalanced parenthesis at position 1131
+2021-03-10 19:08:12,114 currency.py[line:687] INFO: unbalanced parenthesis at position 2205
+2021-03-10 19:08:12,160 currency.py[line:767] INFO: unbalanced parenthesis at position 2205
+2021-03-10 19:08:14,890 currency.py[line:687] INFO: unbalanced parenthesis at position 747
+2021-03-10 19:08:15,135 currency.py[line:767] INFO: unbalanced parenthesis at position 747
+2021-03-10 19:08:16,599 currency.py[line:687] INFO: unbalanced parenthesis at position 413
+2021-03-10 19:08:16,670 currency.py[line:767] INFO: unbalanced parenthesis at position 413
+2021-03-10 19:08:40,223 currency.py[line:687] INFO: unbalanced parenthesis at position 475
+2021-03-10 19:08:40,330 currency.py[line:767] INFO: unbalanced parenthesis at position 475
+2021-03-10 19:08:42,245 currency.py[line:687] INFO: unbalanced parenthesis at position 1047
+2021-03-10 19:08:42,269 currency.py[line:767] INFO: unbalanced parenthesis at position 1047
+2021-03-10 19:08:44,367 currency.py[line:687] INFO: unbalanced parenthesis at position 929
+2021-03-10 19:08:44,377 currency.py[line:767] INFO: unbalanced parenthesis at position 929
+2021-03-10 19:08:45,684 currency.py[line:687] INFO: unbalanced parenthesis at position 2322
+2021-03-10 19:08:45,702 currency.py[line:767] INFO: unbalanced parenthesis at position 2322
+2021-03-10 19:08:50,004 currency.py[line:687] INFO: missing ), unterminated subpattern at position 847
+2021-03-10 19:08:50,018 currency.py[line:767] INFO: missing ), unterminated subpattern at position 847
+2021-03-10 19:11:31,553 currency.py[line:687] INFO: unbalanced parenthesis at position 246
+2021-03-10 19:11:31,564 currency.py[line:767] INFO: unbalanced parenthesis at position 246
+2021-03-10 19:11:36,916 currency.py[line:687] INFO: unbalanced parenthesis at position 277
+2021-03-10 19:11:37,028 currency.py[line:767] INFO: unbalanced parenthesis at position 277
+2021-03-10 19:11:38,423 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1657
+2021-03-10 19:11:38,673 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1657
+2021-03-10 19:11:42,743 currency.py[line:687] INFO: unbalanced parenthesis at position 266
+2021-03-10 19:11:42,790 currency.py[line:767] INFO: unbalanced parenthesis at position 266
+2021-03-10 19:11:46,863 currency.py[line:687] INFO: unbalanced parenthesis at position 832
+2021-03-10 19:11:46,870 currency.py[line:767] INFO: unbalanced parenthesis at position 832
+2021-03-10 19:11:49,852 currency.py[line:687] INFO: unbalanced parenthesis at position 911
+2021-03-10 19:11:50,040 currency.py[line:767] INFO: unbalanced parenthesis at position 911
+2021-03-10 19:11:53,215 currency.py[line:687] INFO: unbalanced parenthesis at position 466
+2021-03-10 19:11:53,386 currency.py[line:767] INFO: unbalanced parenthesis at position 466
+2021-03-10 19:11:54,341 currency.py[line:687] INFO: unbalanced parenthesis at position 1023
+2021-03-10 19:11:54,355 currency.py[line:767] INFO: unbalanced parenthesis at position 1023
+2021-03-10 19:11:58,576 currency.py[line:687] INFO: unbalanced parenthesis at position 730
+2021-03-10 19:11:58,580 currency.py[line:767] INFO: unbalanced parenthesis at position 730
+2021-03-10 19:12:00,747 currency.py[line:687] INFO: unbalanced parenthesis at position 366
+2021-03-10 19:12:00,788 currency.py[line:767] INFO: unbalanced parenthesis at position 366
+2021-03-10 19:12:04,049 currency.py[line:687] INFO: unbalanced parenthesis at position 840
+2021-03-10 19:12:04,211 currency.py[line:767] INFO: unbalanced parenthesis at position 840
+2021-03-10 19:12:08,186 currency.py[line:687] INFO: unbalanced parenthesis at position 1887
+2021-03-10 19:12:08,320 currency.py[line:767] INFO: unbalanced parenthesis at position 1887
+2021-03-10 19:12:10,828 currency.py[line:687] INFO: missing ), unterminated subpattern at position 221
+2021-03-10 19:12:10,840 currency.py[line:767] INFO: missing ), unterminated subpattern at position 221
+2021-03-10 19:12:12,767 currency.py[line:687] INFO: unbalanced parenthesis at position 568
+2021-03-10 19:12:12,768 currency.py[line:767] INFO: unbalanced parenthesis at position 568
+2021-03-10 19:12:14,550 currency.py[line:687] INFO: unbalanced parenthesis at position 764
+2021-03-10 19:12:14,639 currency.py[line:767] INFO: unbalanced parenthesis at position 764
+2021-03-10 19:12:16,550 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1611
+2021-03-10 19:12:16,584 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1611
+2021-03-10 19:12:18,396 currency.py[line:687] INFO: unbalanced parenthesis at position 569
+2021-03-10 19:12:18,397 currency.py[line:767] INFO: unbalanced parenthesis at position 569
+2021-03-10 19:12:21,266 currency.py[line:687] INFO: unbalanced parenthesis at position 593
+2021-03-10 19:12:21,280 currency.py[line:767] INFO: unbalanced parenthesis at position 593
+2021-03-10 19:12:22,027 currency.py[line:687] INFO: unbalanced parenthesis at position 313
+2021-03-10 19:12:22,043 currency.py[line:767] INFO: unbalanced parenthesis at position 313
+2021-03-10 19:12:22,844 currency.py[line:687] INFO: unbalanced parenthesis at position 170
+2021-03-10 19:12:22,951 currency.py[line:767] INFO: unbalanced parenthesis at position 170
+2021-03-10 19:12:23,949 currency.py[line:687] INFO: unbalanced parenthesis at position 228
+2021-03-10 19:12:23,968 currency.py[line:767] INFO: unbalanced parenthesis at position 228
+2021-03-10 19:12:24,595 currency.py[line:687] INFO: missing ), unterminated subpattern at position 159
+2021-03-10 19:12:24,601 currency.py[line:767] INFO: missing ), unterminated subpattern at position 159
+2021-03-10 19:12:26,973 currency.py[line:687] INFO: unbalanced parenthesis at position 539
+2021-03-10 19:12:27,071 currency.py[line:767] INFO: unbalanced parenthesis at position 539
+2021-03-10 19:12:29,105 currency.py[line:687] INFO: unbalanced parenthesis at position 877
+2021-03-10 19:12:29,243 currency.py[line:767] INFO: unbalanced parenthesis at position 877
+2021-03-10 19:12:30,464 currency.py[line:687] INFO: missing ), unterminated subpattern at position 826
+2021-03-10 19:12:30,501 currency.py[line:767] INFO: missing ), unterminated subpattern at position 826
+2021-03-10 19:12:33,644 currency.py[line:687] INFO: unbalanced parenthesis at position 422
+2021-03-10 19:12:33,803 currency.py[line:767] INFO: unbalanced parenthesis at position 422
+2021-03-10 19:12:35,348 currency.py[line:687] INFO: unbalanced parenthesis at position 369
+2021-03-10 19:12:35,538 currency.py[line:767] INFO: unbalanced parenthesis at position 369
+2021-03-10 19:12:41,221 currency.py[line:687] INFO: unbalanced parenthesis at position 396
+2021-03-10 19:12:41,354 currency.py[line:767] INFO: unbalanced parenthesis at position 396
+2021-03-10 19:12:51,082 currency.py[line:687] INFO: missing ), unterminated subpattern at position 382
+2021-03-10 19:12:51,379 currency.py[line:767] INFO: missing ), unterminated subpattern at position 382
+2021-03-10 19:12:54,207 currency.py[line:687] INFO: unbalanced parenthesis at position 499
+2021-03-10 19:12:54,818 currency.py[line:767] INFO: unbalanced parenthesis at position 499
+2021-03-10 19:12:55,903 currency.py[line:687] INFO: unbalanced parenthesis at position 623
+2021-03-10 19:12:56,230 currency.py[line:767] INFO: unbalanced parenthesis at position 623
+2021-03-10 19:12:59,396 currency.py[line:687] INFO: unbalanced parenthesis at position 351
+2021-03-10 19:12:59,969 currency.py[line:767] INFO: unbalanced parenthesis at position 351
+2021-03-10 19:13:04,913 currency.py[line:687] INFO: unbalanced parenthesis at position 430
+2021-03-10 19:13:05,238 currency.py[line:767] INFO: unbalanced parenthesis at position 430
+2021-03-10 19:13:06,587 currency.py[line:687] INFO: unbalanced parenthesis at position 1000
+2021-03-10 19:13:06,842 currency.py[line:767] INFO: unbalanced parenthesis at position 1000
+2021-03-10 19:13:14,740 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1244
+2021-03-10 19:13:14,828 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1244
+2021-03-10 19:13:18,055 currency.py[line:687] INFO: unbalanced parenthesis at position 1216
+2021-03-10 19:13:18,120 currency.py[line:767] INFO: unbalanced parenthesis at position 1216
+2021-03-10 19:13:20,818 currency.py[line:687] INFO: unbalanced parenthesis at position 467
+2021-03-10 19:13:21,165 currency.py[line:767] INFO: unbalanced parenthesis at position 467
+2021-03-10 19:13:35,147 currency.py[line:687] INFO: unbalanced parenthesis at position 612
+2021-03-10 19:13:35,175 currency.py[line:767] INFO: unbalanced parenthesis at position 612
+2021-03-10 19:13:39,996 currency.py[line:687] INFO: unbalanced parenthesis at position 662
+2021-03-10 19:13:40,087 currency.py[line:767] INFO: unbalanced parenthesis at position 662
+2021-03-10 19:13:41,273 currency.py[line:687] INFO: unbalanced parenthesis at position 1574
+2021-03-10 19:13:41,418 currency.py[line:767] INFO: unbalanced parenthesis at position 1574
+2021-03-10 19:13:47,643 currency.py[line:687] INFO: unbalanced parenthesis at position 670
+2021-03-10 19:13:47,645 currency.py[line:767] INFO: unbalanced parenthesis at position 670
+2021-03-10 19:13:51,990 currency.py[line:687] INFO: unbalanced parenthesis at position 215
+2021-03-10 19:13:52,055 currency.py[line:767] INFO: unbalanced parenthesis at position 215
+2021-03-10 19:13:56,294 currency.py[line:687] INFO: unbalanced parenthesis at position 339
+2021-03-10 19:13:56,295 currency.py[line:767] INFO: unbalanced parenthesis at position 339
+2021-03-10 19:14:33,856 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.shuichan.cc', port=80): Read timed out. (read timeout=20)
+2021-03-10 19:14:53,971 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.shuichan.cc', port=80): Read timed out. (read timeout=20)
+2021-03-10 19:15:05,880 currency.py[line:687] INFO: missing ), unterminated subpattern at position 82
+2021-03-10 19:15:06,058 currency.py[line:767] INFO: missing ), unterminated subpattern at position 82
+2021-03-10 19:15:10,088 currency.py[line:687] INFO: missing ), unterminated subpattern at position 420
+2021-03-10 19:15:10,167 currency.py[line:767] INFO: missing ), unterminated subpattern at position 420
+2021-03-10 19:15:12,770 currency.py[line:687] INFO: unbalanced parenthesis at position 46
+2021-03-10 19:15:12,784 currency.py[line:767] INFO: unbalanced parenthesis at position 46
+2021-03-10 19:15:13,795 currency.py[line:687] INFO: missing ), unterminated subpattern at position 479
+2021-03-10 19:15:13,881 currency.py[line:767] INFO: missing ), unterminated subpattern at position 479
+2021-03-10 19:18:00,379 currency.py[line:687] INFO: unbalanced parenthesis at position 864
+2021-03-10 19:18:00,410 currency.py[line:767] INFO: unbalanced parenthesis at position 864
+2021-03-10 19:18:06,169 currency.py[line:687] INFO: unbalanced parenthesis at position 1058
+2021-03-10 19:18:06,173 currency.py[line:767] INFO: unbalanced parenthesis at position 1058
+2021-03-10 19:18:19,314 currency.py[line:687] INFO: missing ), unterminated subpattern at position 2463
+2021-03-10 19:18:19,317 currency.py[line:767] INFO: missing ), unterminated subpattern at position 2463
+2021-03-10 19:18:21,580 currency.py[line:687] INFO: unbalanced parenthesis at position 588
+2021-03-10 19:18:21,608 currency.py[line:767] INFO: unbalanced parenthesis at position 588
+2021-03-10 19:18:25,321 currency.py[line:687] INFO: unbalanced parenthesis at position 597
+2021-03-10 19:18:25,333 currency.py[line:767] INFO: unbalanced parenthesis at position 597
+2021-03-10 19:18:27,996 currency.py[line:687] INFO: unbalanced parenthesis at position 1420
+2021-03-10 19:18:27,999 currency.py[line:767] INFO: unbalanced parenthesis at position 1420
+2021-03-10 19:18:41,067 currency.py[line:687] INFO: unbalanced parenthesis at position 1373
+2021-03-10 19:18:41,070 currency.py[line:767] INFO: unbalanced parenthesis at position 1373
+2021-03-10 19:18:41,622 currency.py[line:687] INFO: unbalanced parenthesis at position 737
+2021-03-10 19:18:41,624 currency.py[line:767] INFO: unbalanced parenthesis at position 737
+2021-03-10 19:18:53,052 currency.py[line:687] INFO: missing ), unterminated subpattern at position 2021
+2021-03-10 19:18:53,055 currency.py[line:767] INFO: missing ), unterminated subpattern at position 2021
+2021-03-10 19:19:11,735 currency.py[line:687] INFO: unbalanced parenthesis at position 540
+2021-03-10 19:19:11,738 currency.py[line:767] INFO: unbalanced parenthesis at position 540
+2021-03-10 19:19:13,032 currency.py[line:687] INFO: unbalanced parenthesis at position 592
+2021-03-10 19:19:13,033 currency.py[line:767] INFO: unbalanced parenthesis at position 592
+2021-03-10 19:19:23,921 currency.py[line:687] INFO: missing ), unterminated subpattern at position 765
+2021-03-10 19:19:23,924 currency.py[line:767] INFO: missing ), unterminated subpattern at position 765
+2021-03-10 19:19:26,971 currency.py[line:687] INFO: unbalanced parenthesis at position 538
+2021-03-10 19:19:26,979 currency.py[line:767] INFO: unbalanced parenthesis at position 538
+2021-03-10 19:19:33,573 currency.py[line:687] INFO: unbalanced parenthesis at position 746
+2021-03-10 19:19:33,636 currency.py[line:767] INFO: unbalanced parenthesis at position 746
+2021-03-10 19:19:35,878 currency.py[line:687] INFO: unbalanced parenthesis at position 1372
+2021-03-10 19:19:35,883 currency.py[line:767] INFO: unbalanced parenthesis at position 1372
+2021-03-10 19:19:36,636 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1426
+2021-03-10 19:19:36,642 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1426
+2021-03-10 19:19:41,974 currency.py[line:687] INFO: unbalanced parenthesis at position 819
+2021-03-10 19:19:41,976 currency.py[line:767] INFO: unbalanced parenthesis at position 819
+2021-03-10 19:19:47,202 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1356
+2021-03-10 19:19:47,205 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1356
+2021-03-10 19:19:48,743 currency.py[line:687] INFO: unbalanced parenthesis at position 1204
+2021-03-10 19:19:48,745 currency.py[line:767] INFO: unbalanced parenthesis at position 1204
+2021-03-11 18:45:08,961 currency.py[line:687] INFO: unbalanced parenthesis at position 892
+2021-03-11 18:45:09,033 currency.py[line:767] INFO: unbalanced parenthesis at position 892
+2021-03-11 18:45:13,040 currency.py[line:687] INFO: unbalanced parenthesis at position 856
+2021-03-11 18:45:13,045 currency.py[line:767] INFO: unbalanced parenthesis at position 856
+2021-03-11 18:45:18,107 currency.py[line:687] INFO: unbalanced parenthesis at position 1061
+2021-03-11 18:45:18,175 currency.py[line:767] INFO: unbalanced parenthesis at position 1061
+2021-03-11 18:45:22,978 currency.py[line:687] INFO: unbalanced parenthesis at position 2787
+2021-03-11 18:45:23,071 currency.py[line:767] INFO: unbalanced parenthesis at position 2787
+2021-03-11 18:45:29,111 currency.py[line:687] INFO: unbalanced parenthesis at position 423
+2021-03-11 18:45:29,216 currency.py[line:767] INFO: unbalanced parenthesis at position 423
+2021-03-11 18:45:30,154 currency.py[line:687] INFO: unbalanced parenthesis at position 1736
+2021-03-11 18:45:30,216 currency.py[line:767] INFO: unbalanced parenthesis at position 1736
+2021-03-11 18:45:30,822 currency.py[line:687] INFO: missing ), unterminated subpattern at position 58
+2021-03-11 18:45:30,829 currency.py[line:767] INFO: missing ), unterminated subpattern at position 58
+2021-03-11 18:45:45,623 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1067
+2021-03-11 18:45:45,704 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1067
+2021-03-11 18:45:50,643 currency.py[line:687] INFO: unbalanced parenthesis at position 634
+2021-03-11 18:45:50,677 currency.py[line:767] INFO: unbalanced parenthesis at position 634
+2021-03-11 18:45:52,786 currency.py[line:687] INFO: missing ), unterminated subpattern at position 986
+2021-03-11 18:45:52,869 currency.py[line:767] INFO: missing ), unterminated subpattern at position 986
+2021-03-11 18:45:56,626 currency.py[line:687] INFO: unbalanced parenthesis at position 437
+2021-03-11 18:45:56,760 currency.py[line:767] INFO: unbalanced parenthesis at position 437
+2021-03-11 18:46:06,662 currency.py[line:687] INFO: unbalanced parenthesis at position 823
+2021-03-11 18:46:06,737 currency.py[line:767] INFO: unbalanced parenthesis at position 823
+2021-03-11 18:46:07,650 currency.py[line:687] INFO: unbalanced parenthesis at position 689
+2021-03-11 18:46:07,676 currency.py[line:767] INFO: unbalanced parenthesis at position 689
+2021-03-11 18:46:15,215 currency.py[line:687] INFO: unbalanced parenthesis at position 407
+2021-03-11 18:46:15,320 currency.py[line:767] INFO: unbalanced parenthesis at position 407
+2021-03-11 18:46:15,967 currency.py[line:687] INFO: unbalanced parenthesis at position 299
+2021-03-11 18:46:16,053 currency.py[line:767] INFO: unbalanced parenthesis at position 299
+2021-03-11 18:46:21,082 currency.py[line:687] INFO: unbalanced parenthesis at position 328
+2021-03-11 18:46:21,108 currency.py[line:767] INFO: unbalanced parenthesis at position 328
+2021-03-11 18:46:23,852 currency.py[line:687] INFO: unbalanced parenthesis at position 292
+2021-03-11 18:46:23,935 currency.py[line:767] INFO: unbalanced parenthesis at position 292
+2021-03-11 18:46:26,675 currency.py[line:687] INFO: unbalanced parenthesis at position 1021
+2021-03-11 18:46:26,716 currency.py[line:767] INFO: unbalanced parenthesis at position 1021
+2021-03-11 18:46:31,962 currency.py[line:687] INFO: unbalanced parenthesis at position 534
+2021-03-11 18:46:32,064 currency.py[line:767] INFO: unbalanced parenthesis at position 534
+2021-03-11 18:46:34,486 currency.py[line:687] INFO: unbalanced parenthesis at position 3035
+2021-03-11 18:46:34,746 currency.py[line:767] INFO: unbalanced parenthesis at position 3035
+2021-03-11 18:46:37,197 currency.py[line:687] INFO: unbalanced parenthesis at position 485
+2021-03-11 18:46:37,253 currency.py[line:767] INFO: unbalanced parenthesis at position 485
+2021-03-11 18:46:43,653 currency.py[line:687] INFO: unbalanced parenthesis at position 747
+2021-03-11 18:46:43,703 currency.py[line:767] INFO: unbalanced parenthesis at position 747
+2021-03-11 18:46:46,184 currency.py[line:687] INFO: unbalanced parenthesis at position 929
+2021-03-11 18:46:46,318 currency.py[line:767] INFO: unbalanced parenthesis at position 929
+2021-03-11 18:47:10,481 currency.py[line:687] INFO: unbalanced parenthesis at position 475
+2021-03-11 18:47:10,537 currency.py[line:767] INFO: unbalanced parenthesis at position 475
+2021-03-11 18:47:18,079 currency.py[line:687] INFO: unbalanced parenthesis at position 2205
+2021-03-11 18:47:18,086 currency.py[line:767] INFO: unbalanced parenthesis at position 2205
+2021-03-11 18:47:20,832 currency.py[line:687] INFO: unbalanced parenthesis at position 1047
+2021-03-11 18:47:21,001 currency.py[line:767] INFO: unbalanced parenthesis at position 1047
+2021-03-11 18:47:22,109 currency.py[line:687] INFO: unbalanced parenthesis at position 413
+2021-03-11 18:47:22,135 currency.py[line:767] INFO: unbalanced parenthesis at position 413
+2021-03-11 18:47:29,077 currency.py[line:687] INFO: unbalanced parenthesis at position 2322
+2021-03-11 18:47:29,120 currency.py[line:767] INFO: unbalanced parenthesis at position 2322
+2021-03-11 18:47:35,627 currency.py[line:687] INFO: unbalanced parenthesis at position 2414
+2021-03-11 18:47:35,664 currency.py[line:767] INFO: unbalanced parenthesis at position 2414
+2021-03-11 18:47:37,652 currency.py[line:687] INFO: unbalanced parenthesis at position 1131
+2021-03-11 18:47:38,009 currency.py[line:767] INFO: unbalanced parenthesis at position 1131
+2021-03-11 18:47:45,018 currency.py[line:687] INFO: unbalanced parenthesis at position 2041
+2021-03-11 18:47:45,059 currency.py[line:767] INFO: unbalanced parenthesis at position 2041
+2021-03-11 18:47:46,799 currency.py[line:687] INFO: missing ), unterminated subpattern at position 847
+2021-03-11 18:47:46,898 currency.py[line:767] INFO: missing ), unterminated subpattern at position 847
+2021-03-11 18:47:48,737 currency.py[line:687] INFO: unbalanced parenthesis at position 918
+2021-03-11 18:47:48,839 currency.py[line:767] INFO: unbalanced parenthesis at position 918
+2021-03-11 18:50:14,960 currency.py[line:687] INFO: unbalanced parenthesis at position 1887
+2021-03-11 18:50:15,023 currency.py[line:767] INFO: unbalanced parenthesis at position 1887
+2021-03-11 18:50:17,019 currency.py[line:687] INFO: unbalanced parenthesis at position 1023
+2021-03-11 18:50:17,072 currency.py[line:767] INFO: unbalanced parenthesis at position 1023
+2021-03-11 18:50:17,943 currency.py[line:687] INFO: unbalanced parenthesis at position 277
+2021-03-11 18:50:18,048 currency.py[line:767] INFO: unbalanced parenthesis at position 277
+2021-03-11 18:50:19,686 currency.py[line:687] INFO: unbalanced parenthesis at position 911
+2021-03-11 18:50:19,688 currency.py[line:767] INFO: unbalanced parenthesis at position 911
+2021-03-11 18:50:21,392 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1611
+2021-03-11 18:50:21,404 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1611
+2021-03-11 18:50:24,822 currency.py[line:687] INFO: missing ), unterminated subpattern at position 221
+2021-03-11 18:50:24,947 currency.py[line:767] INFO: missing ), unterminated subpattern at position 221
+2021-03-11 18:50:25,714 currency.py[line:687] INFO: unbalanced parenthesis at position 832
+2021-03-11 18:50:25,762 currency.py[line:767] INFO: unbalanced parenthesis at position 832
+2021-03-11 18:50:29,798 currency.py[line:687] INFO: unbalanced parenthesis at position 466
+2021-03-11 18:50:29,932 currency.py[line:767] INFO: unbalanced parenthesis at position 466
+2021-03-11 18:50:30,864 currency.py[line:687] INFO: unbalanced parenthesis at position 568
+2021-03-11 18:50:31,052 currency.py[line:767] INFO: unbalanced parenthesis at position 568
+2021-03-11 18:50:33,627 currency.py[line:687] INFO: unbalanced parenthesis at position 366
+2021-03-11 18:50:33,635 currency.py[line:767] INFO: unbalanced parenthesis at position 366
+2021-03-11 18:50:35,178 currency.py[line:687] INFO: unbalanced parenthesis at position 246
+2021-03-11 18:50:35,211 currency.py[line:767] INFO: unbalanced parenthesis at position 246
+2021-03-11 18:50:37,059 currency.py[line:687] INFO: unbalanced parenthesis at position 569
+2021-03-11 18:50:37,218 currency.py[line:767] INFO: unbalanced parenthesis at position 569
+2021-03-11 18:50:38,092 currency.py[line:687] INFO: unbalanced parenthesis at position 730
+2021-03-11 18:50:38,227 currency.py[line:767] INFO: unbalanced parenthesis at position 730
+2021-03-11 18:50:39,032 currency.py[line:687] INFO: unbalanced parenthesis at position 764
+2021-03-11 18:50:39,034 currency.py[line:767] INFO: unbalanced parenthesis at position 764
+2021-03-11 18:50:40,749 currency.py[line:687] INFO: unbalanced parenthesis at position 840
+2021-03-11 18:50:40,892 currency.py[line:767] INFO: unbalanced parenthesis at position 840
+2021-03-11 18:50:43,929 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1657
+2021-03-11 18:50:44,064 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1657
+2021-03-11 18:50:53,405 currency.py[line:687] INFO: unbalanced parenthesis at position 430
+2021-03-11 18:50:53,478 currency.py[line:767] INFO: unbalanced parenthesis at position 430
+2021-03-11 18:50:55,163 currency.py[line:687] INFO: unbalanced parenthesis at position 1000
+2021-03-11 18:50:55,165 currency.py[line:767] INFO: unbalanced parenthesis at position 1000
+2021-03-11 18:50:55,908 currency.py[line:687] INFO: missing ), unterminated subpattern at position 382
+2021-03-11 18:50:55,974 currency.py[line:767] INFO: missing ), unterminated subpattern at position 382
+2021-03-11 18:51:03,807 currency.py[line:687] INFO: unbalanced parenthesis at position 369
+2021-03-11 18:51:04,021 currency.py[line:767] INFO: unbalanced parenthesis at position 369
+2021-03-11 18:51:05,053 currency.py[line:687] INFO: unbalanced parenthesis at position 351
+2021-03-11 18:51:05,152 currency.py[line:767] INFO: unbalanced parenthesis at position 351
+2021-03-11 18:51:12,806 currency.py[line:687] INFO: unbalanced parenthesis at position 539
+2021-03-11 18:51:12,829 currency.py[line:767] INFO: unbalanced parenthesis at position 539
+2021-03-11 18:51:15,462 currency.py[line:687] INFO: unbalanced parenthesis at position 396
+2021-03-11 18:51:15,570 currency.py[line:767] INFO: unbalanced parenthesis at position 396
+2021-03-11 18:51:16,493 currency.py[line:687] INFO: unbalanced parenthesis at position 266
+2021-03-11 18:51:16,654 currency.py[line:767] INFO: unbalanced parenthesis at position 266
+2021-03-11 18:51:17,455 currency.py[line:687] INFO: unbalanced parenthesis at position 422
+2021-03-11 18:51:17,501 currency.py[line:767] INFO: unbalanced parenthesis at position 422
+2021-03-11 18:51:22,456 currency.py[line:687] INFO: unbalanced parenthesis at position 1216
+2021-03-11 18:51:22,687 currency.py[line:767] INFO: unbalanced parenthesis at position 1216
+2021-03-11 18:51:24,475 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1244
+2021-03-11 18:51:24,533 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1244
+2021-03-11 18:51:25,290 currency.py[line:687] INFO: unbalanced parenthesis at position 593
+2021-03-11 18:51:25,316 currency.py[line:767] INFO: unbalanced parenthesis at position 593
+2021-03-11 18:51:26,063 currency.py[line:687] INFO: missing ), unterminated subpattern at position 826
+2021-03-11 18:51:26,065 currency.py[line:767] INFO: missing ), unterminated subpattern at position 826
+2021-03-11 18:51:26,943 currency.py[line:687] INFO: unbalanced parenthesis at position 499
+2021-03-11 18:51:26,991 currency.py[line:767] INFO: unbalanced parenthesis at position 499
+2021-03-11 18:51:28,001 currency.py[line:687] INFO: unbalanced parenthesis at position 170
+2021-03-11 18:51:28,075 currency.py[line:767] INFO: unbalanced parenthesis at position 170
+2021-03-11 18:51:28,756 currency.py[line:687] INFO: unbalanced parenthesis at position 623
+2021-03-11 18:51:28,774 currency.py[line:767] INFO: unbalanced parenthesis at position 623
+2021-03-11 18:51:31,103 currency.py[line:687] INFO: missing ), unterminated subpattern at position 159
+2021-03-11 18:51:31,174 currency.py[line:767] INFO: missing ), unterminated subpattern at position 159
+2021-03-11 18:51:32,989 currency.py[line:687] INFO: unbalanced parenthesis at position 877
+2021-03-11 18:51:33,194 currency.py[line:767] INFO: unbalanced parenthesis at position 877
+2021-03-11 18:51:34,280 currency.py[line:687] INFO: unbalanced parenthesis at position 313
+2021-03-11 18:51:34,319 currency.py[line:767] INFO: unbalanced parenthesis at position 313
+2021-03-11 18:51:35,620 currency.py[line:687] INFO: unbalanced parenthesis at position 228
+2021-03-11 18:51:35,717 currency.py[line:767] INFO: unbalanced parenthesis at position 228
+2021-03-11 18:51:41,523 currency.py[line:687] INFO: unbalanced parenthesis at position 339
+2021-03-11 18:51:41,653 currency.py[line:767] INFO: unbalanced parenthesis at position 339
+2021-03-11 18:51:44,837 currency.py[line:687] INFO: missing ), unterminated subpattern at position 420
+2021-03-11 18:51:44,890 currency.py[line:767] INFO: missing ), unterminated subpattern at position 420
+2021-03-11 18:51:49,885 currency.py[line:687] INFO: missing ), unterminated subpattern at position 82
+2021-03-11 18:51:49,920 currency.py[line:767] INFO: missing ), unterminated subpattern at position 82
+2021-03-11 18:51:52,216 currency.py[line:687] INFO: unbalanced parenthesis at position 467
+2021-03-11 18:51:52,319 currency.py[line:767] INFO: unbalanced parenthesis at position 467
+2021-03-11 18:51:53,507 currency.py[line:687] INFO: unbalanced parenthesis at position 46
+2021-03-11 18:51:53,592 currency.py[line:767] INFO: unbalanced parenthesis at position 46
+2021-03-11 18:52:11,390 currency.py[line:687] INFO: unbalanced parenthesis at position 215
+2021-03-11 18:52:11,474 currency.py[line:767] INFO: unbalanced parenthesis at position 215
+2021-03-11 18:52:18,563 currency.py[line:687] INFO: missing ), unterminated subpattern at position 479
+2021-03-11 18:52:18,597 currency.py[line:767] INFO: missing ), unterminated subpattern at position 479
+2021-03-11 18:52:19,598 currency.py[line:687] INFO: unbalanced parenthesis at position 1574
+2021-03-11 18:52:20,135 currency.py[line:767] INFO: unbalanced parenthesis at position 1574
+2021-03-11 18:52:21,026 currency.py[line:687] INFO: unbalanced parenthesis at position 612
+2021-03-11 18:52:21,093 currency.py[line:767] INFO: unbalanced parenthesis at position 612
+2021-03-11 18:52:22,013 currency.py[line:687] INFO: unbalanced parenthesis at position 662
+2021-03-11 18:52:22,098 currency.py[line:767] INFO: unbalanced parenthesis at position 662
+2021-03-11 18:52:24,105 currency.py[line:687] INFO: unbalanced parenthesis at position 670
+2021-03-11 18:52:24,178 currency.py[line:767] INFO: unbalanced parenthesis at position 670
+2021-03-11 18:55:03,392 currency.py[line:687] INFO: unbalanced parenthesis at position 1058
+2021-03-11 18:55:03,477 currency.py[line:767] INFO: unbalanced parenthesis at position 1058
+2021-03-11 18:55:06,583 currency.py[line:687] INFO: unbalanced parenthesis at position 597
+2021-03-11 18:55:06,740 currency.py[line:767] INFO: unbalanced parenthesis at position 597
+2021-03-11 18:55:18,231 currency.py[line:687] INFO: unbalanced parenthesis at position 1420
+2021-03-11 18:55:18,331 currency.py[line:767] INFO: unbalanced parenthesis at position 1420
+2021-03-11 18:55:21,171 currency.py[line:687] INFO: missing ), unterminated subpattern at position 2463
+2021-03-11 18:55:21,208 currency.py[line:767] INFO: missing ), unterminated subpattern at position 2463
+2021-03-11 18:55:22,848 currency.py[line:687] INFO: unbalanced parenthesis at position 588
+2021-03-11 18:55:22,954 currency.py[line:767] INFO: unbalanced parenthesis at position 588
+2021-03-11 18:55:36,476 currency.py[line:687] INFO: unbalanced parenthesis at position 864
+2021-03-11 18:55:36,551 currency.py[line:767] INFO: unbalanced parenthesis at position 864
+2021-03-11 18:55:58,855 currency.py[line:687] INFO: unbalanced parenthesis at position 1373
+2021-03-11 18:55:58,891 currency.py[line:767] INFO: unbalanced parenthesis at position 1373
+2021-03-11 18:56:04,174 currency.py[line:687] INFO: unbalanced parenthesis at position 592
+2021-03-11 18:56:04,179 currency.py[line:767] INFO: unbalanced parenthesis at position 592
+2021-03-11 18:56:19,407 currency.py[line:687] INFO: unbalanced parenthesis at position 737
+2021-03-11 18:56:19,460 currency.py[line:767] INFO: unbalanced parenthesis at position 737
+2021-03-11 18:56:25,670 currency.py[line:687] INFO: unbalanced parenthesis at position 540
+2021-03-11 18:56:25,776 currency.py[line:767] INFO: unbalanced parenthesis at position 540
+2021-03-11 18:56:27,773 currency.py[line:687] INFO: missing ), unterminated subpattern at position 2021
+2021-03-11 18:56:27,876 currency.py[line:767] INFO: missing ), unterminated subpattern at position 2021
+2021-03-11 18:56:33,689 currency.py[line:687] INFO: unbalanced parenthesis at position 746
+2021-03-11 18:56:33,696 currency.py[line:767] INFO: unbalanced parenthesis at position 746
+2021-03-11 18:56:44,534 currency.py[line:687] INFO: unbalanced parenthesis at position 1372
+2021-03-11 18:56:44,706 currency.py[line:767] INFO: unbalanced parenthesis at position 1372
+2021-03-11 18:56:53,628 currency.py[line:687] INFO: unbalanced parenthesis at position 1204
+2021-03-11 18:56:53,792 currency.py[line:767] INFO: unbalanced parenthesis at position 1204
+2021-03-11 18:56:55,550 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1356
+2021-03-11 18:56:55,578 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1356
+2021-03-11 18:56:56,679 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1426
+2021-03-11 18:56:56,688 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1426
+2021-03-11 18:56:57,537 currency.py[line:687] INFO: unbalanced parenthesis at position 538
+2021-03-11 18:56:57,550 currency.py[line:767] INFO: unbalanced parenthesis at position 538
+2021-03-11 18:57:14,190 currency.py[line:687] INFO: missing ), unterminated subpattern at position 765
+2021-03-11 18:57:14,263 currency.py[line:767] INFO: missing ), unterminated subpattern at position 765
+2021-03-12 21:22:15,903 currency.py[line:687] INFO: unbalanced parenthesis at position 634
+2021-03-12 21:22:16,268 currency.py[line:767] INFO: unbalanced parenthesis at position 634
+2021-03-12 21:22:22,806 currency.py[line:687] INFO: unbalanced parenthesis at position 1061
+2021-03-12 21:22:22,841 currency.py[line:767] INFO: unbalanced parenthesis at position 1061
+2021-03-12 21:22:27,044 currency.py[line:687] INFO: missing ), unterminated subpattern at position 58
+2021-03-12 21:22:27,327 currency.py[line:767] INFO: missing ), unterminated subpattern at position 58
+2021-03-12 21:22:33,214 currency.py[line:687] INFO: unbalanced parenthesis at position 437
+2021-03-12 21:22:33,229 currency.py[line:767] INFO: unbalanced parenthesis at position 437
+2021-03-12 21:22:36,084 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1067
+2021-03-12 21:22:36,092 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1067
+2021-03-12 21:22:43,599 currency.py[line:687] INFO: unbalanced parenthesis at position 423
+2021-03-12 21:22:43,615 currency.py[line:767] INFO: unbalanced parenthesis at position 423
+2021-03-12 21:22:56,975 currency.py[line:687] INFO: unbalanced parenthesis at position 1736
+2021-03-12 21:22:57,043 currency.py[line:767] INFO: unbalanced parenthesis at position 1736
+2021-03-12 21:22:58,085 currency.py[line:687] INFO: unbalanced parenthesis at position 892
+2021-03-12 21:22:58,185 currency.py[line:767] INFO: unbalanced parenthesis at position 892
+2021-03-12 21:22:59,082 currency.py[line:687] INFO: missing ), unterminated subpattern at position 986
+2021-03-12 21:22:59,374 currency.py[line:767] INFO: missing ), unterminated subpattern at position 986
+2021-03-12 21:23:06,944 currency.py[line:687] INFO: unbalanced parenthesis at position 856
+2021-03-12 21:23:07,213 currency.py[line:767] INFO: unbalanced parenthesis at position 856
+2021-03-12 21:23:08,529 currency.py[line:687] INFO: unbalanced parenthesis at position 2787
+2021-03-12 21:23:08,700 currency.py[line:767] INFO: unbalanced parenthesis at position 2787
+2021-03-12 21:23:18,717 currency.py[line:687] INFO: unbalanced parenthesis at position 3035
+2021-03-12 21:23:18,751 currency.py[line:767] INFO: unbalanced parenthesis at position 3035
+2021-03-12 21:23:25,148 currency.py[line:687] INFO: unbalanced parenthesis at position 292
+2021-03-12 21:23:25,237 currency.py[line:767] INFO: unbalanced parenthesis at position 292
+2021-03-12 21:23:27,231 currency.py[line:687] INFO: unbalanced parenthesis at position 299
+2021-03-12 21:23:27,456 currency.py[line:767] INFO: unbalanced parenthesis at position 299
+2021-03-12 21:23:29,673 currency.py[line:687] INFO: unbalanced parenthesis at position 407
+2021-03-12 21:23:30,061 currency.py[line:767] INFO: unbalanced parenthesis at position 407
+2021-03-12 21:23:36,760 currency.py[line:687] INFO: unbalanced parenthesis at position 534
+2021-03-12 21:23:36,956 currency.py[line:767] INFO: unbalanced parenthesis at position 534
+2021-03-12 21:23:44,134 currency.py[line:687] INFO: unbalanced parenthesis at position 823
+2021-03-12 21:23:44,206 currency.py[line:767] INFO: unbalanced parenthesis at position 823
+2021-03-12 21:23:46,046 currency.py[line:687] INFO: unbalanced parenthesis at position 328
+2021-03-12 21:23:46,207 currency.py[line:767] INFO: unbalanced parenthesis at position 328
+2021-03-12 21:23:49,063 currency.py[line:687] INFO: unbalanced parenthesis at position 689
+2021-03-12 21:23:49,301 currency.py[line:767] INFO: unbalanced parenthesis at position 689
+2021-03-12 21:23:55,360 currency.py[line:687] INFO: unbalanced parenthesis at position 485
+2021-03-12 21:23:55,508 currency.py[line:767] INFO: unbalanced parenthesis at position 485
+2021-03-12 21:24:11,925 currency.py[line:687] INFO: unbalanced parenthesis at position 1021
+2021-03-12 21:24:11,934 currency.py[line:767] INFO: unbalanced parenthesis at position 1021
+2021-03-12 21:24:21,832 currency.py[line:687] INFO: unbalanced parenthesis at position 2041
+2021-03-12 21:24:21,946 currency.py[line:767] INFO: unbalanced parenthesis at position 2041
+2021-03-12 21:24:22,827 currency.py[line:687] INFO: unbalanced parenthesis at position 929
+2021-03-12 21:24:22,991 currency.py[line:767] INFO: unbalanced parenthesis at position 929
+2021-03-12 21:24:26,056 currency.py[line:687] INFO: unbalanced parenthesis at position 918
+2021-03-12 21:24:26,434 currency.py[line:767] INFO: unbalanced parenthesis at position 918
+2021-03-12 21:24:28,767 currency.py[line:687] INFO: unbalanced parenthesis at position 1131
+2021-03-12 21:24:28,924 currency.py[line:767] INFO: unbalanced parenthesis at position 1131
+2021-03-12 21:24:49,942 currency.py[line:687] INFO: unbalanced parenthesis at position 475
+2021-03-12 21:24:50,144 currency.py[line:767] INFO: unbalanced parenthesis at position 475
+2021-03-12 21:24:51,057 currency.py[line:687] INFO: unbalanced parenthesis at position 413
+2021-03-12 21:24:51,326 currency.py[line:767] INFO: unbalanced parenthesis at position 413
+2021-03-12 21:24:54,725 currency.py[line:687] INFO: unbalanced parenthesis at position 2414
+2021-03-12 21:24:54,892 currency.py[line:767] INFO: unbalanced parenthesis at position 2414
+2021-03-12 21:24:59,699 currency.py[line:687] INFO: missing ), unterminated subpattern at position 847
+2021-03-12 21:24:59,787 currency.py[line:767] INFO: missing ), unterminated subpattern at position 847
+2021-03-12 21:25:00,925 currency.py[line:687] INFO: unbalanced parenthesis at position 747
+2021-03-12 21:25:01,216 currency.py[line:767] INFO: unbalanced parenthesis at position 747
+2021-03-12 21:25:17,399 currency.py[line:687] INFO: unbalanced parenthesis at position 2322
+2021-03-12 21:25:17,411 currency.py[line:767] INFO: unbalanced parenthesis at position 2322
+2021-03-12 21:25:23,525 currency.py[line:687] INFO: unbalanced parenthesis at position 1047
+2021-03-12 21:25:23,658 currency.py[line:767] INFO: unbalanced parenthesis at position 1047
+2021-03-12 21:25:24,706 currency.py[line:687] INFO: unbalanced parenthesis at position 2205
+2021-03-12 21:25:24,883 currency.py[line:767] INFO: unbalanced parenthesis at position 2205
+2021-03-12 21:28:02,768 currency.py[line:687] INFO: unbalanced parenthesis at position 730
+2021-03-12 21:28:02,835 currency.py[line:767] INFO: unbalanced parenthesis at position 730
+2021-03-12 21:28:05,503 currency.py[line:687] INFO: unbalanced parenthesis at position 764
+2021-03-12 21:28:05,629 currency.py[line:767] INFO: unbalanced parenthesis at position 764
+2021-03-12 21:28:07,738 currency.py[line:687] INFO: unbalanced parenthesis at position 1887
+2021-03-12 21:28:07,878 currency.py[line:767] INFO: unbalanced parenthesis at position 1887
+2021-03-12 21:28:08,718 currency.py[line:687] INFO: unbalanced parenthesis at position 568
+2021-03-12 21:28:08,742 currency.py[line:767] INFO: unbalanced parenthesis at position 568
+2021-03-12 21:28:10,658 currency.py[line:687] INFO: unbalanced parenthesis at position 277
+2021-03-12 21:28:10,668 currency.py[line:767] INFO: unbalanced parenthesis at position 277
+2021-03-12 21:28:15,079 currency.py[line:687] INFO: unbalanced parenthesis at position 569
+2021-03-12 21:28:15,091 currency.py[line:767] INFO: unbalanced parenthesis at position 569
+2021-03-12 21:28:23,668 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1657
+2021-03-12 21:28:23,954 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1657
+2021-03-12 21:28:25,929 currency.py[line:687] INFO: missing ), unterminated subpattern at position 221
+2021-03-12 21:28:25,980 currency.py[line:767] INFO: missing ), unterminated subpattern at position 221
+2021-03-12 21:28:30,295 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1611
+2021-03-12 21:28:30,397 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1611
+2021-03-12 21:28:36,691 currency.py[line:687] INFO: unbalanced parenthesis at position 840
+2021-03-12 21:28:36,791 currency.py[line:767] INFO: unbalanced parenthesis at position 840
+2021-03-12 21:28:40,368 currency.py[line:687] INFO: unbalanced parenthesis at position 246
+2021-03-12 21:28:40,406 currency.py[line:767] INFO: unbalanced parenthesis at position 246
+2021-03-12 21:28:41,176 currency.py[line:687] INFO: unbalanced parenthesis at position 911
+2021-03-12 21:28:41,301 currency.py[line:767] INFO: unbalanced parenthesis at position 911
+2021-03-12 21:28:42,280 currency.py[line:687] INFO: unbalanced parenthesis at position 466
+2021-03-12 21:28:42,306 currency.py[line:767] INFO: unbalanced parenthesis at position 466
+2021-03-12 21:28:44,684 currency.py[line:687] INFO: unbalanced parenthesis at position 1023
+2021-03-12 21:28:44,806 currency.py[line:767] INFO: unbalanced parenthesis at position 1023
+2021-03-12 21:28:46,936 currency.py[line:687] INFO: unbalanced parenthesis at position 832
+2021-03-12 21:28:47,047 currency.py[line:767] INFO: unbalanced parenthesis at position 832
+2021-03-12 21:28:49,128 currency.py[line:687] INFO: unbalanced parenthesis at position 366
+2021-03-12 21:28:49,173 currency.py[line:767] INFO: unbalanced parenthesis at position 366
+2021-03-12 21:28:49,956 currency.py[line:687] INFO: unbalanced parenthesis at position 313
+2021-03-12 21:28:49,990 currency.py[line:767] INFO: unbalanced parenthesis at position 313
+2021-03-12 21:28:51,611 currency.py[line:687] INFO: unbalanced parenthesis at position 499
+2021-03-12 21:28:51,715 currency.py[line:767] INFO: unbalanced parenthesis at position 499
+2021-03-12 21:28:52,676 currency.py[line:687] INFO: unbalanced parenthesis at position 228
+2021-03-12 21:28:52,723 currency.py[line:767] INFO: unbalanced parenthesis at position 228
+2021-03-12 21:28:53,666 currency.py[line:687] INFO: unbalanced parenthesis at position 1000
+2021-03-12 21:28:53,681 currency.py[line:767] INFO: unbalanced parenthesis at position 1000
+2021-03-12 21:28:54,274 currency.py[line:687] INFO: unbalanced parenthesis at position 266
+2021-03-12 21:28:54,276 currency.py[line:767] INFO: unbalanced parenthesis at position 266
+2021-03-12 21:28:57,815 currency.py[line:687] INFO: unbalanced parenthesis at position 170
+2021-03-12 21:28:57,822 currency.py[line:767] INFO: unbalanced parenthesis at position 170
+2021-03-12 21:28:58,548 currency.py[line:687] INFO: unbalanced parenthesis at position 351
+2021-03-12 21:28:58,550 currency.py[line:767] INFO: unbalanced parenthesis at position 351
+2021-03-12 21:28:59,699 currency.py[line:687] INFO: unbalanced parenthesis at position 623
+2021-03-12 21:28:59,948 currency.py[line:767] INFO: unbalanced parenthesis at position 623
+2021-03-12 21:29:00,953 currency.py[line:687] INFO: unbalanced parenthesis at position 877
+2021-03-12 21:29:00,978 currency.py[line:767] INFO: unbalanced parenthesis at position 877
+2021-03-12 21:29:02,423 currency.py[line:687] INFO: unbalanced parenthesis at position 396
+2021-03-12 21:29:02,429 currency.py[line:767] INFO: unbalanced parenthesis at position 396
+2021-03-12 21:29:03,293 currency.py[line:687] INFO: unbalanced parenthesis at position 593
+2021-03-12 21:29:03,429 currency.py[line:767] INFO: unbalanced parenthesis at position 593
+2021-03-12 21:29:06,880 currency.py[line:687] INFO: unbalanced parenthesis at position 539
+2021-03-12 21:29:07,003 currency.py[line:767] INFO: unbalanced parenthesis at position 539
+2021-03-12 21:29:08,094 currency.py[line:687] INFO: unbalanced parenthesis at position 369
+2021-03-12 21:29:08,095 currency.py[line:767] INFO: unbalanced parenthesis at position 369
+2021-03-12 21:29:10,776 currency.py[line:687] INFO: unbalanced parenthesis at position 430
+2021-03-12 21:29:10,864 currency.py[line:767] INFO: unbalanced parenthesis at position 430
+2021-03-12 21:29:14,571 currency.py[line:687] INFO: unbalanced parenthesis at position 422
+2021-03-12 21:29:14,649 currency.py[line:767] INFO: unbalanced parenthesis at position 422
+2021-03-12 21:29:20,038 currency.py[line:687] INFO: missing ), unterminated subpattern at position 826
+2021-03-12 21:29:20,104 currency.py[line:767] INFO: missing ), unterminated subpattern at position 826
+2021-03-12 21:29:24,291 currency.py[line:687] INFO: missing ), unterminated subpattern at position 159
+2021-03-12 21:29:24,325 currency.py[line:767] INFO: missing ), unterminated subpattern at position 159
+2021-03-12 21:29:27,259 currency.py[line:687] INFO: missing ), unterminated subpattern at position 382
+2021-03-12 21:29:27,324 currency.py[line:767] INFO: missing ), unterminated subpattern at position 382
+2021-03-12 21:29:33,426 currency.py[line:687] INFO: unbalanced parenthesis at position 1216
+2021-03-12 21:29:33,429 currency.py[line:767] INFO: unbalanced parenthesis at position 1216
+2021-03-12 21:29:34,403 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1244
+2021-03-12 21:29:34,438 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1244
+2021-03-12 21:29:38,572 currency.py[line:687] INFO: unbalanced parenthesis at position 215
+2021-03-12 21:29:38,582 currency.py[line:767] INFO: unbalanced parenthesis at position 215
+2021-03-12 21:29:41,204 currency.py[line:687] INFO: unbalanced parenthesis at position 662
+2021-03-12 21:29:41,206 currency.py[line:767] INFO: unbalanced parenthesis at position 662
+2021-03-12 21:29:43,142 currency.py[line:687] INFO: unbalanced parenthesis at position 1574
+2021-03-12 21:29:43,220 currency.py[line:767] INFO: unbalanced parenthesis at position 1574
+2021-03-12 21:29:46,236 currency.py[line:687] INFO: missing ), unterminated subpattern at position 479
+2021-03-12 21:29:46,554 currency.py[line:767] INFO: missing ), unterminated subpattern at position 479
+2021-03-12 21:29:49,145 currency.py[line:687] INFO: unbalanced parenthesis at position 670
+2021-03-12 21:29:49,147 currency.py[line:767] INFO: unbalanced parenthesis at position 670
+2021-03-12 21:29:50,085 currency.py[line:687] INFO: unbalanced parenthesis at position 339
+2021-03-12 21:29:50,195 currency.py[line:767] INFO: unbalanced parenthesis at position 339
+2021-03-12 21:30:04,935 currency.py[line:687] INFO: unbalanced parenthesis at position 46
+2021-03-12 21:30:04,936 currency.py[line:767] INFO: unbalanced parenthesis at position 46
+2021-03-12 21:30:12,744 currency.py[line:687] INFO: unbalanced parenthesis at position 467
+2021-03-12 21:30:13,311 currency.py[line:767] INFO: unbalanced parenthesis at position 467
+2021-03-12 21:30:20,487 currency.py[line:687] INFO: missing ), unterminated subpattern at position 82
+2021-03-12 21:30:20,611 currency.py[line:767] INFO: missing ), unterminated subpattern at position 82
+2021-03-12 21:30:27,594 currency.py[line:687] INFO: missing ), unterminated subpattern at position 420
+2021-03-12 21:30:27,643 currency.py[line:767] INFO: missing ), unterminated subpattern at position 420
+2021-03-12 21:30:30,924 currency.py[line:687] INFO: unbalanced parenthesis at position 612
+2021-03-12 21:30:31,088 currency.py[line:767] INFO: unbalanced parenthesis at position 612
+2021-03-12 21:33:32,721 currency.py[line:687] INFO: unbalanced parenthesis at position 864
+2021-03-12 21:33:32,788 currency.py[line:767] INFO: unbalanced parenthesis at position 864
+2021-03-12 21:33:41,205 currency.py[line:687] INFO: missing ), unterminated subpattern at position 2463
+2021-03-12 21:33:41,209 currency.py[line:767] INFO: missing ), unterminated subpattern at position 2463
+2021-03-12 21:33:43,469 currency.py[line:687] INFO: unbalanced parenthesis at position 1058
+2021-03-12 21:33:43,674 currency.py[line:767] INFO: unbalanced parenthesis at position 1058
+2021-03-12 21:33:45,445 currency.py[line:687] INFO: unbalanced parenthesis at position 597
+2021-03-12 21:33:45,496 currency.py[line:767] INFO: unbalanced parenthesis at position 597
+2021-03-12 21:33:51,673 currency.py[line:687] INFO: unbalanced parenthesis at position 1420
+2021-03-12 21:33:51,679 currency.py[line:767] INFO: unbalanced parenthesis at position 1420
+2021-03-12 21:34:00,085 currency.py[line:687] INFO: unbalanced parenthesis at position 588
+2021-03-12 21:34:00,116 currency.py[line:767] INFO: unbalanced parenthesis at position 588
+2021-03-12 21:34:16,035 currency.py[line:687] INFO: unbalanced parenthesis at position 592
+2021-03-12 21:34:16,105 currency.py[line:767] INFO: unbalanced parenthesis at position 592
+2021-03-12 21:34:18,736 currency.py[line:687] INFO: missing ), unterminated subpattern at position 2021
+2021-03-12 21:34:18,755 currency.py[line:767] INFO: missing ), unterminated subpattern at position 2021
+2021-03-12 21:34:19,757 currency.py[line:687] INFO: unbalanced parenthesis at position 737
+2021-03-12 21:34:19,763 currency.py[line:767] INFO: unbalanced parenthesis at position 737
+2021-03-12 21:34:28,177 currency.py[line:687] INFO: unbalanced parenthesis at position 540
+2021-03-12 21:34:28,325 currency.py[line:767] INFO: unbalanced parenthesis at position 540
+2021-03-12 21:35:01,086 currency.py[line:687] INFO: unbalanced parenthesis at position 1373
+2021-03-12 21:35:01,183 currency.py[line:767] INFO: unbalanced parenthesis at position 1373
+2021-03-12 21:35:12,608 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1356
+2021-03-12 21:35:12,610 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1356
+2021-03-12 21:35:14,071 currency.py[line:687] INFO: missing ), unterminated subpattern at position 765
+2021-03-12 21:35:14,093 currency.py[line:767] INFO: missing ), unterminated subpattern at position 765
+2021-03-12 21:35:14,969 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1426
+2021-03-12 21:35:14,972 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1426
+2021-03-12 21:35:21,113 currency.py[line:687] INFO: unbalanced parenthesis at position 1204
+2021-03-12 21:35:21,174 currency.py[line:767] INFO: unbalanced parenthesis at position 1204
+2021-03-12 21:35:25,525 currency.py[line:687] INFO: unbalanced parenthesis at position 1372
+2021-03-12 21:35:25,539 currency.py[line:767] INFO: unbalanced parenthesis at position 1372
+2021-03-12 21:35:32,461 currency.py[line:687] INFO: unbalanced parenthesis at position 746
+2021-03-12 21:35:32,552 currency.py[line:767] INFO: unbalanced parenthesis at position 746
+2021-03-12 21:35:42,587 currency.py[line:687] INFO: unbalanced parenthesis at position 538
+2021-03-12 21:35:42,594 currency.py[line:767] INFO: unbalanced parenthesis at position 538
+2021-03-14 14:08:01,754 currency.py[line:687] INFO: unbalanced parenthesis at position 892
+2021-03-14 14:08:01,845 currency.py[line:767] INFO: unbalanced parenthesis at position 892
+2021-03-14 14:08:05,882 currency.py[line:687] INFO: unbalanced parenthesis at position 2787
+2021-03-14 14:08:06,012 currency.py[line:767] INFO: unbalanced parenthesis at position 2787
+2021-03-14 14:08:09,069 currency.py[line:687] INFO: unbalanced parenthesis at position 856
+2021-03-14 14:08:09,172 currency.py[line:767] INFO: unbalanced parenthesis at position 856
+2021-03-14 14:08:10,087 currency.py[line:687] INFO: missing ), unterminated subpattern at position 986
+2021-03-14 14:08:10,156 currency.py[line:767] INFO: missing ), unterminated subpattern at position 986
+2021-03-14 14:08:11,110 currency.py[line:687] INFO: unbalanced parenthesis at position 437
+2021-03-14 14:08:11,348 currency.py[line:767] INFO: unbalanced parenthesis at position 437
+2021-03-14 14:08:15,739 currency.py[line:687] INFO: unbalanced parenthesis at position 634
+2021-03-14 14:08:16,018 currency.py[line:767] INFO: unbalanced parenthesis at position 634
+2021-03-14 14:08:19,197 currency.py[line:687] INFO: missing ), unterminated subpattern at position 58
+2021-03-14 14:08:19,723 currency.py[line:767] INFO: missing ), unterminated subpattern at position 58
+2021-03-14 14:08:27,618 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1067
+2021-03-14 14:08:27,745 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1067
+2021-03-14 14:08:30,523 currency.py[line:687] INFO: unbalanced parenthesis at position 1061
+2021-03-14 14:08:30,663 currency.py[line:767] INFO: unbalanced parenthesis at position 1061
+2021-03-14 14:08:35,557 currency.py[line:687] INFO: unbalanced parenthesis at position 1736
+2021-03-14 14:08:35,652 currency.py[line:767] INFO: unbalanced parenthesis at position 1736
+2021-03-14 14:08:37,541 currency.py[line:687] INFO: unbalanced parenthesis at position 328
+2021-03-14 14:08:37,664 currency.py[line:767] INFO: unbalanced parenthesis at position 328
+2021-03-14 14:08:52,870 currency.py[line:687] INFO: unbalanced parenthesis at position 407
+2021-03-14 14:08:53,029 currency.py[line:767] INFO: unbalanced parenthesis at position 407
+2021-03-14 14:08:55,629 currency.py[line:687] INFO: unbalanced parenthesis at position 1021
+2021-03-14 14:08:55,735 currency.py[line:767] INFO: unbalanced parenthesis at position 1021
+2021-03-14 14:09:13,663 currency.py[line:687] INFO: unbalanced parenthesis at position 299
+2021-03-14 14:09:13,889 currency.py[line:767] INFO: unbalanced parenthesis at position 299
+2021-03-14 14:09:18,193 currency.py[line:687] INFO: unbalanced parenthesis at position 292
+2021-03-14 14:09:18,325 currency.py[line:767] INFO: unbalanced parenthesis at position 292
+2021-03-14 14:09:20,811 currency.py[line:687] INFO: unbalanced parenthesis at position 534
+2021-03-14 14:09:21,146 currency.py[line:767] INFO: unbalanced parenthesis at position 534
+2021-03-14 14:09:23,267 currency.py[line:687] INFO: unbalanced parenthesis at position 423
+2021-03-14 14:09:23,332 currency.py[line:767] INFO: unbalanced parenthesis at position 423
+2021-03-14 14:09:26,527 currency.py[line:687] INFO: unbalanced parenthesis at position 485
+2021-03-14 14:09:26,688 currency.py[line:767] INFO: unbalanced parenthesis at position 485
+2021-03-14 14:09:29,710 currency.py[line:687] INFO: unbalanced parenthesis at position 3035
+2021-03-14 14:09:30,106 currency.py[line:767] INFO: unbalanced parenthesis at position 3035
+2021-03-14 14:09:32,073 currency.py[line:687] INFO: unbalanced parenthesis at position 823
+2021-03-14 14:09:32,381 currency.py[line:767] INFO: unbalanced parenthesis at position 823
+2021-03-14 14:09:33,543 currency.py[line:687] INFO: unbalanced parenthesis at position 689
+2021-03-14 14:09:33,648 currency.py[line:767] INFO: unbalanced parenthesis at position 689
+2021-03-14 14:09:36,119 currency.py[line:687] INFO: unbalanced parenthesis at position 475
+2021-03-14 14:09:36,288 currency.py[line:767] INFO: unbalanced parenthesis at position 475
+2021-03-14 14:09:38,525 currency.py[line:687] INFO: unbalanced parenthesis at position 1047
+2021-03-14 14:09:38,719 currency.py[line:767] INFO: unbalanced parenthesis at position 1047
+2021-03-14 14:09:39,748 currency.py[line:687] INFO: unbalanced parenthesis at position 413
+2021-03-14 14:09:39,838 currency.py[line:767] INFO: unbalanced parenthesis at position 413
+2021-03-14 14:09:45,060 currency.py[line:687] INFO: unbalanced parenthesis at position 2322
+2021-03-14 14:09:45,444 currency.py[line:767] INFO: unbalanced parenthesis at position 2322
+2021-03-14 14:09:48,220 currency.py[line:687] INFO: unbalanced parenthesis at position 747
+2021-03-14 14:09:48,573 currency.py[line:767] INFO: unbalanced parenthesis at position 747
+2021-03-14 14:09:53,006 currency.py[line:687] INFO: unbalanced parenthesis at position 2041
+2021-03-14 14:09:53,125 currency.py[line:767] INFO: unbalanced parenthesis at position 2041
+2021-03-14 14:09:56,828 currency.py[line:687] INFO: unbalanced parenthesis at position 2414
+2021-03-14 14:09:57,172 currency.py[line:767] INFO: unbalanced parenthesis at position 2414
+2021-03-14 14:09:58,264 currency.py[line:687] INFO: unbalanced parenthesis at position 2205
+2021-03-14 14:09:58,445 currency.py[line:767] INFO: unbalanced parenthesis at position 2205
+2021-03-14 14:10:02,187 currency.py[line:687] INFO: missing ), unterminated subpattern at position 847
+2021-03-14 14:10:02,328 currency.py[line:767] INFO: missing ), unterminated subpattern at position 847
+2021-03-14 14:10:30,948 currency.py[line:687] INFO: unbalanced parenthesis at position 929
+2021-03-14 14:10:31,052 currency.py[line:767] INFO: unbalanced parenthesis at position 929
+2021-03-14 14:10:32,946 currency.py[line:687] INFO: unbalanced parenthesis at position 1131
+2021-03-14 14:10:32,998 currency.py[line:767] INFO: unbalanced parenthesis at position 1131
+2021-03-14 14:10:42,297 currency.py[line:687] INFO: unbalanced parenthesis at position 918
+2021-03-14 14:10:42,324 currency.py[line:767] INFO: unbalanced parenthesis at position 918
+2021-03-14 14:13:31,751 currency.py[line:687] INFO: missing ), unterminated subpattern at position 221
+2021-03-14 14:13:31,922 currency.py[line:767] INFO: missing ), unterminated subpattern at position 221
+2021-03-14 14:13:34,031 currency.py[line:687] INFO: unbalanced parenthesis at position 911
+2021-03-14 14:13:34,297 currency.py[line:767] INFO: unbalanced parenthesis at position 911
+2021-03-14 14:13:41,281 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1611
+2021-03-14 14:13:41,370 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1611
+2021-03-14 14:13:44,606 currency.py[line:687] INFO: unbalanced parenthesis at position 246
+2021-03-14 14:13:44,882 currency.py[line:767] INFO: unbalanced parenthesis at position 246
+2021-03-14 14:13:47,448 currency.py[line:687] INFO: unbalanced parenthesis at position 764
+2021-03-14 14:13:47,520 currency.py[line:767] INFO: unbalanced parenthesis at position 764
+2021-03-14 14:13:51,015 currency.py[line:687] INFO: unbalanced parenthesis at position 568
+2021-03-14 14:13:51,161 currency.py[line:767] INFO: unbalanced parenthesis at position 568
+2021-03-14 14:13:52,141 currency.py[line:687] INFO: unbalanced parenthesis at position 569
+2021-03-14 14:13:52,358 currency.py[line:767] INFO: unbalanced parenthesis at position 569
+2021-03-14 14:13:53,360 currency.py[line:687] INFO: unbalanced parenthesis at position 366
+2021-03-14 14:13:53,530 currency.py[line:767] INFO: unbalanced parenthesis at position 366
+2021-03-14 14:13:59,238 currency.py[line:687] INFO: unbalanced parenthesis at position 1887
+2021-03-14 14:13:59,343 currency.py[line:767] INFO: unbalanced parenthesis at position 1887
+2021-03-14 14:14:01,135 currency.py[line:687] INFO: unbalanced parenthesis at position 1023
+2021-03-14 14:14:01,259 currency.py[line:767] INFO: unbalanced parenthesis at position 1023
+2021-03-14 14:14:03,087 currency.py[line:687] INFO: unbalanced parenthesis at position 832
+2021-03-14 14:14:03,254 currency.py[line:767] INFO: unbalanced parenthesis at position 832
+2021-03-14 14:14:08,704 currency.py[line:687] INFO: unbalanced parenthesis at position 840
+2021-03-14 14:14:08,800 currency.py[line:767] INFO: unbalanced parenthesis at position 840
+2021-03-14 14:14:10,752 currency.py[line:687] INFO: unbalanced parenthesis at position 466
+2021-03-14 14:14:10,806 currency.py[line:767] INFO: unbalanced parenthesis at position 466
+2021-03-14 14:14:16,945 currency.py[line:687] INFO: unbalanced parenthesis at position 730
+2021-03-14 14:14:17,327 currency.py[line:767] INFO: unbalanced parenthesis at position 730
+2021-03-14 14:14:21,293 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1657
+2021-03-14 14:14:21,365 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1657
+2021-03-14 14:14:24,062 currency.py[line:687] INFO: unbalanced parenthesis at position 277
+2021-03-14 14:14:24,104 currency.py[line:767] INFO: unbalanced parenthesis at position 277
+2021-03-14 14:14:29,707 currency.py[line:687] INFO: unbalanced parenthesis at position 1216
+2021-03-14 14:14:29,742 currency.py[line:767] INFO: unbalanced parenthesis at position 1216
+2021-03-14 14:14:30,947 currency.py[line:687] INFO: unbalanced parenthesis at position 1000
+2021-03-14 14:14:30,963 currency.py[line:767] INFO: unbalanced parenthesis at position 1000
+2021-03-14 14:14:32,706 currency.py[line:687] INFO: unbalanced parenthesis at position 351
+2021-03-14 14:14:32,783 currency.py[line:767] INFO: unbalanced parenthesis at position 351
+2021-03-14 14:14:34,833 currency.py[line:687] INFO: unbalanced parenthesis at position 499
+2021-03-14 14:14:34,866 currency.py[line:767] INFO: unbalanced parenthesis at position 499
+2021-03-14 14:14:36,454 currency.py[line:687] INFO: unbalanced parenthesis at position 877
+2021-03-14 14:14:36,595 currency.py[line:767] INFO: unbalanced parenthesis at position 877
+2021-03-14 14:14:38,584 currency.py[line:687] INFO: missing ), unterminated subpattern at position 159
+2021-03-14 14:14:38,685 currency.py[line:767] INFO: missing ), unterminated subpattern at position 159
+2021-03-14 14:14:42,105 currency.py[line:687] INFO: unbalanced parenthesis at position 422
+2021-03-14 14:14:42,302 currency.py[line:767] INFO: unbalanced parenthesis at position 422
+2021-03-14 14:14:46,955 currency.py[line:687] INFO: missing ), unterminated subpattern at position 382
+2021-03-14 14:14:47,146 currency.py[line:767] INFO: missing ), unterminated subpattern at position 382
+2021-03-14 14:15:00,622 currency.py[line:687] INFO: missing ), unterminated subpattern at position 826
+2021-03-14 14:15:00,785 currency.py[line:767] INFO: missing ), unterminated subpattern at position 826
+2021-03-14 14:15:01,819 currency.py[line:687] INFO: unbalanced parenthesis at position 266
+2021-03-14 14:15:01,871 currency.py[line:767] INFO: unbalanced parenthesis at position 266
+2021-03-14 14:15:02,803 currency.py[line:687] INFO: unbalanced parenthesis at position 313
+2021-03-14 14:15:02,818 currency.py[line:767] INFO: unbalanced parenthesis at position 313
+2021-03-14 14:15:04,601 currency.py[line:687] INFO: unbalanced parenthesis at position 228
+2021-03-14 14:15:04,603 currency.py[line:767] INFO: unbalanced parenthesis at position 228
+2021-03-14 14:15:11,942 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1244
+2021-03-14 14:15:11,985 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1244
+2021-03-14 14:15:12,895 currency.py[line:687] INFO: unbalanced parenthesis at position 170
+2021-03-14 14:15:13,021 currency.py[line:767] INFO: unbalanced parenthesis at position 170
+2021-03-14 14:15:14,292 currency.py[line:687] INFO: unbalanced parenthesis at position 369
+2021-03-14 14:15:14,692 currency.py[line:767] INFO: unbalanced parenthesis at position 369
+2021-03-14 14:15:15,991 currency.py[line:687] INFO: unbalanced parenthesis at position 623
+2021-03-14 14:15:16,158 currency.py[line:767] INFO: unbalanced parenthesis at position 623
+2021-03-14 14:15:19,100 currency.py[line:687] INFO: unbalanced parenthesis at position 593
+2021-03-14 14:15:19,330 currency.py[line:767] INFO: unbalanced parenthesis at position 593
+2021-03-14 14:15:21,164 currency.py[line:687] INFO: unbalanced parenthesis at position 396
+2021-03-14 14:15:21,261 currency.py[line:767] INFO: unbalanced parenthesis at position 396
+2021-03-14 14:15:22,321 currency.py[line:687] INFO: unbalanced parenthesis at position 430
+2021-03-14 14:15:22,437 currency.py[line:767] INFO: unbalanced parenthesis at position 430
+2021-03-14 14:15:25,035 currency.py[line:687] INFO: unbalanced parenthesis at position 539
+2021-03-14 14:15:25,138 currency.py[line:767] INFO: unbalanced parenthesis at position 539
+2021-03-14 14:15:28,315 currency.py[line:687] INFO: unbalanced parenthesis at position 215
+2021-03-14 14:15:28,531 currency.py[line:767] INFO: unbalanced parenthesis at position 215
+2021-03-14 14:15:37,469 currency.py[line:687] INFO: missing ), unterminated subpattern at position 420
+2021-03-14 14:15:37,646 currency.py[line:767] INFO: missing ), unterminated subpattern at position 420
+2021-03-14 14:15:40,175 currency.py[line:687] INFO: unbalanced parenthesis at position 467
+2021-03-14 14:15:40,181 currency.py[line:767] INFO: unbalanced parenthesis at position 467
+2021-03-14 14:15:41,180 currency.py[line:687] INFO: unbalanced parenthesis at position 662
+2021-03-14 14:15:41,450 currency.py[line:767] INFO: unbalanced parenthesis at position 662
+2021-03-14 14:15:46,122 currency.py[line:687] INFO: unbalanced parenthesis at position 1574
+2021-03-14 14:15:46,703 currency.py[line:767] INFO: unbalanced parenthesis at position 1574
+2021-03-14 14:15:52,900 currency.py[line:687] INFO: unbalanced parenthesis at position 670
+2021-03-14 14:15:53,062 currency.py[line:767] INFO: unbalanced parenthesis at position 670
+2021-03-14 14:15:57,815 currency.py[line:687] INFO: unbalanced parenthesis at position 339
+2021-03-14 14:15:57,941 currency.py[line:767] INFO: unbalanced parenthesis at position 339
+2021-03-14 14:15:59,386 currency.py[line:687] INFO: unbalanced parenthesis at position 46
+2021-03-14 14:15:59,454 currency.py[line:767] INFO: unbalanced parenthesis at position 46
+2021-03-14 14:16:04,420 currency.py[line:687] INFO: missing ), unterminated subpattern at position 82
+2021-03-14 14:16:04,668 currency.py[line:767] INFO: missing ), unterminated subpattern at position 82
+2021-03-14 14:16:11,680 currency.py[line:687] INFO: unbalanced parenthesis at position 612
+2021-03-14 14:16:11,762 currency.py[line:767] INFO: unbalanced parenthesis at position 612
+2021-03-14 14:16:19,277 currency.py[line:687] INFO: missing ), unterminated subpattern at position 479
+2021-03-14 14:16:19,356 currency.py[line:767] INFO: missing ), unterminated subpattern at position 479
+2021-03-14 14:18:47,715 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.shuichan.cc', port=80): Read timed out. (read timeout=20)
+2021-03-14 14:20:08,025 currency.py[line:687] INFO: unbalanced parenthesis at position 1058
+2021-03-14 14:20:08,034 currency.py[line:767] INFO: unbalanced parenthesis at position 1058
+2021-03-14 14:20:14,934 currency.py[line:687] INFO: missing ), unterminated subpattern at position 2463
+2021-03-14 14:20:14,948 currency.py[line:767] INFO: missing ), unterminated subpattern at position 2463
+2021-03-14 14:20:16,601 currency.py[line:687] INFO: unbalanced parenthesis at position 597
+2021-03-14 14:20:16,665 currency.py[line:767] INFO: unbalanced parenthesis at position 597
+2021-03-14 14:20:18,510 currency.py[line:687] INFO: unbalanced parenthesis at position 864
+2021-03-14 14:20:18,630 currency.py[line:767] INFO: unbalanced parenthesis at position 864
+2021-03-14 14:20:21,251 currency.py[line:687] INFO: unbalanced parenthesis at position 1420
+2021-03-14 14:20:21,493 currency.py[line:767] INFO: unbalanced parenthesis at position 1420
+2021-03-14 14:20:22,372 currency.py[line:687] INFO: unbalanced parenthesis at position 588
+2021-03-14 14:20:22,396 currency.py[line:767] INFO: unbalanced parenthesis at position 588
+2021-03-14 14:20:46,222 currency.py[line:687] INFO: unbalanced parenthesis at position 1373
+2021-03-14 14:20:46,228 currency.py[line:767] INFO: unbalanced parenthesis at position 1373
+2021-03-14 14:20:55,182 currency.py[line:687] INFO: unbalanced parenthesis at position 592
+2021-03-14 14:20:55,266 currency.py[line:767] INFO: unbalanced parenthesis at position 592
+2021-03-14 14:21:11,806 currency.py[line:687] INFO: unbalanced parenthesis at position 737
+2021-03-14 14:21:11,823 currency.py[line:767] INFO: unbalanced parenthesis at position 737
+2021-03-14 14:21:20,078 currency.py[line:687] INFO: unbalanced parenthesis at position 540
+2021-03-14 14:21:20,080 currency.py[line:767] INFO: unbalanced parenthesis at position 540
+2021-03-14 14:21:20,963 currency.py[line:687] INFO: missing ), unterminated subpattern at position 2021
+2021-03-14 14:21:20,966 currency.py[line:767] INFO: missing ), unterminated subpattern at position 2021
+2021-03-14 14:21:33,132 currency.py[line:687] INFO: missing ), unterminated subpattern at position 765
+2021-03-14 14:21:33,161 currency.py[line:767] INFO: missing ), unterminated subpattern at position 765
+2021-03-14 14:21:35,348 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1426
+2021-03-14 14:21:35,350 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1426
+2021-03-14 14:21:42,237 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1356
+2021-03-14 14:21:42,276 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1356
+2021-03-14 14:21:43,060 currency.py[line:687] INFO: unbalanced parenthesis at position 1204
+2021-03-14 14:21:43,154 currency.py[line:767] INFO: unbalanced parenthesis at position 1204
+2021-03-14 14:21:53,223 currency.py[line:687] INFO: unbalanced parenthesis at position 746
+2021-03-14 14:21:53,257 currency.py[line:767] INFO: unbalanced parenthesis at position 746
+2021-03-14 14:21:58,504 currency.py[line:687] INFO: unbalanced parenthesis at position 1372
+2021-03-14 14:21:58,507 currency.py[line:767] INFO: unbalanced parenthesis at position 1372
+2021-03-14 14:22:02,051 currency.py[line:687] INFO: unbalanced parenthesis at position 538
+2021-03-14 14:22:02,080 currency.py[line:767] INFO: unbalanced parenthesis at position 538

@@ -1,0 +1,291 @@
+2021-03-04 18:48:53,248 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:49:10,733 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:49:12,459 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:49:20,845 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:50:07,624 currency.py[line:682] INFO: missing ), unterminated subpattern at position 255 (line 4, column 30)
+2021-03-04 18:50:07,792 currency.py[line:762] INFO: missing ), unterminated subpattern at position 255 (line 4, column 30)
+2021-03-04 18:50:08,734 currency.py[line:682] INFO: multiple repeat at position 2444 (line 64, column 14)
+2021-03-04 18:50:08,743 currency.py[line:762] INFO: multiple repeat at position 2444 (line 64, column 14)
+2021-03-04 18:50:28,395 currency.py[line:682] INFO: missing ), unterminated subpattern at position 2696 (line 29, column 15)
+2021-03-04 18:50:28,414 currency.py[line:762] INFO: missing ), unterminated subpattern at position 2696 (line 29, column 15)
+2021-03-04 18:50:42,071 currency.py[line:682] INFO: missing ), unterminated subpattern at position 3162 (line 37, column 15)
+2021-03-04 18:50:42,109 currency.py[line:762] INFO: missing ), unterminated subpattern at position 3162 (line 37, column 15)
+2021-03-04 18:50:50,145 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:50:51,073 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:50:52,278 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:50:58,974 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:51:01,920 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:51:05,405 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:51:07,346 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:51:18,596 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:51:18,926 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:51:20,277 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:51:20,789 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:51:27,754 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:51:29,025 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:51:29,345 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:51:29,610 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:51:33,061 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:51:33,405 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:51:36,704 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:51:37,875 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:51:38,524 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:51:38,844 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:51:41,070 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:51:46,286 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:51:50,056 currency.py[line:682] INFO: missing ), unterminated subpattern at position 341 (line 12, column 12)
+2021-03-04 18:51:50,069 currency.py[line:762] INFO: missing ), unterminated subpattern at position 341 (line 12, column 12)
+2021-03-04 18:52:16,992 currency.py[line:682] INFO: missing ), unterminated subpattern at position 901 (line 12, column 46)
+2021-03-04 18:52:17,015 currency.py[line:762] INFO: missing ), unterminated subpattern at position 901 (line 12, column 46)
+2021-03-04 18:53:57,663 currency.py[line:682] INFO: missing ), unterminated subpattern at position 321 (line 2, column 114)
+2021-03-04 18:53:57,697 currency.py[line:762] INFO: missing ), unterminated subpattern at position 321 (line 2, column 114)
+2021-03-04 18:55:32,029 currency.py[line:682] INFO: multiple repeat at position 736 (line 4, column 187)
+2021-03-04 18:55:32,098 currency.py[line:762] INFO: multiple repeat at position 736 (line 4, column 187)
+2021-03-05 18:32:13,450 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:32:32,870 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:32:34,206 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:32:42,719 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:33:30,433 currency.py[line:684] INFO: missing ), unterminated subpattern at position 255 (line 4, column 30)
+2021-03-05 18:33:30,473 currency.py[line:764] INFO: missing ), unterminated subpattern at position 255 (line 4, column 30)
+2021-03-05 18:33:31,460 currency.py[line:684] INFO: multiple repeat at position 2444 (line 64, column 14)
+2021-03-05 18:33:31,546 currency.py[line:764] INFO: multiple repeat at position 2444 (line 64, column 14)
+2021-03-05 18:33:53,144 currency.py[line:684] INFO: missing ), unterminated subpattern at position 2696 (line 29, column 15)
+2021-03-05 18:33:53,356 currency.py[line:764] INFO: missing ), unterminated subpattern at position 2696 (line 29, column 15)
+2021-03-05 18:34:02,758 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:34:09,837 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:34:10,153 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:34:11,926 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:34:12,356 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:34:16,946 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:34:18,800 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:34:19,538 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:34:21,098 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:34:28,041 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:34:31,069 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:34:34,382 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:34:36,101 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:34:47,119 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:34:47,513 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:34:48,977 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:34:49,436 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:34:57,258 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:34:58,824 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:34:59,217 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:34:59,680 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:35:03,060 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:35:03,486 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:35:06,817 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:35:11,542 currency.py[line:684] INFO: missing ), unterminated subpattern at position 1606 (line 60, column 62)
+2021-03-05 18:35:11,569 currency.py[line:764] INFO: missing ), unterminated subpattern at position 1606 (line 60, column 62)
+2021-03-05 18:35:20,801 currency.py[line:684] INFO: missing ), unterminated subpattern at position 341 (line 12, column 12)
+2021-03-05 18:35:20,803 currency.py[line:764] INFO: missing ), unterminated subpattern at position 341 (line 12, column 12)
+2021-03-05 18:35:49,917 currency.py[line:684] INFO: missing ), unterminated subpattern at position 901 (line 12, column 46)
+2021-03-05 18:35:49,938 currency.py[line:764] INFO: missing ), unterminated subpattern at position 901 (line 12, column 46)
+2021-03-05 18:37:28,638 currency.py[line:684] INFO: missing ), unterminated subpattern at position 321 (line 2, column 114)
+2021-03-05 18:37:28,647 currency.py[line:764] INFO: missing ), unterminated subpattern at position 321 (line 2, column 114)
+2021-03-05 18:37:39,225 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:39:04,208 currency.py[line:684] INFO: multiple repeat at position 736 (line 4, column 187)
+2021-03-05 18:39:04,285 currency.py[line:764] INFO: multiple repeat at position 736 (line 4, column 187)
+2021-03-06 23:02:38,379 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:02:39,212 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:03:45,191 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:04:03,882 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:04:05,157 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:04:14,920 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:05:06,770 currency.py[line:684] INFO: missing ), unterminated subpattern at position 255 (line 4, column 30)
+2021-03-06 23:05:06,930 currency.py[line:764] INFO: missing ), unterminated subpattern at position 255 (line 4, column 30)
+2021-03-06 23:05:07,981 currency.py[line:684] INFO: multiple repeat at position 2444 (line 64, column 14)
+2021-03-06 23:05:08,249 currency.py[line:764] INFO: multiple repeat at position 2444 (line 64, column 14)
+2021-03-06 23:05:31,791 currency.py[line:684] INFO: missing ), unterminated subpattern at position 2696 (line 29, column 15)
+2021-03-06 23:05:31,870 currency.py[line:764] INFO: missing ), unterminated subpattern at position 2696 (line 29, column 15)
+2021-03-06 23:05:37,272 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:05:39,876 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:05:40,291 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:05:41,860 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:05:42,282 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:05:47,052 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:05:48,713 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:05:49,517 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:05:51,208 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:05:58,978 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:06:02,421 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:06:06,103 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:06:07,777 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:06:18,194 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:06:18,675 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:06:19,947 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:06:20,390 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:06:27,651 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:06:29,118 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:06:29,451 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:06:29,791 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:06:33,637 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:06:34,049 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:06:42,116 currency.py[line:684] INFO: missing ), unterminated subpattern at position 1606 (line 60, column 62)
+2021-03-06 23:06:42,153 currency.py[line:764] INFO: missing ), unterminated subpattern at position 1606 (line 60, column 62)
+2021-03-06 23:06:51,409 currency.py[line:684] INFO: missing ), unterminated subpattern at position 341 (line 12, column 12)
+2021-03-06 23:06:51,437 currency.py[line:764] INFO: missing ), unterminated subpattern at position 341 (line 12, column 12)
+2021-03-06 23:07:20,787 currency.py[line:684] INFO: missing ), unterminated subpattern at position 901 (line 12, column 46)
+2021-03-06 23:07:20,841 currency.py[line:764] INFO: missing ), unterminated subpattern at position 901 (line 12, column 46)
+2021-03-06 23:09:23,361 currency.py[line:684] INFO: missing ), unterminated subpattern at position 321 (line 2, column 114)
+2021-03-06 23:09:23,585 currency.py[line:764] INFO: missing ), unterminated subpattern at position 321 (line 2, column 114)
+2021-03-06 23:09:37,953 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:11:09,700 currency.py[line:684] INFO: multiple repeat at position 736 (line 4, column 187)
+2021-03-06 23:11:09,790 currency.py[line:764] INFO: multiple repeat at position 736 (line 4, column 187)
+2021-03-07 18:24:32,000 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:24:32,435 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:24:57,163 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:25:12,610 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:25:14,051 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:25:22,369 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:25:26,266 currency.py[line:684] INFO: missing ), unterminated subpattern at position 7810 (line 240, column 16)
+2021-03-07 18:25:26,382 currency.py[line:764] INFO: missing ), unterminated subpattern at position 7810 (line 240, column 16)
+2021-03-07 18:26:08,844 currency.py[line:684] INFO: missing ), unterminated subpattern at position 255 (line 4, column 30)
+2021-03-07 18:26:09,019 currency.py[line:764] INFO: missing ), unterminated subpattern at position 255 (line 4, column 30)
+2021-03-07 18:26:09,922 currency.py[line:684] INFO: multiple repeat at position 2444 (line 64, column 14)
+2021-03-07 18:26:09,947 currency.py[line:764] INFO: multiple repeat at position 2444 (line 64, column 14)
+2021-03-07 18:26:25,057 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:26:27,501 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:26:29,889 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:26:30,141 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:26:31,522 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:26:31,854 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:26:35,542 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:26:37,207 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:26:37,927 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:26:39,024 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:26:45,770 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:26:48,596 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:26:51,697 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:26:53,345 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:27:03,566 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:27:03,840 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:27:05,261 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:27:05,698 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:27:13,040 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:27:14,448 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:27:14,832 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:27:15,153 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:27:18,372 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:27:18,789 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:27:25,873 currency.py[line:684] INFO: missing ), unterminated subpattern at position 1606 (line 60, column 62)
+2021-03-07 18:27:25,879 currency.py[line:764] INFO: missing ), unterminated subpattern at position 1606 (line 60, column 62)
+2021-03-07 18:27:34,778 currency.py[line:684] INFO: missing ), unterminated subpattern at position 341 (line 12, column 12)
+2021-03-07 18:27:34,805 currency.py[line:764] INFO: missing ), unterminated subpattern at position 341 (line 12, column 12)
+2021-03-07 18:28:03,394 currency.py[line:684] INFO: missing ), unterminated subpattern at position 901 (line 12, column 46)
+2021-03-07 18:28:03,446 currency.py[line:764] INFO: missing ), unterminated subpattern at position 901 (line 12, column 46)
+2021-03-07 18:29:43,922 currency.py[line:684] INFO: missing ), unterminated subpattern at position 321 (line 2, column 114)
+2021-03-07 18:29:43,924 currency.py[line:764] INFO: missing ), unterminated subpattern at position 321 (line 2, column 114)
+2021-03-07 18:29:57,354 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:31:24,499 currency.py[line:684] INFO: multiple repeat at position 736 (line 4, column 187)
+2021-03-07 18:31:24,747 currency.py[line:764] INFO: multiple repeat at position 736 (line 4, column 187)
+2021-03-08 18:24:06,625 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:24:07,071 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:24:30,251 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:24:57,836 currency.py[line:684] INFO: missing ), unterminated subpattern at position 7810 (line 240, column 16)
+2021-03-08 18:24:58,075 currency.py[line:764] INFO: missing ), unterminated subpattern at position 7810 (line 240, column 16)
+2021-03-08 18:25:42,342 currency.py[line:684] INFO: missing ), unterminated subpattern at position 255 (line 4, column 30)
+2021-03-08 18:25:42,356 currency.py[line:764] INFO: missing ), unterminated subpattern at position 255 (line 4, column 30)
+2021-03-08 18:25:43,269 currency.py[line:684] INFO: multiple repeat at position 2444 (line 64, column 14)
+2021-03-08 18:25:43,276 currency.py[line:764] INFO: multiple repeat at position 2444 (line 64, column 14)
+2021-03-08 18:25:50,607 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:25:50,949 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:25:51,787 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:25:53,419 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:25:55,758 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:25:58,257 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:26:00,742 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:26:01,044 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:26:02,631 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:26:02,915 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:26:07,635 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:26:09,245 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:26:10,028 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:26:11,408 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:26:18,322 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:26:21,417 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:26:24,775 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:26:26,633 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:26:38,503 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:26:38,891 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:26:40,343 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:26:40,756 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:27:04,066 currency.py[line:684] INFO: missing ), unterminated subpattern at position 1606 (line 60, column 62)
+2021-03-08 18:27:04,281 currency.py[line:764] INFO: missing ), unterminated subpattern at position 1606 (line 60, column 62)
+2021-03-08 18:27:13,503 currency.py[line:684] INFO: missing ), unterminated subpattern at position 341 (line 12, column 12)
+2021-03-08 18:27:13,531 currency.py[line:764] INFO: missing ), unterminated subpattern at position 341 (line 12, column 12)
+2021-03-08 18:27:46,536 currency.py[line:684] INFO: missing ), unterminated subpattern at position 901 (line 12, column 46)
+2021-03-08 18:27:46,581 currency.py[line:764] INFO: missing ), unterminated subpattern at position 901 (line 12, column 46)
+2021-03-08 18:28:45,572 currency.py[line:684] INFO: missing ), unterminated subpattern at position 847 (line 9, column 50)
+2021-03-08 18:28:45,742 currency.py[line:764] INFO: missing ), unterminated subpattern at position 847 (line 9, column 50)
+2021-03-08 18:29:33,363 currency.py[line:684] INFO: missing ), unterminated subpattern at position 321 (line 2, column 114)
+2021-03-08 18:29:33,416 currency.py[line:764] INFO: missing ), unterminated subpattern at position 321 (line 2, column 114)
+2021-03-08 18:29:44,102 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:31:24,918 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.foodmate.net', port=80): Read timed out.
+2021-03-08 18:32:23,668 currency.py[line:684] INFO: multiple repeat at position 736 (line 4, column 187)
+2021-03-08 18:32:23,941 currency.py[line:764] INFO: multiple repeat at position 736 (line 4, column 187)
+2021-03-09 18:29:38,025 currency.py[line:687] INFO: missing ), unterminated subpattern at position 7810 (line 240, column 16)
+2021-03-09 18:29:38,152 currency.py[line:767] INFO: missing ), unterminated subpattern at position 7810 (line 240, column 16)
+2021-03-09 18:31:32,362 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='news.foodmate.net', port=80): Read timed out.
+2021-03-09 18:32:29,980 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1606 (line 60, column 62)
+2021-03-09 18:32:30,038 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1606 (line 60, column 62)
+2021-03-09 18:32:40,708 currency.py[line:687] INFO: missing ), unterminated subpattern at position 341 (line 12, column 12)
+2021-03-09 18:32:40,980 currency.py[line:767] INFO: missing ), unterminated subpattern at position 341 (line 12, column 12)
+2021-03-09 18:34:12,970 currency.py[line:687] INFO: missing ), unterminated subpattern at position 847 (line 9, column 50)
+2021-03-09 18:34:13,096 currency.py[line:767] INFO: missing ), unterminated subpattern at position 847 (line 9, column 50)
+2021-03-09 18:35:01,804 currency.py[line:687] INFO: missing ), unterminated subpattern at position 321 (line 2, column 114)
+2021-03-09 18:35:01,904 currency.py[line:767] INFO: missing ), unterminated subpattern at position 321 (line 2, column 114)
+2021-03-09 18:36:13,438 currency.py[line:687] INFO: missing ), unterminated subpattern at position 4568 (line 160, column 36)
+2021-03-09 18:36:13,451 currency.py[line:767] INFO: missing ), unterminated subpattern at position 4568 (line 160, column 36)
+2021-03-09 18:37:03,595 currency.py[line:687] INFO: multiple repeat at position 736 (line 4, column 187)
+2021-03-09 18:37:03,792 currency.py[line:767] INFO: multiple repeat at position 736 (line 4, column 187)
+2021-03-10 18:44:53,918 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1224 (line 45, column 16)
+2021-03-10 18:44:54,011 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1224 (line 45, column 16)
+2021-03-10 18:45:37,759 currency.py[line:687] INFO: missing ), unterminated subpattern at position 7810 (line 240, column 16)
+2021-03-10 18:45:37,855 currency.py[line:767] INFO: missing ), unterminated subpattern at position 7810 (line 240, column 16)
+2021-03-10 18:47:36,264 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1606 (line 60, column 62)
+2021-03-10 18:47:36,272 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1606 (line 60, column 62)
+2021-03-10 18:47:46,937 currency.py[line:687] INFO: missing ), unterminated subpattern at position 341 (line 12, column 12)
+2021-03-10 18:47:47,072 currency.py[line:767] INFO: missing ), unterminated subpattern at position 341 (line 12, column 12)
+2021-03-10 18:49:21,699 currency.py[line:687] INFO: missing ), unterminated subpattern at position 847 (line 9, column 50)
+2021-03-10 18:49:21,714 currency.py[line:767] INFO: missing ), unterminated subpattern at position 847 (line 9, column 50)
+2021-03-10 18:51:11,884 currency.py[line:687] INFO: missing ), unterminated subpattern at position 4568 (line 160, column 36)
+2021-03-10 18:51:11,965 currency.py[line:767] INFO: missing ), unterminated subpattern at position 4568 (line 160, column 36)
+2021-03-10 18:52:08,581 currency.py[line:687] INFO: multiple repeat at position 736 (line 4, column 187)
+2021-03-10 18:52:08,836 currency.py[line:767] INFO: multiple repeat at position 736 (line 4, column 187)
+2021-03-11 18:24:13,845 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1224 (line 45, column 16)
+2021-03-11 18:24:14,007 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1224 (line 45, column 16)
+2021-03-11 18:27:14,875 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1606 (line 60, column 62)
+2021-03-11 18:27:14,909 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1606 (line 60, column 62)
+2021-03-11 18:27:26,508 currency.py[line:687] INFO: missing ), unterminated subpattern at position 341 (line 12, column 12)
+2021-03-11 18:27:26,621 currency.py[line:767] INFO: missing ), unterminated subpattern at position 341 (line 12, column 12)
+2021-03-11 18:29:02,558 currency.py[line:687] INFO: missing ), unterminated subpattern at position 847 (line 9, column 50)
+2021-03-11 18:29:02,663 currency.py[line:767] INFO: missing ), unterminated subpattern at position 847 (line 9, column 50)
+2021-03-11 18:31:04,909 currency.py[line:687] INFO: missing ), unterminated subpattern at position 4568 (line 160, column 36)
+2021-03-11 18:31:04,963 currency.py[line:767] INFO: missing ), unterminated subpattern at position 4568 (line 160, column 36)
+2021-03-11 18:32:05,381 currency.py[line:687] INFO: multiple repeat at position 736 (line 4, column 187)
+2021-03-11 18:32:05,388 currency.py[line:767] INFO: multiple repeat at position 736 (line 4, column 187)
+2021-03-12 21:00:33,922 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1224 (line 45, column 16)
+2021-03-12 21:00:34,029 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1224 (line 45, column 16)
+2021-03-12 21:03:06,996 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1606 (line 60, column 62)
+2021-03-12 21:03:07,248 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1606 (line 60, column 62)
+2021-03-12 21:03:23,183 currency.py[line:687] INFO: missing ), unterminated subpattern at position 341 (line 12, column 12)
+2021-03-12 21:03:23,365 currency.py[line:767] INFO: missing ), unterminated subpattern at position 341 (line 12, column 12)
+2021-03-12 21:04:56,149 currency.py[line:687] INFO: missing ), unterminated subpattern at position 847 (line 9, column 50)
+2021-03-12 21:04:56,229 currency.py[line:767] INFO: missing ), unterminated subpattern at position 847 (line 9, column 50)
+2021-03-12 21:06:47,468 currency.py[line:687] INFO: missing ), unterminated subpattern at position 4568 (line 160, column 36)
+2021-03-12 21:06:47,479 currency.py[line:767] INFO: missing ), unterminated subpattern at position 4568 (line 160, column 36)
+2021-03-14 13:49:43,407 currency.py[line:687] INFO: multiple repeat at position 534 (line 15, column 41)
+2021-03-14 13:49:43,426 currency.py[line:767] INFO: multiple repeat at position 534 (line 15, column 41)
+2021-03-14 13:49:43,897 currency.py[line:687] INFO: multiple repeat at position 561 (line 15, column 41)
+2021-03-14 13:49:44,178 currency.py[line:767] INFO: multiple repeat at position 561 (line 15, column 41)
+2021-03-14 13:49:44,655 currency.py[line:687] INFO: multiple repeat at position 538 (line 15, column 36)
+2021-03-14 13:49:44,774 currency.py[line:767] INFO: multiple repeat at position 538 (line 15, column 36)
+2021-03-14 13:49:45,266 currency.py[line:687] INFO: multiple repeat at position 599 (line 15, column 42)
+2021-03-14 13:49:45,430 currency.py[line:767] INFO: multiple repeat at position 599 (line 15, column 42)
+2021-03-14 13:50:44,361 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1606 (line 60, column 62)
+2021-03-14 13:50:44,379 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1606 (line 60, column 62)
+2021-03-14 13:52:41,552 currency.py[line:687] INFO: missing ), unterminated subpattern at position 847 (line 9, column 50)
+2021-03-14 13:52:41,725 currency.py[line:767] INFO: missing ), unterminated subpattern at position 847 (line 9, column 50)
+2021-03-14 13:55:03,271 currency.py[line:687] INFO: missing ), unterminated subpattern at position 4568 (line 160, column 36)
+2021-03-14 13:55:03,578 currency.py[line:767] INFO: missing ), unterminated subpattern at position 4568 (line 160, column 36)

@@ -1,0 +1,100 @@
+{
+  "url_config": {
+    "source": "http://www.xinm123.com/",
+    "domain": "xinm123.com",
+    "turn_page": {
+      "mark": "",
+      "type": "html",
+      "symbol": "",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "养猪",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "猪业资讯",
+            "xpath": {
+              "id": "",
+              "class": "col3",
+              "node": ""
+            }
+          },
+          {
+            "rex": "猪价行情",
+            "xpath": {
+              "id": "",
+              "class": "col3",
+              "node": ""
+            }
+          },
+          {
+            "rex": "养猪技术",
+            "xpath": {
+              "id": "",
+              "class": "col3",
+              "node": ""
+            }
+          }
+        ]
+      },
+      {
+        "rex": "养鸡",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "资讯",
+            "xpath": {
+              "id": "",
+              "class": "col3",
+              "node": ""
+            }
+          },
+          {
+            "rex": "价格",
+            "xpath": {
+              "id": "",
+              "class": "col3",
+              "node": ""
+            }
+          },
+          {
+            "rex": "企业",
+            "xpath": {
+              "id": "",
+              "class": "col3",
+              "node": ""
+            }
+          }
+        ]
+      },
+      {
+        "rex": "行情",
+        "xpath": {
+          "id": "",
+          "class": "col3",
+          "node": ""
+        }
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "html",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}

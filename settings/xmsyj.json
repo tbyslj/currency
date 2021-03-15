@@ -1,0 +1,65 @@
+{
+  "url_config": {
+    "source": "http://www.xmsyj.moa.gov.cn/",
+    "domain": "www.xmsyj.moa.gov.cn",
+    "turn_page": {
+      "mark": "index",
+      "type": "htm",
+      "symbol": "_",
+      "confirm": 0,
+      "start": 1,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "工作动态",
+        "xpath": {
+          "id": "div",
+          "class": "",
+          "node": ""
+        }
+      },
+      {
+        "rex": "政策解读",
+        "xpath": {
+          "id": "div",
+          "class": "",
+          "node": ""
+        }
+      },
+      {
+        "rex": "政务服务",
+        "xpath": {
+          "id": "div",
+          "class": "",
+          "node": ""
+        }
+      },
+      {
+        "rex": "疫情发布",
+        "xpath": {
+          "id": "div",
+          "class": "",
+          "node": ""
+        }
+      },
+      {
+        "rex": "监测预警",
+        "xpath": {
+          "id": "div",
+          "class": "",
+          "node": ""
+        }
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
+

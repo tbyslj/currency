@@ -1,0 +1,33 @@
+{
+  "url_config": {
+    "source": "http://gjnfcpw.com/",
+    "domain": "gjnfcpw.com",
+    "turn_page": {
+      "mark": "&page",
+      "type": "",
+      "symbol": "=",
+      "confirm": 0,
+      "start": 2,
+      "page": 5
+    },
+    "classify": [
+      {
+        "rex": "农业资讯",
+        "xpath": {
+          "id": "",
+          "class": "company_left_main Consultation",
+          "node": "ul"
+        }
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
+

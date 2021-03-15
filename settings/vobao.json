@@ -1,0 +1,98 @@
+{
+  "url_config": {
+    "source": "https://news.vobao.com/",
+    "domain": "news.vobao.com",
+    "turn_page": {
+      "mark": "list",
+      "type": "shtml",
+      "symbol": "_",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "险种测评",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "意外险",
+            "xpath": {
+              "id": "",
+              "class": "bigsort-list",
+              "node": ""
+            }
+          },
+          {
+            "rex": "重疾险",
+            "xpath": {
+              "id": "",
+              "class": "bigsort-list",
+              "node": ""
+            }
+          },
+          {
+            "rex": "医疗险",
+            "xpath": {
+              "id": "",
+              "class": "bigsort-list",
+              "node": ""
+            }
+          },
+          {
+            "rex": "寿险",
+            "xpath": {
+              "id": "",
+              "class": "bigsort-list",
+              "node": ""
+            }
+          },
+          {
+            "rex": "少儿险",
+            "xpath": {
+              "id": "",
+              "class": "bigsort-list",
+              "node": ""
+            }
+          },
+          {
+            "rex": "理财险",
+            "xpath": {
+              "id": "",
+              "class": "bigsort-list",
+              "node": ""
+            }
+          },
+          {
+            "rex": "养老险",
+            "xpath": {
+              "id": "",
+              "class": "bigsort-list",
+              "node": ""
+            }
+          },
+          {
+            "rex": "财产险",
+            "xpath": {
+              "id": "",
+              "class": "bigsort-list",
+              "node": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "shtml",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}

@@ -1,0 +1,1154 @@
+2021-02-25 18:09:38,489 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/77648.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001E5E00C2D08>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-02-25 18:09:58,525 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/77648.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001E5E00A3048>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-02-25 18:10:23,334 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-02-25 18:10:42,800 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-02-25 18:11:02,600 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-02-25 18:11:02,639 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-25 18:11:22,298 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-02-25 18:11:58,631 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/75835.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001E5E00A8708>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-02-25 18:12:33,204 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-02-25 18:12:52,734 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-02-25 18:12:52,770 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-25 18:13:22,798 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-02-25 18:13:53,108 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-02-25 18:14:22,841 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/77596.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001E5E00ABAC8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-02-25 18:14:42,857 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/77596.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001E5E0124E08>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-02-25 18:15:09,599 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-02-25 18:15:09,613 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-25 18:15:30,000 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-02-25 18:16:09,832 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-02-25 18:16:34,505 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/76098.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001E5E00A31C8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-02-25 18:17:09,502 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-02-25 18:17:39,732 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-02-25 18:18:09,500 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-02-25 18:18:29,200 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-02-25 18:18:29,287 currency.py[line:191] INFO: list index out of range
+2021-02-25 18:18:29,314 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-25 18:18:29,655 currency.py[line:191] INFO: list index out of range
+2021-02-25 18:18:29,665 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-25 18:18:29,711 currency.py[line:191] INFO: list index out of range
+2021-02-25 18:18:29,730 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-25 18:18:29,777 currency.py[line:191] INFO: list index out of range
+2021-02-25 18:18:29,794 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-25 18:18:29,820 currency.py[line:191] INFO: list index out of range
+2021-02-25 18:18:29,842 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-25 18:18:29,870 currency.py[line:191] INFO: list index out of range
+2021-02-25 18:18:29,930 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-25 18:18:29,957 currency.py[line:191] INFO: list index out of range
+2021-02-25 18:18:29,999 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-25 18:18:30,235 currency.py[line:191] INFO: list index out of range
+2021-02-25 18:18:30,258 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-25 18:18:30,396 currency.py[line:191] INFO: list index out of range
+2021-02-25 18:18:30,398 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-25 18:18:30,421 currency.py[line:191] INFO: list index out of range
+2021-02-25 18:18:30,423 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-25 18:18:30,451 currency.py[line:191] INFO: list index out of range
+2021-02-25 18:18:30,467 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-25 18:18:30,507 currency.py[line:191] INFO: list index out of range
+2021-02-25 18:18:30,525 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-25 18:18:30,849 currency.py[line:191] INFO: list index out of range
+2021-02-25 18:18:30,863 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-25 18:18:30,921 currency.py[line:191] INFO: list index out of range
+2021-02-25 18:18:30,927 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-25 18:18:30,955 currency.py[line:191] INFO: list index out of range
+2021-02-25 18:18:30,968 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-25 18:18:31,119 currency.py[line:191] INFO: list index out of range
+2021-02-25 18:18:31,124 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-25 18:18:31,162 currency.py[line:191] INFO: list index out of range
+2021-02-25 18:18:31,165 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-25 18:18:31,199 currency.py[line:191] INFO: list index out of range
+2021-02-25 18:18:31,213 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-25 18:18:31,244 currency.py[line:191] INFO: list index out of range
+2021-02-25 18:18:31,284 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-25 18:18:31,321 currency.py[line:191] INFO: list index out of range
+2021-02-25 18:18:31,343 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-25 18:18:31,513 currency.py[line:191] INFO: list index out of range
+2021-02-25 18:18:31,545 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-25 18:18:31,602 currency.py[line:191] INFO: list index out of range
+2021-02-25 18:18:31,604 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:20,790 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:20,792 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:21,214 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:21,214 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:21,242 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:21,244 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:21,275 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:21,276 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:21,317 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:21,331 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:21,477 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:21,492 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:21,527 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:21,536 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:21,564 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:21,565 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:21,594 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:21,594 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:21,634 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:21,635 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:21,661 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:21,669 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:21,703 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:21,713 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:21,774 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:21,835 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:21,930 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:21,931 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:21,958 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:21,973 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:21,998 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:22,010 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:22,043 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:22,050 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:22,078 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:22,099 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:22,135 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:22,216 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:22,364 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:22,366 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:22,401 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:22,401 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:22,430 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:22,431 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:22,471 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:22,473 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:22,515 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:22,547 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:22,574 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:22,584 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:22,610 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:22,738 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:22,780 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:22,781 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:22,810 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:22,811 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:22,840 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:22,867 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:22,980 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:22,995 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:23,019 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:23,029 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:23,116 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:23,116 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:23,157 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:23,158 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:23,184 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:23,186 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:23,245 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:23,258 currency.py[line:437] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:23,288 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:23,413 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:23,451 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:23,462 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:23,504 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:23,629 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:23,675 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:23,714 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:23,813 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:23,825 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:23,884 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:23,886 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:23,912 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:23,913 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:24,178 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:24,180 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:24,213 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:24,215 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:24,250 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:24,276 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:24,340 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:24,351 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:24,389 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:24,396 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:24,432 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:24,439 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:24,470 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:24,472 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:24,651 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:24,666 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:24,704 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:24,709 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:24,766 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:24,773 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:24,797 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:24,823 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:24,847 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:24,866 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:25,035 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:25,037 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:25,080 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:25,085 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:25,123 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:25,142 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:25,200 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:25,202 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:25,227 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:25,229 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:25,257 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:25,304 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:25,383 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:25,386 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:25,413 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:25,414 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:25,441 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:25,444 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:25,469 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:25,472 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:25,495 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:25,497 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:25,536 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:25,566 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:25,838 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:25,843 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:25,871 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:25,873 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:25,901 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:25,902 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:25,941 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:25,959 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:25,990 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:25,996 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-02-27 18:58:26,028 currency.py[line:191] INFO: list index out of range
+2021-02-27 18:58:26,030 currency.py[line:1108] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-01 18:24:57,034 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/75837.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000027A21A2EC48>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-01 18:25:17,045 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/75837.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000027A21A0F6C8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-01 18:26:01,030 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-01 18:26:30,191 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-01 18:27:09,072 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/76090.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000027A21A05908>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-01 18:27:29,078 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/76090.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000027A21B520C8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-01 18:27:50,391 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-01 18:28:05,829 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-01 18:28:05,855 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-01 18:28:25,859 http_request.py[line:66] ERROR: [3/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/75836.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000027A21B43748>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-01 18:28:25,868 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-01 18:28:25,893 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-01 18:28:25,970 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-01 18:28:26,026 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-01 18:28:26,051 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-01 18:28:51,759 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-01 18:29:07,158 currency.py[line:191] INFO: list index out of range
+2021-03-01 18:29:07,173 currency.py[line:1111] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-01 18:29:07,202 currency.py[line:191] INFO: list index out of range
+2021-03-01 18:29:07,212 currency.py[line:1111] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-01 18:29:07,277 currency.py[line:191] INFO: list index out of range
+2021-03-01 18:29:07,292 currency.py[line:1111] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-01 18:29:07,569 currency.py[line:191] INFO: list index out of range
+2021-03-01 18:29:07,571 currency.py[line:1111] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:49:11,861 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/76098.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000243826BDC88>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-02 18:49:31,873 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/76098.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000243826F0748>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-02 18:50:16,566 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Read timed out. (read timeout=20)
+2021-03-02 18:50:46,671 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-02 18:51:04,553 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:04,582 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:51:04,641 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:04,654 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:51:04,842 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:04,848 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:51:04,899 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:04,941 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:51:05,035 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:05,045 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:51:05,328 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:05,355 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:51:05,419 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:05,432 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:51:05,496 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:05,504 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:51:05,569 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:05,618 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:51:05,743 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:05,746 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:51:05,825 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:05,827 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:51:05,890 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:05,896 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:51:06,002 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:06,024 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:51:06,074 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:06,091 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:51:06,156 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:06,158 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:51:06,242 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:06,243 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:51:06,275 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:06,277 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:51:06,315 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:06,317 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:51:06,372 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:06,392 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:51:06,661 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:06,714 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:51:06,868 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:06,869 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:51:06,911 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:06,913 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:51:06,942 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:06,943 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-02 18:51:06,973 currency.py[line:191] INFO: list index out of range
+2021-03-02 18:51:06,974 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-03 18:22:46,938 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/76561.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000182EB331348>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-03 18:23:23,350 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Read timed out.
+2021-03-03 18:23:55,613 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-03 18:24:15,242 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-03 18:25:03,138 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/75845.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000182EB4EA448>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-03 18:25:23,143 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/75845.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000182EC6BD948>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-03 18:26:00,744 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-03 18:26:30,334 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-03 18:26:40,605 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-03 18:26:40,639 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-03 18:26:47,740 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-03 18:26:47,753 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-03 18:26:47,856 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-03 18:27:03,062 currency.py[line:191] INFO: list index out of range
+2021-03-03 18:27:03,202 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-03 18:27:03,383 currency.py[line:191] INFO: list index out of range
+2021-03-03 18:27:03,395 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-03 18:27:03,422 currency.py[line:191] INFO: list index out of range
+2021-03-03 18:27:03,435 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-03 18:27:03,515 currency.py[line:191] INFO: list index out of range
+2021-03-03 18:27:03,530 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-03 18:27:03,569 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2021-03-03 18:27:04,314 currency.py[line:191] INFO: list index out of range
+2021-03-03 18:27:04,336 currency.py[line:449] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-03 18:27:33,208 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/2/79171.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000182EB3CC948>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-03 18:27:53,214 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/2/79171.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000182EC6FE788>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-03 18:28:13,218 http_request.py[line:66] ERROR: [3/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/2/79171.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000182EB35D2C8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-03 18:28:13,235 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-03 18:28:33,237 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/2/79151.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000182EC5ACA08>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-03 18:28:53,250 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/2/79151.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000182EB3CCC08>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-03 18:29:12,734 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-03 18:29:12,741 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-03 18:29:12,766 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-03 18:29:19,968 currency.py[line:191] INFO: list index out of range
+2021-03-03 18:29:19,997 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-03 18:29:20,037 currency.py[line:191] INFO: list index out of range
+2021-03-03 18:29:20,065 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-03 18:29:20,239 currency.py[line:191] INFO: list index out of range
+2021-03-03 18:29:20,241 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-03 18:29:20,271 currency.py[line:191] INFO: list index out of range
+2021-03-03 18:29:20,272 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-03 18:29:20,308 currency.py[line:191] INFO: list index out of range
+2021-03-03 18:29:20,310 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-03 18:29:20,335 currency.py[line:191] INFO: list index out of range
+2021-03-03 18:29:20,336 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-03 18:29:20,377 currency.py[line:191] INFO: list index out of range
+2021-03-03 18:29:20,384 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-03 18:29:20,435 currency.py[line:191] INFO: list index out of range
+2021-03-03 18:29:20,437 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-03 18:29:20,466 currency.py[line:191] INFO: list index out of range
+2021-03-03 18:29:20,467 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-03 18:29:20,495 currency.py[line:191] INFO: list index out of range
+2021-03-03 18:29:20,496 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-03 18:29:20,535 currency.py[line:191] INFO: list index out of range
+2021-03-03 18:29:20,537 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-03 18:29:20,564 currency.py[line:191] INFO: list index out of range
+2021-03-03 18:29:20,580 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-03 18:29:20,609 currency.py[line:191] INFO: list index out of range
+2021-03-03 18:29:20,619 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-03 18:29:20,676 currency.py[line:191] INFO: list index out of range
+2021-03-03 18:29:20,694 currency.py[line:1117] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-04 18:50:35,247 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/75836.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001BBAFEADB48>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-04 18:50:55,313 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/75836.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001BBAFEE64C8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-04 18:51:24,267 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-04 18:52:14,778 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-04 18:52:45,051 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/75190.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001BBAFF60E08>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-04 18:53:05,081 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/75190.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001BBAFF21BC8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-04 18:53:27,445 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-04 18:53:27,446 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 18:53:46,794 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-04 18:54:06,372 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-04 18:54:16,431 currency.py[line:682] INFO: unbalanced parenthesis at position 820
+2021-03-04 18:54:16,723 currency.py[line:762] INFO: unbalanced parenthesis at position 820
+2021-03-04 18:54:57,198 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/2/79115.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001BBAFE84C88>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-04 18:55:17,854 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/2/79115.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001BBAFF16A88>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-04 18:55:18,913 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-04 18:55:18,914 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 18:55:18,940 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-04 18:55:38,956 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/2/79109.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001BBAFEE69C8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-04 18:56:11,694 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-04 18:56:41,275 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-04 18:57:07,722 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/2/79128.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001BBAFF14FC8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-04 18:57:27,724 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/2/79128.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001BBAFD930C8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-04 18:57:27,785 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-04 18:57:27,815 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 18:57:27,954 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-04 18:58:02,597 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-04 18:58:32,145 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-04 18:58:42,540 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-04 18:58:42,570 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-04 18:58:42,599 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-04 18:58:42,599 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 18:58:57,711 currency.py[line:191] INFO: list index out of range
+2021-03-04 18:58:57,797 currency.py[line:1124] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-04 18:58:58,033 currency.py[line:191] INFO: list index out of range
+2021-03-04 18:58:58,049 currency.py[line:1124] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-04 18:58:58,078 currency.py[line:191] INFO: list index out of range
+2021-03-04 18:58:58,082 currency.py[line:1124] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-04 18:58:58,115 currency.py[line:191] INFO: list index out of range
+2021-03-04 18:58:58,117 currency.py[line:1124] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-04 18:58:58,147 currency.py[line:191] INFO: list index out of range
+2021-03-04 18:58:58,149 currency.py[line:1124] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:34:44,231 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/76561.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000021EF0F91648>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-05 18:35:04,234 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/76561.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000021EF0F10308>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-05 18:35:26,673 http_request.py[line:66] ERROR: [3/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Read timed out.
+2021-03-05 18:35:26,673 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-05 18:36:12,114 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-05 18:36:51,143 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/77596.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000021EF0F13F48>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-05 18:37:11,179 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/77596.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000021EF0F10B88>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-05 18:37:11,269 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-05 18:37:11,273 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-05 18:37:11,341 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-05 18:37:11,392 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-05 18:37:14,529 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-05 18:37:14,553 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-05 18:37:41,406 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-05 18:38:00,838 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-05 18:38:20,639 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-05 18:38:20,654 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-05 18:38:40,439 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-05 18:38:47,207 currency.py[line:684] INFO: unbalanced parenthesis at position 918 (line 2, column 830)
+2021-03-05 18:38:47,209 currency.py[line:764] INFO: unbalanced parenthesis at position 918 (line 2, column 830)
+2021-03-05 18:39:11,262 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/2/79234.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000021EF0F0E6C8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-05 18:39:31,314 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/2/79234.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000021EF0F149C8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-05 18:40:24,016 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-05 18:40:43,330 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-05 18:40:43,379 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-05 18:40:43,380 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-05 18:40:50,454 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-05 18:40:50,524 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-05 18:40:57,925 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:40:57,932 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:40:58,014 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:40:58,045 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:40:58,323 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:40:58,324 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:40:58,366 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:40:58,367 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:40:58,403 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:40:58,411 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:40:58,450 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:40:58,451 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:40:58,506 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:40:58,509 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:40:58,612 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:40:58,643 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:40:58,704 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:40:58,710 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:40:58,745 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:40:58,755 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:40:58,815 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:40:58,821 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:40:58,895 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:40:58,912 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:40:58,971 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:40:58,992 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:40:59,077 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:40:59,101 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:40:59,183 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:40:59,207 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:40:59,257 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:40:59,259 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:40:59,283 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:40:59,285 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:40:59,652 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:40:59,695 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:40:59,799 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:40:59,826 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:40:59,930 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:40:59,939 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:41:00,096 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:41:00,109 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:41:00,232 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:41:00,235 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:41:00,310 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:41:00,312 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:41:00,343 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:41:00,359 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:41:00,459 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:41:00,469 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:41:00,550 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:41:00,554 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:41:00,612 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:41:00,625 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:41:00,726 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:41:00,807 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:41:00,970 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:41:00,995 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:41:01,055 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:41:01,056 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:41:01,124 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:41:01,137 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-05 18:41:01,181 currency.py[line:191] INFO: list index out of range
+2021-03-05 18:41:01,183 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:05:49,964 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/77134.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001D28A4130C8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-06 23:06:09,991 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/77134.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001D28A4F7948>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-06 23:06:11,019 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-06 23:06:11,049 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 23:06:31,122 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/76951.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001D28A4D1788>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-06 23:06:50,759 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-06 23:07:10,163 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-06 23:07:10,195 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 23:07:30,033 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-06 23:07:30,067 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-06 23:07:30,153 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-06 23:07:30,191 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 23:07:30,264 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-06 23:07:31,357 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:31,393 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:31,572 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:31,581 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:31,803 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:31,821 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:31,888 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:31,888 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:31,912 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:31,915 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:31,948 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:31,949 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:31,979 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:31,979 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:32,008 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:32,030 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:32,266 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:32,283 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:32,473 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:32,474 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:32,517 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:32,520 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:32,565 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:32,567 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:32,591 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:32,592 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:32,630 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:32,632 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:32,656 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:32,657 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:32,686 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:32,688 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:32,718 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:32,742 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:32,806 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:32,812 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:32,840 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:32,854 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:33,020 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:33,027 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:33,157 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:33,167 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:33,215 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:33,217 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:33,260 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:33,275 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:33,300 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:33,313 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:33,347 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:33,349 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:33,380 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:33,384 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:33,424 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:33,473 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:33,606 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:33,646 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:33,717 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:33,719 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-06 23:07:33,752 currency.py[line:191] INFO: list index out of range
+2021-03-06 23:07:33,754 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:25:50,793 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:25:50,850 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:25:50,978 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:25:51,008 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:25:51,110 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:25:51,116 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:25:51,157 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:25:51,177 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:25:51,204 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:25:51,215 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:25:51,244 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:25:51,245 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:25:51,268 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:25:51,268 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:25:51,296 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:25:51,297 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:25:51,322 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:25:51,322 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:25:51,440 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:25:51,477 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:26:11,613 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/76290.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5CF8A3748>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:26:31,621 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/76290.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5CF9AA188>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:26:51,640 http_request.py[line:66] ERROR: [3/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/76290.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5CF95A908>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:26:51,662 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:27:11,694 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/76090.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5CFA422C8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:27:46,104 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:27:56,302 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:27:56,303 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:27:56,334 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:27:56,335 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:27:56,358 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:27:56,359 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:27:56,396 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:27:56,414 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:27:56,450 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:27:56,462 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:27:56,488 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:27:56,548 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:27:56,670 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:27:56,730 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:27:56,865 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:27:56,879 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:27:56,934 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:27:56,946 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:27:56,990 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:27:56,991 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:27:57,023 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:27:57,025 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:27:57,052 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:27:57,054 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:27:57,092 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:27:57,093 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:27:57,125 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:27:57,136 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:27:57,180 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:27:57,181 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:27:57,224 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:27:57,284 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:27:57,311 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:27:57,352 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:28:17,672 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/76090.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5CF8600C8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:28:37,679 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/76090.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5CFA4BF08>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:28:58,704 http_request.py[line:66] ERROR: [3/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/76090.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5CF941EC8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:28:58,705 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:29:18,707 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/75837.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5D0AF0B08>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:29:53,636 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:30:08,717 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:30:08,717 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:30:08,747 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:30:08,748 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:30:08,774 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:30:08,774 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:30:08,798 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:30:08,831 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:30:08,864 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:30:08,866 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:30:08,893 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:30:08,903 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:30:08,937 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:30:08,937 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:30:08,964 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:30:08,968 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:30:08,992 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:30:08,993 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:30:09,024 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:30:09,050 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:30:29,119 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/2/79097.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5D0B05588>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:30:49,145 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/2/79097.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5CF98D188>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:31:09,203 http_request.py[line:66] ERROR: [3/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/2/79097.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5CF953188>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:31:09,232 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:31:29,314 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/2/79095.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5CF978B08>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:31:49,368 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/2/79095.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5CFA15E08>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:32:19,004 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:32:48,151 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/3/79014.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5CFA36F88>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:33:23,137 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:33:53,604 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:34:23,832 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:34:43,304 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:35:15,446 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/3/78940.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5D0AE6048>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:35:35,455 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/3/78940.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5D0AFE388>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:35:58,493 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:35:58,528 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:36:18,339 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:36:28,889 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:36:28,922 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:36:28,986 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:36:28,993 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:36:29,119 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:36:44,317 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:36:44,399 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:36:44,424 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:37:29,855 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/4/77388.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5D0AEBCC8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:37:49,898 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/4/77388.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5CF99B708>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:38:37,229 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:38:56,891 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:39:53,098 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/4/77285.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5CFA175C8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:40:13,114 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/4/77285.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5CF978848>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:40:32,590 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:40:32,590 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:40:52,292 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:41:21,837 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:42:12,986 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/5/79257.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5D0B33288>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:42:33,002 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/5/79257.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5CFA171C8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:42:55,474 http_request.py[line:66] ERROR: [3/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Read timed out.
+2021-03-07 18:42:55,508 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:43:25,828 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:43:45,192 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:44:27,609 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/5/67029.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5CFA15108>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:44:48,671 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/5/67029.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B5D0B34DC8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-07 18:45:11,430 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:45:11,435 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:45:30,897 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:45:50,404 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:46:17,492 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-07 18:46:20,581 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:46:20,608 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:46:20,968 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:46:20,977 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:46:21,245 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:46:21,272 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:46:21,447 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:46:21,457 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:46:21,579 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:46:21,628 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:46:21,768 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:46:21,779 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:46:21,935 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:46:21,937 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:46:21,960 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:46:21,962 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:46:21,986 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:46:21,988 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:46:22,017 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:46:22,044 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:46:22,075 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:46:22,084 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:46:22,330 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:46:22,347 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:46:22,430 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:46:22,452 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-07 18:46:22,487 currency.py[line:191] INFO: list index out of range
+2021-03-07 18:46:22,492 currency.py[line:1131] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-08 18:25:39,954 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/75398.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000024D89137708>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-08 18:25:59,988 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/75398.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000024D8A1DB108>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-08 18:26:22,540 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-08 18:26:22,579 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:26:42,420 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-08 18:26:42,555 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-08 18:26:42,604 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-08 18:26:42,663 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:26:42,822 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-08 18:26:46,166 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-08 18:27:01,399 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-08 18:27:01,407 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:27:01,434 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-08 18:27:55,933 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/75835.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000024D890C9E08>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-08 18:28:32,191 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/75190.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000024D890F07C8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-08 18:28:51,939 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-08 18:29:30,218 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-08 18:29:30,284 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-08 18:29:30,350 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-08 18:29:30,370 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:29:30,409 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-08 18:29:30,439 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-08 18:30:06,099 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/8/index_3.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000024D890CAF88>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-08 18:30:26,177 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/8/index_3.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000024D890C9988>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-08 18:30:46,181 http_request.py[line:66] ERROR: [3/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/8/index_3.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000024D88F60DC8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-08 18:30:46,274 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:30:46,588 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-09 18:31:03,034 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/75080.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001D0BD593C48>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-09 18:31:23,061 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/75080.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001D0BD79B1C8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-09 18:31:42,822 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-09 18:31:42,838 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:32:02,540 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-09 18:32:31,923 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-09 18:32:51,263 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-09 18:32:51,308 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-09 18:32:51,314 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:32:58,597 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:32:58,675 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:32:58,765 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:32:58,767 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:32:58,802 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:32:58,806 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:32:58,839 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:32:58,841 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:32:58,867 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:32:58,869 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:32:58,896 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:32:58,900 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:32:59,075 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:32:59,109 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:32:59,398 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:32:59,400 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:32:59,436 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:32:59,438 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:32:59,475 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:32:59,512 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:32:59,550 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:32:59,567 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:33:00,158 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:33:00,171 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:33:00,249 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:33:00,312 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:33:00,625 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:33:00,627 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:33:00,653 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:33:00,676 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:33:00,705 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:33:00,715 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:33:00,911 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:33:00,928 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:33:01,234 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:33:01,236 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:33:01,266 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:33:01,275 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:33:01,321 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:33:01,363 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:33:01,468 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:33:01,546 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:33:01,729 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:33:01,744 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:33:01,772 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:33:01,774 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:33:01,798 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:33:01,821 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:33:01,870 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:33:01,906 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:33:02,137 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:33:02,148 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:33:02,175 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:33:02,178 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:33:02,216 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:33:02,250 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:33:02,274 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:33:02,306 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-09 18:33:02,467 currency.py[line:191] INFO: list index out of range
+2021-03-09 18:33:02,480 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:46:59,859 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/75845.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002452D788408>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-10 18:47:19,917 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/75845.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002452DA4C108>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-10 18:47:57,316 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Read timed out. (read timeout=20)
+2021-03-10 18:48:35,196 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-10 18:48:35,225 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-10 18:48:35,309 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-10 18:48:35,322 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 18:48:42,617 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:48:42,640 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:48:42,664 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:48:42,713 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:48:42,809 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:48:42,824 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:48:42,935 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:48:42,953 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:48:43,049 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:48:43,072 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:48:43,144 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:48:43,177 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:48:43,242 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:48:43,253 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:48:43,276 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:48:43,352 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:48:43,667 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:48:43,675 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:48:43,780 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:48:43,810 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:49:03,812 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/78241.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002452D839248>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-10 18:49:38,696 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-10 18:49:58,224 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-10 18:49:58,240 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 18:50:27,938 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-10 18:50:58,381 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:50:58,382 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:50:58,406 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:50:58,406 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:50:58,436 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:50:58,436 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:50:58,466 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:50:58,481 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:50:58,601 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:50:58,611 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:50:58,706 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:50:58,736 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:50:58,826 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:50:58,833 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:50:59,076 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:50:59,139 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:50:59,267 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:50:59,280 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:50:59,338 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:50:59,339 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:50:59,384 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:50:59,404 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:50:59,427 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:50:59,507 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:50:59,551 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:50:59,565 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:50:59,602 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:50:59,603 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:50:59,627 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:50:59,629 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:50:59,653 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:50:59,654 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:50:59,683 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:50:59,688 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:50:59,738 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:50:59,740 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:50:59,775 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:50:59,781 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:50:59,922 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:50:59,929 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:51:00,196 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:51:00,222 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:51:00,334 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:51:00,373 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:51:00,617 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:51:00,619 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:51:00,642 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:51:00,644 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:51:00,674 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:51:00,676 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:51:00,699 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:51:00,701 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:51:00,732 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:51:00,750 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:51:00,909 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:51:00,942 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:51:01,107 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:51:01,158 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:51:01,327 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:51:01,414 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:51:01,517 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:51:01,568 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:51:01,762 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:51:01,766 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:51:01,790 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:51:01,797 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:26:58,701 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/76098.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F8A24B39C8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-11 18:27:18,718 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/76098.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F8A2373948>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-11 18:27:45,914 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-11 18:27:45,958 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:28:32,566 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-11 18:28:53,114 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-11 18:29:26,051 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/75147.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F8A24ABEC8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-11 18:29:46,062 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/75147.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F8A34E0B48>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-11 18:29:51,456 currency.py[line:687] INFO: unbalanced parenthesis at position 820
+2021-03-11 18:29:51,755 currency.py[line:767] INFO: unbalanced parenthesis at position 820
+2021-03-11 18:30:02,150 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-11 18:30:05,345 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-11 18:30:25,371 http_request.py[line:66] ERROR: [3/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/75080.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F8A24C9548>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-11 18:30:25,386 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:30:44,967 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-11 18:31:04,660 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-11 18:32:03,126 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/2/79097.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F8A24D1C88>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-11 18:32:23,516 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/2/79097.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F8A55F87C8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-11 18:32:49,415 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-11 18:32:49,444 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-11 18:32:49,488 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-11 18:32:49,503 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:33:04,939 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-11 18:33:04,986 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-11 18:33:05,064 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-11 18:33:05,118 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:33:20,183 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-11 18:34:14,888 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/2/79113.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F8A24C9D88>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-11 18:34:34,911 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/2/79113.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F8A2320848>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-11 18:34:34,981 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-11 18:34:34,991 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:34:35,017 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-11 18:34:35,042 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-11 18:34:50,281 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-11 18:34:50,337 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:34:50,496 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-11 18:34:50,542 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-11 18:35:13,328 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-11 18:35:13,372 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:35:42,860 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-11 18:36:14,598 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:36:14,599 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:36:14,624 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:36:14,630 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:36:14,656 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:36:14,656 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:36:14,680 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:36:14,682 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:36:14,712 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:36:14,713 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:36:14,741 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:36:14,741 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:36:14,771 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:36:14,779 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:36:14,817 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:36:14,833 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:36:14,907 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:36:14,936 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:36:15,357 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:36:15,358 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:36:15,384 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:36:15,395 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:36:15,436 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:36:15,461 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:36:15,559 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:36:15,564 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:36:15,667 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:36:15,670 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:36:15,732 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:36:15,739 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:36:15,800 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:36:15,810 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:36:15,936 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:36:15,981 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:36:16,162 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:36:16,193 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:36:16,230 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:36:16,262 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:36:16,364 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:36:16,445 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:36:16,770 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:36:16,778 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:36:16,831 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:36:16,848 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:03:55,715 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/76090.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001D65AFC41C8>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-12 21:04:52,233 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-12 21:05:22,234 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-12 21:05:53,572 currency.py[line:687] INFO: unbalanced parenthesis at position 820
+2021-03-12 21:05:53,573 currency.py[line:767] INFO: unbalanced parenthesis at position 820
+2021-03-12 21:06:13,580 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/7/75101.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001D65ADF7448>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-12 21:06:48,433 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-12 21:07:18,025 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-12 21:07:47,776 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-12 21:08:07,331 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-12 21:08:42,734 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/2/79096.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001D65E92D108>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-12 21:09:39,382 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-12 21:09:39,435 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-12 21:09:39,477 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-12 21:09:39,556 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 21:09:39,681 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-12 21:09:55,000 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-12 21:10:29,983 http_request.py[line:66] ERROR: [3/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-12 21:10:29,983 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 21:10:57,639 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/2/79128.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001D65ADF7A48>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-12 21:11:32,425 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-12 21:12:02,678 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-12 21:12:32,973 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-12 21:13:24,680 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.hellosea.net', port=80): Max retries exceeded with url: /News/3/78294.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001D65AE29B08>, 'Connection to www.hellosea.net timed out. (connect timeout=20)'))
+2021-03-12 21:13:59,833 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-12 21:14:51,424 http_request.py[line:66] ERROR: [1/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-12 21:15:11,083 http_request.py[line:66] ERROR: [2/3] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2021-03-12 21:15:12,754 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:12,768 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:12,794 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:12,806 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:12,862 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:13,210 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:13,343 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:13,352 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:13,576 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:13,587 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:13,692 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:13,697 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:13,771 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:13,788 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:14,349 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:14,356 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:14,384 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:14,387 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:14,424 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:14,426 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:14,457 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:14,459 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:14,486 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:14,488 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:14,518 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:14,520 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:14,552 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:14,553 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:14,577 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:14,579 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:14,605 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:14,638 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:14,827 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:14,836 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:15,093 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:15,116 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:15,272 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:15,295 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:15,416 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:15,426 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:15,521 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:15,532 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:15,693 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:15,723 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:15,952 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:15,968 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:16,259 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:16,266 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:16,786 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:16,814 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:16,913 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:16,914 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:16,942 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:16,975 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:17,253 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:17,312 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:17,450 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:17,471 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:17,533 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:17,544 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:17,588 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:17,641 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:17,669 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:17,705 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 21:15:18,046 currency.py[line:191] INFO: list index out of range
+2021-03-12 21:15:18,049 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:11,435 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:11,486 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:11,951 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:11,952 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:11,979 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:11,981 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:12,011 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:12,036 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:12,231 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:12,241 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:12,270 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:12,275 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:12,308 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:12,343 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:12,393 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:12,436 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:12,474 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:12,528 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:12,555 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:12,604 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:12,642 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:12,670 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:13,022 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:13,026 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:13,058 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:13,061 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:13,095 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:13,095 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:13,120 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:13,140 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:13,170 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:13,171 currency.py[line:453] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:13,202 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:13,236 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:13,266 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:13,299 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:13,331 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:13,375 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:13,417 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:13,443 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:13,736 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:13,787 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:13,928 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:13,966 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:14,144 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:14,188 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:14,409 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:14,449 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:14,671 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:14,682 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:14,721 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:14,735 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:14,807 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:14,834 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:15,316 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:15,322 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:15,747 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:15,752 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:15,788 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:15,790 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:15,824 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:15,827 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:15,877 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:15,891 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:49:16,089 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:49:16,090 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'

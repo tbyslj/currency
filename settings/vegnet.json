@@ -1,0 +1,67 @@
+{
+  "url_config": {
+    "source": "http://www.vegnet.com.cn/",
+    "domain": "www.vegnet.com.cn",
+    "turn_page": {
+      "mark": "_p",
+      "type": "html",
+      "symbol": "",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "行业资讯",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "国内动态",
+            "xpath": {
+              "id": "font1",
+              "class": "",
+              "node": ""
+            }
+          },
+          {
+            "rex": "行业热点",
+            "xpath": {
+              "id": "font1",
+              "class": "",
+              "node": ""
+            }
+          },
+          {
+            "rex": "国际新闻",
+            "xpath": {
+              "id": "font1",
+              "class": "",
+              "node": ""
+            }
+          },
+          {
+            "rex": "行业分析",
+            "xpath": {
+              "id": "font1",
+              "class": "",
+              "node": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "html",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
+

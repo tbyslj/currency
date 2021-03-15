@@ -1,0 +1,89 @@
+{
+  "url_config": {
+    "source": "http://www.yyj.moa.gov.cn/",
+    "domain": "www.yyj.moa.gov.cn",
+    "turn_page": {
+      "mark": "index",
+      "type": "htm",
+      "symbol": "_",
+      "confirm": 0,
+      "start": 1,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "工作动态",
+        "xpath": {
+          "id": "div",
+          "class": "",
+          "node": ""
+        }
+      },
+      {
+        "rex": "通知公告",
+        "xpath": {
+          "id": "div",
+          "class": "",
+          "node": ""
+        }
+      },
+      {
+        "rex": "综合信息",
+        "xpath": {
+          "id": "div",
+          "class": "",
+          "node": ""
+        }
+      },
+      {
+        "rex": "部局文件",
+        "xpath": {
+          "id": "div",
+          "class": "",
+          "node": ""
+        }
+      },
+      {
+        "rex": "政策解读",
+        "xpath": {
+          "id": "div",
+          "class": "",
+          "node": ""
+        }
+      },
+      {
+        "rex": "发展规划",
+        "xpath": {
+          "id": "div",
+          "class": "",
+          "node": ""
+        }
+      },
+      {
+        "rex": "渔情信息",
+        "xpath": {
+          "id": "div",
+          "class": "",
+          "node": ""
+        }
+      },
+      {
+        "rex": "科技质量",
+        "xpath": {
+          "id": "div",
+          "class": "",
+          "node": ""
+        }
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
+

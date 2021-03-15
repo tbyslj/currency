@@ -1,0 +1,31 @@
+2021-03-09 18:40:30,393 currency.py[line:687] INFO: unbalanced parenthesis at position 1858
+2021-03-09 18:40:30,398 currency.py[line:767] INFO: unbalanced parenthesis at position 1858
+2021-03-09 18:46:05,372 currency.py[line:687] INFO: unbalanced parenthesis at position 2
+2021-03-09 18:46:05,441 currency.py[line:767] INFO: unbalanced parenthesis at position 2
+2021-03-10 18:55:51,250 currency.py[line:687] INFO: unbalanced parenthesis at position 1858
+2021-03-10 18:55:51,256 currency.py[line:767] INFO: unbalanced parenthesis at position 1858
+2021-03-10 18:58:43,055 currency.py[line:687] INFO: unbalanced parenthesis at position 2
+2021-03-10 18:58:43,111 currency.py[line:767] INFO: unbalanced parenthesis at position 2
+2021-03-11 18:24:23,308 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.chinameat.org', port=80): Read timed out. (read timeout=20)
+2021-03-11 18:35:32,131 currency.py[line:687] INFO: unbalanced parenthesis at position 1858
+2021-03-11 18:35:32,136 currency.py[line:767] INFO: unbalanced parenthesis at position 1858
+2021-03-11 18:41:28,326 currency.py[line:687] INFO: unbalanced parenthesis at position 2
+2021-03-11 18:41:28,363 currency.py[line:767] INFO: unbalanced parenthesis at position 2
+2021-03-11 18:44:43,175 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.chinameat.org', port=80): Max retries exceeded with url: /index.php?a=detail&id=408 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001436F38F708>, 'Connection to www.chinameat.org timed out. (connect timeout=20)'))
+2021-03-11 18:45:03,230 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.chinameat.org', port=80): Max retries exceeded with url: /index.php?a=detail&id=408 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001436C397308>, 'Connection to www.chinameat.org timed out. (connect timeout=20)'))
+2021-03-11 18:45:23,241 http_request.py[line:66] ERROR: [3/3] HTTPConnectionPool(host='www.chinameat.org', port=80): Max retries exceeded with url: /index.php?a=detail&id=408 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001436C39E448>, 'Connection to www.chinameat.org timed out. (connect timeout=20)'))
+2021-03-11 18:45:23,254 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:45:43,327 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.chinameat.org', port=80): Max retries exceeded with url: /index.php?a=detail&id=38 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001436C343588>, 'Connection to www.chinameat.org timed out. (connect timeout=20)'))
+2021-03-11 18:46:03,342 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.chinameat.org', port=80): Max retries exceeded with url: /index.php?a=detail&id=38 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001436C32EA08>, 'Connection to www.chinameat.org timed out. (connect timeout=20)'))
+2021-03-11 18:46:24,729 http_request.py[line:66] ERROR: [3/3] HTTPConnectionPool(host='www.chinameat.org', port=80): Max retries exceeded with url: /index.php?a=detail&id=38 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001436C397C88>, 'Connection to www.chinameat.org timed out. (connect timeout=20)'))
+2021-03-11 18:46:24,757 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:46:44,794 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.chinameat.org', port=80): Max retries exceeded with url: /index.php?a=detail&id=394 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001436E379E88>, 'Connection to www.chinameat.org timed out. (connect timeout=20)'))
+2021-03-11 18:47:04,848 http_request.py[line:66] ERROR: [2/3] HTTPConnectionPool(host='www.chinameat.org', port=80): Max retries exceeded with url: /index.php?a=detail&id=394 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001436F38FF08>, 'Connection to www.chinameat.org timed out. (connect timeout=20)'))
+2021-03-12 21:12:40,765 currency.py[line:687] INFO: unbalanced parenthesis at position 1858
+2021-03-12 21:12:40,786 currency.py[line:767] INFO: unbalanced parenthesis at position 1858
+2021-03-12 21:17:58,914 currency.py[line:687] INFO: unbalanced parenthesis at position 2
+2021-03-12 21:17:59,118 currency.py[line:767] INFO: unbalanced parenthesis at position 2
+2021-03-14 14:00:35,171 currency.py[line:687] INFO: unbalanced parenthesis at position 1858
+2021-03-14 14:00:35,247 currency.py[line:767] INFO: unbalanced parenthesis at position 1858
+2021-03-14 14:04:11,210 currency.py[line:687] INFO: unbalanced parenthesis at position 2
+2021-03-14 14:04:11,358 currency.py[line:767] INFO: unbalanced parenthesis at position 2

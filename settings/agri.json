@@ -1,0 +1,49 @@
+{
+  "url_config": {
+    "source": "http://www.agri.cn/",
+    "domain": "www.agri.cn",
+    "turn_page": {
+      "mark": "index",
+      "type": "htm",
+      "symbol": "_",
+      "confirm": 0,
+      "start": 1,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "农业要闻",
+        "xpath": {
+          "id": "",
+          "class": "bj_3-2",
+          "node": ""
+        }
+      },
+      {
+        "rex": "全国信息联播",
+        "xpath": {
+          "id": "",
+          "class": "bj_3-2",
+          "node": ""
+        }
+      },
+      {
+        "rex": "通知公告",
+        "xpath": {
+          "id": "",
+          "class": "bj_3-2",
+          "node": ""
+        }
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "htm",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
+

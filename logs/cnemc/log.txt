@@ -1,0 +1,504 @@
+2021-02-19 18:51:27,872 currency.py[line:677] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-02-19 18:51:27,874 currency.py[line:757] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-02-19 18:51:28,391 currency.py[line:677] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-02-19 18:51:28,393 currency.py[line:757] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-02-19 18:51:31,048 currency.py[line:677] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-02-19 18:51:31,051 currency.py[line:757] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-02-19 18:51:31,688 currency.py[line:677] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-02-19 18:51:31,691 currency.py[line:757] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-02-19 18:51:32,491 currency.py[line:677] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-02-19 18:51:32,493 currency.py[line:757] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-02-19 18:51:32,795 currency.py[line:677] INFO: unbalanced parenthesis at position 758 (line 14, column 79)
+2021-02-19 18:51:32,797 currency.py[line:757] INFO: unbalanced parenthesis at position 758 (line 14, column 79)
+2021-02-19 18:51:33,079 currency.py[line:677] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-02-19 18:51:33,081 currency.py[line:757] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-02-19 18:51:34,202 currency.py[line:677] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-02-19 18:51:34,204 currency.py[line:757] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-02-19 18:51:34,541 currency.py[line:677] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-02-19 18:51:34,542 currency.py[line:757] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-02-19 18:51:47,890 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-02-19 18:51:47,989 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-02-19 18:51:48,084 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-02-19 18:51:48,084 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-19 18:51:48,084 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-19 18:52:03,700 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-02-19 18:52:03,811 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-02-19 18:52:03,907 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-02-19 18:52:03,907 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-19 18:52:03,907 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-20 19:22:55,326 currency.py[line:656] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-02-20 19:22:55,336 currency.py[line:736] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-02-20 19:22:58,801 currency.py[line:656] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-02-20 19:22:58,803 currency.py[line:736] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-02-20 19:23:02,078 currency.py[line:656] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-02-20 19:23:02,081 currency.py[line:736] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-02-20 19:23:02,294 currency.py[line:656] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-02-20 19:23:02,296 currency.py[line:736] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-02-20 19:23:02,557 currency.py[line:656] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-02-20 19:23:02,558 currency.py[line:736] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-02-20 19:23:03,406 currency.py[line:656] INFO: unbalanced parenthesis at position 758 (line 14, column 79)
+2021-02-20 19:23:03,408 currency.py[line:736] INFO: unbalanced parenthesis at position 758 (line 14, column 79)
+2021-02-20 19:23:03,656 currency.py[line:656] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-02-20 19:23:03,659 currency.py[line:736] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-02-20 19:23:04,615 currency.py[line:656] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-02-20 19:23:04,616 currency.py[line:736] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-02-20 19:23:05,434 currency.py[line:656] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-02-20 19:23:05,435 currency.py[line:736] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-02-20 19:23:05,650 currency.py[line:656] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-02-20 19:23:05,652 currency.py[line:736] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-02-20 19:23:18,287 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-02-20 19:23:18,387 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-02-20 19:23:18,460 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-02-20 19:23:18,460 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-20 19:23:18,461 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-20 19:23:33,209 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-02-20 19:23:33,323 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-02-20 19:23:33,397 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-02-20 19:23:33,398 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-20 19:23:33,398 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-22 10:34:31,736 currency.py[line:656] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-02-22 10:34:31,739 currency.py[line:736] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-02-22 10:34:34,871 currency.py[line:656] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-02-22 10:34:34,873 currency.py[line:736] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-02-22 10:34:35,729 currency.py[line:656] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-02-22 10:34:35,731 currency.py[line:736] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-02-22 10:34:38,547 currency.py[line:656] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-02-22 10:34:38,549 currency.py[line:736] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-02-22 10:34:39,035 currency.py[line:656] INFO: unbalanced parenthesis at position 758 (line 14, column 79)
+2021-02-22 10:34:39,037 currency.py[line:736] INFO: unbalanced parenthesis at position 758 (line 14, column 79)
+2021-02-22 10:34:39,790 currency.py[line:656] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-02-22 10:34:39,792 currency.py[line:736] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-02-22 10:34:40,015 currency.py[line:656] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-02-22 10:34:40,017 currency.py[line:736] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-02-22 10:34:40,326 currency.py[line:656] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-02-22 10:34:40,329 currency.py[line:736] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-02-22 10:34:41,050 currency.py[line:656] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-02-22 10:34:41,053 currency.py[line:736] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-02-22 10:34:41,923 currency.py[line:656] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-02-22 10:34:41,925 currency.py[line:736] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-02-22 10:34:54,915 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-02-22 10:34:55,001 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-02-22 10:34:55,086 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-02-22 10:34:55,086 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-22 10:34:55,087 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-22 10:35:09,914 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-02-22 10:35:10,022 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-02-22 10:35:10,122 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-02-22 10:35:10,122 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-22 10:35:10,123 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-23 15:36:52,617 currency.py[line:656] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-02-23 15:36:52,634 currency.py[line:736] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-02-23 15:36:58,010 currency.py[line:656] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-02-23 15:36:58,015 currency.py[line:736] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-02-23 15:37:01,681 currency.py[line:656] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-02-23 15:37:01,686 currency.py[line:736] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-02-23 15:37:03,713 currency.py[line:656] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-02-23 15:37:03,719 currency.py[line:736] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-02-23 15:37:05,202 currency.py[line:656] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-02-23 15:37:05,208 currency.py[line:736] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-02-23 15:37:05,717 currency.py[line:656] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-02-23 15:37:05,721 currency.py[line:736] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-02-23 15:37:06,254 currency.py[line:656] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-02-23 15:37:06,260 currency.py[line:736] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-02-23 15:37:07,466 currency.py[line:656] INFO: unbalanced parenthesis at position 758 (line 14, column 79)
+2021-02-23 15:37:07,471 currency.py[line:736] INFO: unbalanced parenthesis at position 758 (line 14, column 79)
+2021-02-23 15:37:08,004 currency.py[line:656] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-02-23 15:37:08,012 currency.py[line:736] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-02-23 15:37:09,763 currency.py[line:656] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-02-23 15:37:09,769 currency.py[line:736] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-02-23 15:37:36,214 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-02-23 15:37:36,323 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-02-23 15:37:36,397 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-02-23 15:37:36,397 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-23 15:37:36,398 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-23 15:38:04,211 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-02-23 15:38:04,327 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-02-23 15:38:04,443 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-02-23 15:38:04,444 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-23 15:38:04,444 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-25 18:03:50,160 currency.py[line:668] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-02-25 18:03:50,284 currency.py[line:748] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-02-25 18:03:51,807 currency.py[line:668] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-02-25 18:03:51,817 currency.py[line:748] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-02-25 18:03:56,574 currency.py[line:668] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-02-25 18:03:56,607 currency.py[line:748] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-02-25 18:04:16,667 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.cnemc.cn', port=80): Read timed out. (read timeout=20)
+2021-02-25 18:04:20,749 currency.py[line:668] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-02-25 18:04:21,181 currency.py[line:748] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-02-25 18:04:23,178 currency.py[line:668] INFO: unbalanced parenthesis at position 758 (line 14, column 79)
+2021-02-25 18:04:23,197 currency.py[line:748] INFO: unbalanced parenthesis at position 758 (line 14, column 79)
+2021-02-25 18:04:24,252 currency.py[line:668] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-02-25 18:04:24,352 currency.py[line:748] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-02-25 18:04:24,866 currency.py[line:668] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-02-25 18:04:25,083 currency.py[line:748] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-02-25 18:04:26,672 currency.py[line:668] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-02-25 18:04:26,816 currency.py[line:748] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-02-25 18:04:27,837 currency.py[line:668] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-02-25 18:04:27,947 currency.py[line:748] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-02-25 18:04:28,357 currency.py[line:668] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-02-25 18:04:28,407 currency.py[line:748] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-02-25 18:04:49,881 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-02-25 18:04:50,008 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-02-25 18:04:50,125 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-02-25 18:04:50,177 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-25 18:04:50,181 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-25 18:05:17,496 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-02-25 18:05:17,605 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-02-25 18:05:17,809 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-02-25 18:05:17,821 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-25 18:05:17,903 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-26 18:34:00,959 currency.py[line:668] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-02-26 18:34:01,079 currency.py[line:748] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-02-26 18:34:07,260 currency.py[line:668] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-02-26 18:34:07,316 currency.py[line:748] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-02-26 18:34:08,179 currency.py[line:668] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-02-26 18:34:08,215 currency.py[line:748] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-02-26 18:34:14,496 currency.py[line:668] INFO: unbalanced parenthesis at position 758 (line 14, column 79)
+2021-02-26 18:34:14,737 currency.py[line:748] INFO: unbalanced parenthesis at position 758 (line 14, column 79)
+2021-02-26 18:34:15,912 currency.py[line:668] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-02-26 18:34:15,996 currency.py[line:748] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-02-26 18:34:17,181 currency.py[line:668] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-02-26 18:34:17,230 currency.py[line:748] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-02-26 18:34:17,619 currency.py[line:668] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-02-26 18:34:17,718 currency.py[line:748] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-02-26 18:34:18,130 currency.py[line:668] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-02-26 18:34:18,193 currency.py[line:748] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-02-26 18:34:19,378 currency.py[line:668] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-02-26 18:34:19,538 currency.py[line:748] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-02-26 18:34:19,864 currency.py[line:668] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-02-26 18:34:20,077 currency.py[line:748] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-02-26 18:34:39,414 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-02-26 18:34:39,560 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-02-26 18:34:39,654 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-02-26 18:34:39,663 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-26 18:34:39,663 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-26 18:35:00,635 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-02-26 18:35:00,748 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-02-26 18:35:00,887 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-02-26 18:35:00,914 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-26 18:35:00,956 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-27 18:53:36,208 currency.py[line:668] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-02-27 18:53:36,269 currency.py[line:748] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-02-27 18:53:46,156 currency.py[line:668] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-02-27 18:53:46,183 currency.py[line:748] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-02-27 18:53:47,197 currency.py[line:668] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-02-27 18:53:47,318 currency.py[line:748] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-02-27 18:53:49,548 currency.py[line:668] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-02-27 18:53:49,693 currency.py[line:748] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-02-27 18:53:50,257 currency.py[line:668] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-02-27 18:53:50,315 currency.py[line:748] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-02-27 18:53:51,024 currency.py[line:668] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-02-27 18:53:51,182 currency.py[line:748] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-02-27 18:53:51,945 currency.py[line:668] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-02-27 18:53:52,178 currency.py[line:748] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-02-27 18:53:53,618 currency.py[line:668] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-02-27 18:53:53,723 currency.py[line:748] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-02-27 18:53:54,974 currency.py[line:668] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-02-27 18:53:55,022 currency.py[line:748] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-02-27 18:53:55,827 currency.py[line:668] INFO: unbalanced parenthesis at position 758 (line 14, column 79)
+2021-02-27 18:53:55,832 currency.py[line:748] INFO: unbalanced parenthesis at position 758 (line 14, column 79)
+2021-02-27 18:54:16,217 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-02-27 18:54:16,303 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-02-27 18:54:16,412 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-02-27 18:54:16,432 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-27 18:54:16,445 currency.py[line:191] INFO: expected string or bytes-like object
+2021-02-27 18:54:39,249 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-02-27 18:54:39,379 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-02-27 18:54:39,590 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-02-27 18:54:39,606 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-02-27 18:54:39,731 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-01 18:16:47,339 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-01 18:16:47,524 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-01 18:16:47,690 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-01 18:16:47,711 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-01 18:16:47,723 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-01 18:16:56,914 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-01 18:16:57,050 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-01 18:16:57,148 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-01 18:16:57,148 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-01 18:16:57,149 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-02 18:38:54,774 http_request.py[line:66] ERROR: [1/3] HTTPConnectionPool(host='www.cnemc.cn', port=80): Read timed out. (read timeout=20)
+2021-03-02 18:39:28,809 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-02 18:39:28,900 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-02 18:39:29,083 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-02 18:39:29,118 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-02 18:39:29,216 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-02 18:39:39,868 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-02 18:39:40,207 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-02 18:39:40,413 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-02 18:39:40,436 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-02 18:39:40,471 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-03 18:14:12,847 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-03 18:14:12,999 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-03 18:14:13,087 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-03 18:14:13,152 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-03 18:14:13,300 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-03 18:14:23,525 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-03 18:14:23,599 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-03 18:14:23,719 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-03 18:14:23,724 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-03 18:14:23,823 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-04 18:39:46,290 currency.py[line:682] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-03-04 18:39:46,314 currency.py[line:762] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-03-04 18:39:58,997 currency.py[line:682] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-03-04 18:39:59,161 currency.py[line:762] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-03-04 18:39:59,533 currency.py[line:682] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-03-04 18:39:59,605 currency.py[line:762] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-03-04 18:40:00,486 currency.py[line:682] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-03-04 18:40:00,827 currency.py[line:762] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-03-04 18:40:02,752 currency.py[line:682] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-03-04 18:40:02,873 currency.py[line:762] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-03-04 18:40:03,682 currency.py[line:682] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-03-04 18:40:03,881 currency.py[line:762] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-03-04 18:40:04,257 currency.py[line:682] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-03-04 18:40:04,345 currency.py[line:762] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-03-04 18:40:05,114 currency.py[line:682] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-03-04 18:40:05,133 currency.py[line:762] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-03-04 18:40:06,620 currency.py[line:682] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-03-04 18:40:06,744 currency.py[line:762] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-03-04 18:40:28,885 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-04 18:40:29,034 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-04 18:40:29,149 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-04 18:40:29,150 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 18:40:29,151 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-04 18:40:52,555 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-04 18:40:52,693 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-04 18:40:52,801 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-04 18:40:52,820 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 18:40:52,831 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-05 18:22:55,621 currency.py[line:684] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-03-05 18:22:55,716 currency.py[line:764] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-03-05 18:23:06,506 currency.py[line:684] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-03-05 18:23:07,039 currency.py[line:764] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-03-05 18:23:07,789 currency.py[line:684] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-03-05 18:23:07,841 currency.py[line:764] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-03-05 18:23:08,173 currency.py[line:684] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-03-05 18:23:08,192 currency.py[line:764] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-03-05 18:23:08,562 currency.py[line:684] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-03-05 18:23:08,725 currency.py[line:764] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-03-05 18:23:09,555 currency.py[line:684] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-03-05 18:23:09,579 currency.py[line:764] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-03-05 18:23:11,167 currency.py[line:684] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-03-05 18:23:11,521 currency.py[line:764] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-03-05 18:23:12,112 currency.py[line:684] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-03-05 18:23:12,280 currency.py[line:764] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-03-05 18:23:13,470 currency.py[line:684] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-03-05 18:23:13,674 currency.py[line:764] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-03-05 18:23:35,992 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-05 18:23:36,099 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-05 18:23:36,219 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-05 18:23:36,220 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-05 18:23:36,220 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-05 18:23:59,649 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-05 18:23:59,845 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-05 18:23:59,967 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-05 18:24:00,057 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-05 18:24:00,124 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-06 22:54:22,121 currency.py[line:684] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-03-06 22:54:22,139 currency.py[line:764] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-03-06 22:54:35,568 currency.py[line:684] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-03-06 22:54:35,684 currency.py[line:764] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-03-06 22:54:36,154 currency.py[line:684] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-03-06 22:54:36,246 currency.py[line:764] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-03-06 22:54:36,614 currency.py[line:684] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-03-06 22:54:36,653 currency.py[line:764] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-03-06 22:54:37,698 currency.py[line:684] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-03-06 22:54:37,790 currency.py[line:764] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-03-06 22:54:38,256 currency.py[line:684] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-03-06 22:54:38,259 currency.py[line:764] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-03-06 22:54:38,999 currency.py[line:684] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-03-06 22:54:39,327 currency.py[line:764] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-03-06 22:54:39,993 currency.py[line:684] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-03-06 22:54:40,027 currency.py[line:764] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-03-06 22:54:40,387 currency.py[line:684] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-03-06 22:54:40,575 currency.py[line:764] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-03-06 22:55:02,711 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-06 22:55:02,832 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-06 22:55:03,093 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-06 22:55:03,124 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 22:55:03,140 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-06 22:55:28,208 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-06 22:55:28,327 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-06 22:55:28,479 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-06 22:55:29,127 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 22:55:29,153 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-07 18:15:06,112 currency.py[line:684] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-03-07 18:15:06,134 currency.py[line:764] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-03-07 18:15:19,226 currency.py[line:684] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-03-07 18:15:19,439 currency.py[line:764] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-03-07 18:15:19,791 currency.py[line:684] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-03-07 18:15:19,805 currency.py[line:764] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-03-07 18:15:20,209 currency.py[line:684] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-03-07 18:15:20,243 currency.py[line:764] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-03-07 18:15:20,542 currency.py[line:684] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-03-07 18:15:20,606 currency.py[line:764] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-03-07 18:15:22,445 currency.py[line:684] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-03-07 18:15:22,465 currency.py[line:764] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-03-07 18:15:23,135 currency.py[line:684] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-03-07 18:15:23,214 currency.py[line:764] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-03-07 18:15:23,894 currency.py[line:684] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-03-07 18:15:23,924 currency.py[line:764] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-03-07 18:15:25,089 currency.py[line:684] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-03-07 18:15:25,168 currency.py[line:764] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-03-07 18:15:45,115 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-07 18:15:45,211 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-07 18:15:45,345 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-07 18:15:45,357 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:15:45,358 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-07 18:16:09,744 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-07 18:16:09,899 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-07 18:16:10,014 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-07 18:16:10,021 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:16:10,031 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-08 18:15:54,048 currency.py[line:684] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-03-08 18:15:54,128 currency.py[line:764] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-03-08 18:16:08,569 currency.py[line:684] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-03-08 18:16:08,730 currency.py[line:764] INFO: unbalanced parenthesis at position 715 (line 14, column 79)
+2021-03-08 18:16:09,179 currency.py[line:684] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-03-08 18:16:09,235 currency.py[line:764] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-03-08 18:16:09,687 currency.py[line:684] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-03-08 18:16:09,721 currency.py[line:764] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-03-08 18:16:10,055 currency.py[line:684] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-03-08 18:16:10,139 currency.py[line:764] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-03-08 18:16:12,874 currency.py[line:684] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-03-08 18:16:12,911 currency.py[line:764] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-03-08 18:16:13,915 currency.py[line:684] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-03-08 18:16:14,149 currency.py[line:764] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-03-08 18:16:14,526 currency.py[line:684] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-03-08 18:16:14,550 currency.py[line:764] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-03-08 18:16:15,072 currency.py[line:684] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-03-08 18:16:15,184 currency.py[line:764] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-03-08 18:16:38,683 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-08 18:16:38,765 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-08 18:16:38,911 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-08 18:16:38,989 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:16:39,050 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-08 18:17:03,744 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-08 18:17:03,901 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-08 18:17:04,029 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-08 18:17:04,076 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:17:04,117 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-09 18:19:16,650 currency.py[line:687] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-03-09 18:19:16,653 currency.py[line:767] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-03-09 18:19:28,364 currency.py[line:687] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-03-09 18:19:28,488 currency.py[line:767] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-03-09 18:19:30,381 currency.py[line:687] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-03-09 18:19:30,595 currency.py[line:767] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-03-09 18:19:30,942 currency.py[line:687] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-03-09 18:19:31,009 currency.py[line:767] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-03-09 18:19:32,181 currency.py[line:687] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-03-09 18:19:32,383 currency.py[line:767] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-03-09 18:19:32,822 currency.py[line:687] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-03-09 18:19:33,071 currency.py[line:767] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-03-09 18:19:33,412 currency.py[line:687] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-03-09 18:19:33,463 currency.py[line:767] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-03-09 18:19:34,227 currency.py[line:687] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-03-09 18:19:34,350 currency.py[line:767] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-03-09 18:19:51,387 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-09 18:19:51,502 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-09 18:19:51,638 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-09 18:19:51,700 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:19:51,743 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-09 18:20:11,910 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-09 18:20:12,062 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-09 18:20:12,191 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-09 18:20:12,192 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:20:12,199 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-10 18:32:54,302 currency.py[line:687] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-03-10 18:32:54,396 currency.py[line:767] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-03-10 18:33:09,686 currency.py[line:687] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-03-10 18:33:09,901 currency.py[line:767] INFO: unbalanced parenthesis at position 602 (line 14, column 72)
+2021-03-10 18:33:11,443 currency.py[line:687] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-03-10 18:33:11,613 currency.py[line:767] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-03-10 18:33:12,748 currency.py[line:687] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-03-10 18:33:12,772 currency.py[line:767] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-03-10 18:33:13,211 currency.py[line:687] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-03-10 18:33:13,375 currency.py[line:767] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-03-10 18:33:14,532 currency.py[line:687] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-03-10 18:33:14,644 currency.py[line:767] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-03-10 18:33:15,321 currency.py[line:687] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-03-10 18:33:15,373 currency.py[line:767] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-03-10 18:33:15,927 currency.py[line:687] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-03-10 18:33:15,964 currency.py[line:767] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-03-10 18:33:37,662 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-10 18:33:37,786 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-10 18:33:37,926 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-10 18:33:37,943 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 18:33:37,970 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-10 18:34:03,499 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-10 18:34:03,593 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-10 18:34:03,723 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-10 18:34:03,810 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 18:34:03,893 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-11 18:13:33,103 currency.py[line:687] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-03-11 18:13:33,277 currency.py[line:767] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-03-11 18:13:41,802 currency.py[line:687] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-03-11 18:13:42,123 currency.py[line:767] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-03-11 18:13:44,989 currency.py[line:687] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-03-11 18:13:45,155 currency.py[line:767] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-03-11 18:13:47,656 currency.py[line:687] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-03-11 18:13:47,702 currency.py[line:767] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-03-11 18:13:48,204 currency.py[line:687] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-03-11 18:13:48,322 currency.py[line:767] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-03-11 18:13:49,336 currency.py[line:687] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-03-11 18:13:49,379 currency.py[line:767] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-03-11 18:13:50,309 currency.py[line:687] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-03-11 18:13:50,413 currency.py[line:767] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-03-11 18:14:14,949 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-11 18:14:15,041 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-11 18:14:15,213 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-11 18:14:15,362 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:14:15,467 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-11 18:14:40,765 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-11 18:14:40,871 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-11 18:14:40,972 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-11 18:14:41,003 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:14:41,047 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-12 20:48:45,243 currency.py[line:687] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-03-12 20:48:45,336 currency.py[line:767] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-03-12 20:48:54,417 currency.py[line:687] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-03-12 20:48:54,418 currency.py[line:767] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-03-12 20:48:55,603 currency.py[line:687] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-03-12 20:48:55,610 currency.py[line:767] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-03-12 20:48:56,051 currency.py[line:687] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-03-12 20:48:56,247 currency.py[line:767] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-03-12 20:48:56,816 currency.py[line:687] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-03-12 20:48:57,129 currency.py[line:767] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-03-12 20:48:58,029 currency.py[line:687] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-03-12 20:48:58,119 currency.py[line:767] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-03-12 20:49:00,967 currency.py[line:687] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-03-12 20:49:01,059 currency.py[line:767] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-03-12 20:49:20,863 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-12 20:49:20,960 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-12 20:49:21,102 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-12 20:49:21,119 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 20:49:21,168 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-12 20:49:44,803 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-12 20:49:44,902 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-12 20:49:44,982 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-12 20:49:45,008 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 20:49:45,134 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-14 13:36:42,472 currency.py[line:687] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-03-14 13:36:42,581 currency.py[line:767] INFO: unbalanced parenthesis at position 667 (line 14, column 79)
+2021-03-14 13:36:52,014 currency.py[line:687] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-03-14 13:36:52,030 currency.py[line:767] INFO: unbalanced parenthesis at position 658 (line 14, column 79)
+2021-03-14 13:36:53,278 currency.py[line:687] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-03-14 13:36:53,392 currency.py[line:767] INFO: unbalanced parenthesis at position 779 (line 14, column 98)
+2021-03-14 13:36:54,914 currency.py[line:687] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-03-14 13:36:54,961 currency.py[line:767] INFO: unbalanced parenthesis at position 674 (line 14, column 79)
+2021-03-14 13:36:55,245 currency.py[line:687] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-03-14 13:36:55,451 currency.py[line:767] INFO: unbalanced parenthesis at position 843 (line 14, column 98)
+2021-03-14 13:36:57,737 currency.py[line:687] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-03-14 13:36:57,739 currency.py[line:767] INFO: unbalanced parenthesis at position 605 (line 14, column 72)
+2021-03-14 13:36:58,100 currency.py[line:687] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-03-14 13:36:58,129 currency.py[line:767] INFO: unbalanced parenthesis at position 642 (line 14, column 79)
+2021-03-14 13:37:19,012 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-14 13:37:19,122 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-14 13:37:19,206 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/hyxx/index_2.shtml
+2021-03-14 13:37:19,207 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 13:37:19,255 currency.py[line:191] INFO: expected string or bytes-like object
+2021-03-14 13:37:45,253 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-14 13:37:45,366 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-14 13:37:45,491 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: http://www.cnemc.cn/gzdt/gjhz/index_2.shtml
+2021-03-14 13:37:45,539 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 13:37:45,559 currency.py[line:191] INFO: expected string or bytes-like object

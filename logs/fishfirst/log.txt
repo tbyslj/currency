@@ -1,0 +1,187 @@
+2021-02-20 19:48:56,704 currency.py[line:656] INFO: bad character range 5-3 at position 932
+2021-02-20 19:48:56,706 currency.py[line:736] INFO: bad character range 5-3 at position 932
+2021-02-20 19:48:57,138 currency.py[line:656] INFO: bad character range 5-3 at position 932
+2021-02-20 19:48:57,140 currency.py[line:736] INFO: bad character range 5-3 at position 932
+2021-02-20 19:50:38,101 currency.py[line:656] INFO: missing ), unterminated subpattern at position 725
+2021-02-20 19:50:38,103 currency.py[line:736] INFO: missing ), unterminated subpattern at position 725
+2021-02-20 19:50:38,639 currency.py[line:656] INFO: missing ), unterminated subpattern at position 725
+2021-02-20 19:50:38,641 currency.py[line:736] INFO: missing ), unterminated subpattern at position 725
+2021-02-20 19:51:21,229 currency.py[line:656] INFO: unbalanced parenthesis at position 994
+2021-02-20 19:51:21,231 currency.py[line:736] INFO: unbalanced parenthesis at position 994
+2021-02-20 19:51:21,839 currency.py[line:656] INFO: unbalanced parenthesis at position 994
+2021-02-20 19:51:21,840 currency.py[line:736] INFO: unbalanced parenthesis at position 994
+2021-02-20 19:52:54,352 currency.py[line:656] INFO: missing ), unterminated subpattern at position 39
+2021-02-20 19:52:54,353 currency.py[line:736] INFO: missing ), unterminated subpattern at position 39
+2021-02-22 10:57:58,412 currency.py[line:656] INFO: bad character range 5-3 at position 932
+2021-02-22 10:57:58,413 currency.py[line:736] INFO: bad character range 5-3 at position 932
+2021-02-22 10:57:58,863 currency.py[line:656] INFO: bad character range 5-3 at position 932
+2021-02-22 10:57:58,866 currency.py[line:736] INFO: bad character range 5-3 at position 932
+2021-02-22 10:59:40,496 currency.py[line:656] INFO: missing ), unterminated subpattern at position 725
+2021-02-22 10:59:40,499 currency.py[line:736] INFO: missing ), unterminated subpattern at position 725
+2021-02-22 10:59:41,057 currency.py[line:656] INFO: missing ), unterminated subpattern at position 725
+2021-02-22 10:59:41,060 currency.py[line:736] INFO: missing ), unterminated subpattern at position 725
+2021-02-22 11:00:23,712 currency.py[line:656] INFO: unbalanced parenthesis at position 994
+2021-02-22 11:00:23,714 currency.py[line:736] INFO: unbalanced parenthesis at position 994
+2021-02-22 11:00:24,327 currency.py[line:656] INFO: unbalanced parenthesis at position 994
+2021-02-22 11:00:24,329 currency.py[line:736] INFO: unbalanced parenthesis at position 994
+2021-02-22 11:01:55,345 currency.py[line:656] INFO: missing ), unterminated subpattern at position 39
+2021-02-22 11:01:55,346 currency.py[line:736] INFO: missing ), unterminated subpattern at position 39
+2021-02-23 15:55:55,725 currency.py[line:656] INFO: bad character range 5-3 at position 932
+2021-02-23 15:55:55,743 currency.py[line:736] INFO: bad character range 5-3 at position 932
+2021-02-23 15:55:57,420 currency.py[line:656] INFO: bad character range 5-3 at position 932
+2021-02-23 15:55:57,426 currency.py[line:736] INFO: bad character range 5-3 at position 932
+2021-02-23 16:02:26,431 currency.py[line:656] INFO: missing ), unterminated subpattern at position 725
+2021-02-23 16:02:26,442 currency.py[line:736] INFO: missing ), unterminated subpattern at position 725
+2021-02-23 16:02:28,832 currency.py[line:656] INFO: missing ), unterminated subpattern at position 725
+2021-02-23 16:02:28,843 currency.py[line:736] INFO: missing ), unterminated subpattern at position 725
+2021-02-23 16:05:18,141 currency.py[line:656] INFO: unbalanced parenthesis at position 994
+2021-02-23 16:05:18,150 currency.py[line:736] INFO: unbalanced parenthesis at position 994
+2021-02-23 16:05:20,721 currency.py[line:656] INFO: unbalanced parenthesis at position 994
+2021-02-23 16:05:20,781 currency.py[line:736] INFO: unbalanced parenthesis at position 994
+2021-02-23 16:11:46,796 currency.py[line:656] INFO: missing ), unterminated subpattern at position 39
+2021-02-23 16:11:46,799 currency.py[line:736] INFO: missing ), unterminated subpattern at position 39
+2021-02-25 18:10:45,651 currency.py[line:668] INFO: bad character range 5-3 at position 932
+2021-02-25 18:10:45,664 currency.py[line:748] INFO: bad character range 5-3 at position 932
+2021-02-25 18:10:46,217 currency.py[line:668] INFO: bad character range 5-3 at position 932
+2021-02-25 18:10:46,219 currency.py[line:748] INFO: bad character range 5-3 at position 932
+2021-02-25 18:12:53,831 currency.py[line:668] INFO: missing ), unterminated subpattern at position 725
+2021-02-25 18:12:53,833 currency.py[line:748] INFO: missing ), unterminated subpattern at position 725
+2021-02-25 18:12:54,522 currency.py[line:668] INFO: missing ), unterminated subpattern at position 725
+2021-02-25 18:12:54,539 currency.py[line:748] INFO: missing ), unterminated subpattern at position 725
+2021-02-25 18:13:49,070 currency.py[line:668] INFO: unbalanced parenthesis at position 994
+2021-02-25 18:13:49,205 currency.py[line:748] INFO: unbalanced parenthesis at position 994
+2021-02-25 18:13:50,028 currency.py[line:668] INFO: unbalanced parenthesis at position 994
+2021-02-25 18:13:50,030 currency.py[line:748] INFO: unbalanced parenthesis at position 994
+2021-02-25 18:15:39,353 currency.py[line:668] INFO: missing ), unterminated subpattern at position 39
+2021-02-25 18:15:39,379 currency.py[line:748] INFO: missing ), unterminated subpattern at position 39
+2021-02-26 18:40:55,376 currency.py[line:668] INFO: bad character range 5-3 at position 932
+2021-02-26 18:40:55,379 currency.py[line:748] INFO: bad character range 5-3 at position 932
+2021-02-26 18:40:55,954 currency.py[line:668] INFO: bad character range 5-3 at position 932
+2021-02-26 18:40:56,023 currency.py[line:748] INFO: bad character range 5-3 at position 932
+2021-02-26 18:43:05,109 currency.py[line:668] INFO: missing ), unterminated subpattern at position 725
+2021-02-26 18:43:05,241 currency.py[line:748] INFO: missing ), unterminated subpattern at position 725
+2021-02-26 18:43:05,995 currency.py[line:668] INFO: missing ), unterminated subpattern at position 725
+2021-02-26 18:43:06,002 currency.py[line:748] INFO: missing ), unterminated subpattern at position 725
+2021-02-26 18:44:00,897 currency.py[line:668] INFO: unbalanced parenthesis at position 994
+2021-02-26 18:44:01,013 currency.py[line:748] INFO: unbalanced parenthesis at position 994
+2021-02-26 18:44:01,790 currency.py[line:668] INFO: unbalanced parenthesis at position 994
+2021-02-26 18:44:01,793 currency.py[line:748] INFO: unbalanced parenthesis at position 994
+2021-02-26 18:45:59,566 currency.py[line:668] INFO: missing ), unterminated subpattern at position 39
+2021-02-26 18:45:59,730 currency.py[line:748] INFO: missing ), unterminated subpattern at position 39
+2021-02-27 19:00:33,660 currency.py[line:668] INFO: bad character range 5-3 at position 932
+2021-02-27 19:00:33,662 currency.py[line:748] INFO: bad character range 5-3 at position 932
+2021-02-27 19:00:34,255 currency.py[line:668] INFO: bad character range 5-3 at position 932
+2021-02-27 19:00:34,265 currency.py[line:748] INFO: bad character range 5-3 at position 932
+2021-02-27 19:02:50,630 currency.py[line:668] INFO: missing ), unterminated subpattern at position 725
+2021-02-27 19:02:50,737 currency.py[line:748] INFO: missing ), unterminated subpattern at position 725
+2021-02-27 19:02:51,541 currency.py[line:668] INFO: missing ), unterminated subpattern at position 725
+2021-02-27 19:02:51,543 currency.py[line:748] INFO: missing ), unterminated subpattern at position 725
+2021-02-27 19:03:53,175 currency.py[line:668] INFO: unbalanced parenthesis at position 994
+2021-02-27 19:03:53,366 currency.py[line:748] INFO: unbalanced parenthesis at position 994
+2021-02-27 19:03:54,175 currency.py[line:668] INFO: unbalanced parenthesis at position 994
+2021-02-27 19:03:54,176 currency.py[line:748] INFO: unbalanced parenthesis at position 994
+2021-02-27 19:05:54,201 currency.py[line:668] INFO: missing ), unterminated subpattern at position 39
+2021-02-27 19:05:54,282 currency.py[line:748] INFO: missing ), unterminated subpattern at position 39
+2021-03-01 18:24:11,180 currency.py[line:674] INFO: bad character range 5-3 at position 932
+2021-03-01 18:24:11,190 currency.py[line:754] INFO: bad character range 5-3 at position 932
+2021-03-01 18:25:18,752 currency.py[line:674] INFO: missing ), unterminated subpattern at position 725
+2021-03-01 18:25:18,880 currency.py[line:754] INFO: missing ), unterminated subpattern at position 725
+2021-03-01 18:25:46,242 currency.py[line:674] INFO: unbalanced parenthesis at position 994
+2021-03-01 18:25:46,245 currency.py[line:754] INFO: unbalanced parenthesis at position 994
+2021-03-01 18:27:01,654 currency.py[line:674] INFO: missing ), unterminated subpattern at position 39
+2021-03-01 18:27:01,704 currency.py[line:754] INFO: missing ), unterminated subpattern at position 39
+2021-03-02 18:48:29,084 currency.py[line:680] INFO: bad character range 5-3 at position 932
+2021-03-02 18:48:29,176 currency.py[line:760] INFO: bad character range 5-3 at position 932
+2021-03-02 18:49:35,425 currency.py[line:680] INFO: missing ), unterminated subpattern at position 725
+2021-03-02 18:49:35,476 currency.py[line:760] INFO: missing ), unterminated subpattern at position 725
+2021-03-02 18:50:03,591 currency.py[line:680] INFO: unbalanced parenthesis at position 994
+2021-03-02 18:50:03,633 currency.py[line:760] INFO: unbalanced parenthesis at position 994
+2021-03-02 18:51:08,958 currency.py[line:680] INFO: missing ), unterminated subpattern at position 39
+2021-03-02 18:51:08,974 currency.py[line:760] INFO: missing ), unterminated subpattern at position 39
+2021-03-03 18:21:40,541 currency.py[line:680] INFO: bad character range 5-3 at position 932
+2021-03-03 18:21:40,626 currency.py[line:760] INFO: bad character range 5-3 at position 932
+2021-03-04 18:50:41,986 currency.py[line:682] INFO: bad character range 5-3 at position 932
+2021-03-04 18:50:42,039 currency.py[line:762] INFO: bad character range 5-3 at position 932
+2021-03-04 18:51:39,147 currency.py[line:494] INFO: 'str' object has no attribute 'xpath'
+2021-03-04 18:51:50,689 currency.py[line:682] INFO: missing ), unterminated subpattern at position 725
+2021-03-04 18:51:50,709 currency.py[line:762] INFO: missing ), unterminated subpattern at position 725
+2021-03-04 18:52:17,900 currency.py[line:682] INFO: unbalanced parenthesis at position 994
+2021-03-04 18:52:17,940 currency.py[line:762] INFO: unbalanced parenthesis at position 994
+2021-03-04 18:53:20,099 currency.py[line:682] INFO: missing ), unterminated subpattern at position 39
+2021-03-04 18:53:20,162 currency.py[line:762] INFO: missing ), unterminated subpattern at position 39
+2021-03-05 18:33:10,006 currency.py[line:684] INFO: bad character range 5-3 at position 932
+2021-03-05 18:33:10,264 currency.py[line:764] INFO: bad character range 5-3 at position 932
+2021-03-05 18:34:11,292 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-05 18:34:23,181 currency.py[line:684] INFO: missing ), unterminated subpattern at position 725
+2021-03-05 18:34:23,228 currency.py[line:764] INFO: missing ), unterminated subpattern at position 725
+2021-03-05 18:34:53,489 currency.py[line:684] INFO: unbalanced parenthesis at position 994
+2021-03-05 18:34:53,524 currency.py[line:764] INFO: unbalanced parenthesis at position 994
+2021-03-05 18:35:55,277 currency.py[line:684] INFO: missing ), unterminated subpattern at position 39
+2021-03-05 18:35:55,283 currency.py[line:764] INFO: missing ), unterminated subpattern at position 39
+2021-03-06 23:04:35,900 currency.py[line:684] INFO: bad character range 5-3 at position 932
+2021-03-06 23:04:36,121 currency.py[line:764] INFO: bad character range 5-3 at position 932
+2021-03-06 23:05:41,846 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-06 23:05:53,543 currency.py[line:684] INFO: missing ), unterminated subpattern at position 725
+2021-03-06 23:05:53,680 currency.py[line:764] INFO: missing ), unterminated subpattern at position 725
+2021-03-06 23:06:25,402 currency.py[line:684] INFO: unbalanced parenthesis at position 994
+2021-03-06 23:06:25,494 currency.py[line:764] INFO: unbalanced parenthesis at position 994
+2021-03-06 23:07:33,171 currency.py[line:684] INFO: missing ), unterminated subpattern at position 39
+2021-03-06 23:07:33,181 currency.py[line:764] INFO: missing ), unterminated subpattern at position 39
+2021-03-07 18:25:45,245 currency.py[line:684] INFO: bad character range 5-3 at position 932
+2021-03-07 18:25:45,256 currency.py[line:764] INFO: bad character range 5-3 at position 932
+2021-03-07 18:26:46,806 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-07 18:26:57,232 currency.py[line:684] INFO: missing ), unterminated subpattern at position 725
+2021-03-07 18:26:57,266 currency.py[line:764] INFO: missing ), unterminated subpattern at position 725
+2021-03-07 18:27:27,860 currency.py[line:684] INFO: unbalanced parenthesis at position 994
+2021-03-07 18:27:28,029 currency.py[line:764] INFO: unbalanced parenthesis at position 994
+2021-03-07 18:28:30,476 currency.py[line:684] INFO: missing ), unterminated subpattern at position 39
+2021-03-07 18:28:30,502 currency.py[line:764] INFO: missing ), unterminated subpattern at position 39
+2021-03-08 18:25:39,871 currency.py[line:684] INFO: bad character range 5-3 at position 932
+2021-03-08 18:25:39,880 currency.py[line:764] INFO: bad character range 5-3 at position 932
+2021-03-08 18:26:40,086 currency.py[line:496] INFO: 'str' object has no attribute 'xpath'
+2021-03-08 18:26:51,627 currency.py[line:684] INFO: missing ), unterminated subpattern at position 725
+2021-03-08 18:26:51,634 currency.py[line:764] INFO: missing ), unterminated subpattern at position 725
+2021-03-08 18:27:23,949 currency.py[line:684] INFO: unbalanced parenthesis at position 994
+2021-03-08 18:27:24,019 currency.py[line:764] INFO: unbalanced parenthesis at position 994
+2021-03-08 18:28:31,323 currency.py[line:684] INFO: missing ), unterminated subpattern at position 39
+2021-03-08 18:28:31,334 currency.py[line:764] INFO: missing ), unterminated subpattern at position 39
+2021-03-09 18:29:43,601 currency.py[line:687] INFO: bad character range 5-3 at position 932
+2021-03-09 18:29:43,626 currency.py[line:767] INFO: bad character range 5-3 at position 932
+2021-03-09 18:30:55,171 currency.py[line:687] INFO: missing ), unterminated subpattern at position 725
+2021-03-09 18:30:55,242 currency.py[line:767] INFO: missing ), unterminated subpattern at position 725
+2021-03-09 18:31:21,460 currency.py[line:687] INFO: unbalanced parenthesis at position 994
+2021-03-09 18:31:21,462 currency.py[line:767] INFO: unbalanced parenthesis at position 994
+2021-03-09 18:32:29,136 currency.py[line:687] INFO: missing ), unterminated subpattern at position 39
+2021-03-09 18:32:29,143 currency.py[line:767] INFO: missing ), unterminated subpattern at position 39
+2021-03-10 18:44:54,475 currency.py[line:687] INFO: bad character range 5-3 at position 932
+2021-03-10 18:44:54,688 currency.py[line:767] INFO: bad character range 5-3 at position 932
+2021-03-10 18:46:42,315 currency.py[line:687] INFO: missing ), unterminated subpattern at position 725
+2021-03-10 18:46:42,342 currency.py[line:767] INFO: missing ), unterminated subpattern at position 725
+2021-03-10 18:47:25,601 currency.py[line:687] INFO: unbalanced parenthesis at position 994
+2021-03-10 18:47:25,604 currency.py[line:767] INFO: unbalanced parenthesis at position 994
+2021-03-10 18:48:56,441 currency.py[line:687] INFO: missing ), unterminated subpattern at position 39
+2021-03-10 18:48:56,592 currency.py[line:767] INFO: missing ), unterminated subpattern at position 39
+2021-03-11 18:24:59,505 currency.py[line:687] INFO: bad character range 5-3 at position 932
+2021-03-11 18:24:59,551 currency.py[line:767] INFO: bad character range 5-3 at position 932
+2021-03-11 18:26:52,271 currency.py[line:687] INFO: missing ), unterminated subpattern at position 725
+2021-03-11 18:26:52,285 currency.py[line:767] INFO: missing ), unterminated subpattern at position 725
+2021-03-11 18:27:36,326 currency.py[line:687] INFO: unbalanced parenthesis at position 994
+2021-03-11 18:27:36,474 currency.py[line:767] INFO: unbalanced parenthesis at position 994
+2021-03-11 18:29:09,350 currency.py[line:687] INFO: missing ), unterminated subpattern at position 39
+2021-03-11 18:29:09,353 currency.py[line:767] INFO: missing ), unterminated subpattern at position 39
+2021-03-12 21:01:06,997 currency.py[line:687] INFO: bad character range 5-3 at position 932
+2021-03-12 21:01:07,118 currency.py[line:767] INFO: bad character range 5-3 at position 932
+2021-03-12 21:02:51,525 currency.py[line:687] INFO: missing ), unterminated subpattern at position 725
+2021-03-12 21:02:51,891 currency.py[line:767] INFO: missing ), unterminated subpattern at position 725
+2021-03-12 21:03:42,829 currency.py[line:687] INFO: unbalanced parenthesis at position 994
+2021-03-12 21:03:43,064 currency.py[line:767] INFO: unbalanced parenthesis at position 994
+2021-03-12 21:05:18,029 currency.py[line:687] INFO: missing ), unterminated subpattern at position 39
+2021-03-12 21:05:18,197 currency.py[line:767] INFO: missing ), unterminated subpattern at position 39
+2021-03-14 13:47:53,045 currency.py[line:687] INFO: bad character range 5-3 at position 932
+2021-03-14 13:47:53,188 currency.py[line:767] INFO: bad character range 5-3 at position 932
+2021-03-14 13:49:50,399 currency.py[line:687] INFO: missing ), unterminated subpattern at position 725
+2021-03-14 13:49:50,429 currency.py[line:767] INFO: missing ), unterminated subpattern at position 725
+2021-03-14 13:50:34,582 currency.py[line:687] INFO: unbalanced parenthesis at position 994
+2021-03-14 13:50:34,657 currency.py[line:767] INFO: unbalanced parenthesis at position 994
+2021-03-14 13:52:18,833 currency.py[line:687] INFO: missing ), unterminated subpattern at position 39
+2021-03-14 13:52:18,911 currency.py[line:767] INFO: missing ), unterminated subpattern at position 39

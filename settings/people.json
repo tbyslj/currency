@@ -1,0 +1,143 @@
+{
+  "url_config": {
+    "source": "http://www.people.com.cn/",
+    "domain": "people.com.cn",
+    "turn_page": {
+      "mark": "index",
+      "type": "html",
+      "symbol": "",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "经济 · 科技",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "科技",
+            "xpath": {
+              "id": "",
+              "class": "list_16 mt10",
+              "node": ""
+            }
+          },
+          {
+            "rex": "金融",
+            "xpath": {
+              "id": "",
+              "class": "list_16 mt10",
+              "node": ""
+            }
+          },
+          {
+            "rex": "公益",
+            "xpath": {
+              "id": "",
+              "class": "list_16 mt10",
+              "node": ""
+            }
+          },
+          {
+            "rex": "生态",
+            "xpath": {
+              "id": "",
+              "class": "hdNews clearfix",
+              "node": ""
+            }
+          }
+        ]
+      },
+      {
+        "rex": "社会 · 法治",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "立法动态",
+            "xpath": {
+              "id": "",
+              "class": "list_16 mt10",
+              "node": ""
+            }
+          },
+          {
+            "rex": "行政执法",
+            "xpath": {
+              "id": "",
+              "class": "list_16 mt10",
+              "node": ""
+            }
+          },
+          {
+            "rex": "司法关注",
+            "xpath": {
+              "id": "",
+              "class": "list_16 mt10",
+              "node": ""
+            }
+          }
+        ]
+      },
+      {
+        "rex": "军事",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "高层动态",
+            "xpath": {
+              "id": "",
+              "class": "list_16 mt10",
+              "node": ""
+            }
+          },
+          {
+            "rex": "国防部",
+            "xpath": {
+              "id": "",
+              "class": "list_16 mt10",
+              "node": ""
+            }
+          },
+          {
+            "rex": "中国军情",
+            "xpath": {
+              "id": "",
+              "class": "list_16 mt10",
+              "node": ""
+            }
+          },
+          {
+            "rex": "国际军情",
+            "xpath": {
+              "id": "",
+              "class": "list_16 mt10",
+              "node": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "html",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
+

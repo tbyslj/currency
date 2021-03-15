@@ -1,0 +1,64 @@
+{
+  "url_config": {
+    "source": "http://www.echinatobacco.com/",
+    "domain": "www.echinatobacco.com",
+    "turn_page": {
+      "mark": "",
+      "type": "html",
+      "symbol": "_",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "宏观要览",
+        "xpath": {
+          "id": "",
+          "class": "scrap_left_list",
+          "node": ""
+        }
+      },
+      {
+        "rex": "行业要闻",
+        "xpath": {
+          "id": "",
+          "class": "scrap_left_list",
+          "node": ""
+        }
+      },
+      {
+        "rex": "政务快讯",
+        "xpath": {
+          "id": "",
+          "class": "scrap_left_list",
+          "node": ""
+        }
+      },
+      {
+        "rex": "会议动态",
+        "xpath": {
+          "id": "",
+          "class": "scrap_left_list",
+          "node": ""
+        }
+      },
+      {
+        "rex": "业内纵览",
+        "xpath": {
+          "id": "",
+          "class": "scrap_left_list",
+          "node": ""
+        }
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "html",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}

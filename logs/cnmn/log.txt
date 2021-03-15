@@ -1,0 +1,520 @@
+2021-03-02 18:43:23,893 currency.py[line:680] INFO: unbalanced parenthesis at position 1374 (line 3, column 1143)
+2021-03-02 18:43:23,899 currency.py[line:760] INFO: unbalanced parenthesis at position 1374 (line 3, column 1143)
+2021-03-02 18:45:12,819 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-02 18:45:13,095 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-02 18:45:13,359 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-02 18:45:13,382 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-02 18:45:14,618 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-02 18:45:14,937 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-02 18:45:15,249 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-02 18:45:15,252 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-02 18:45:20,282 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-02 18:45:20,707 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-02 18:45:21,062 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-02 18:45:21,064 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-02 18:45:21,423 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-02 18:45:21,757 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-02 18:45:22,059 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-02 18:45:22,078 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-02 18:45:22,465 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-02 18:45:22,803 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-02 18:45:23,138 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-02 18:45:23,139 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-02 18:45:24,550 currency.py[line:680] INFO: missing ), unterminated subpattern at position 1833 (line 15, column 36)
+2021-03-02 18:45:24,586 currency.py[line:760] INFO: missing ), unterminated subpattern at position 1833 (line 15, column 36)
+2021-03-02 18:45:26,936 currency.py[line:680] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-02 18:45:26,951 currency.py[line:760] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-02 18:45:46,961 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-02 18:45:47,594 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-02 18:45:48,504 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-02 18:45:48,524 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-02 18:45:49,492 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-02 18:45:50,510 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-02 18:45:51,163 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-02 18:45:51,176 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-02 18:45:51,461 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-02 18:45:52,097 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-02 18:45:52,409 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-02 18:45:52,440 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-02 18:45:53,698 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-02 18:45:58,261 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-02 18:45:58,954 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-02 18:45:58,974 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-03 18:17:46,322 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-03 18:17:46,629 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-03 18:17:46,926 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-03 18:17:46,934 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-03 18:17:47,215 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-03 18:17:47,532 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-03 18:17:47,842 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-03 18:17:47,866 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-03 18:17:48,276 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-03 18:17:48,560 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-03 18:17:48,901 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-03 18:17:48,963 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-03 18:17:49,306 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-03 18:17:49,638 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-03 18:17:49,996 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-03 18:17:49,997 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-03 18:17:51,821 currency.py[line:680] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-03 18:17:51,856 currency.py[line:760] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-03 18:17:57,966 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-03 18:17:58,207 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-03 18:17:58,501 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-03 18:17:58,545 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-03 18:17:59,309 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-03 18:17:59,633 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-03 18:18:00,005 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-03 18:18:00,019 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-03 18:18:03,144 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-03 18:18:03,775 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-03 18:18:04,170 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-03 18:18:04,172 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-03 18:18:04,465 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-03 18:18:04,758 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-03 18:18:05,381 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-03 18:18:05,385 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-03 18:18:06,159 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-03 18:18:06,453 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-03 18:18:06,807 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-03 18:18:06,848 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 18:43:49,293 currency.py[line:682] INFO: unbalanced parenthesis at position 1374 (line 3, column 1143)
+2021-03-04 18:43:49,304 currency.py[line:762] INFO: unbalanced parenthesis at position 1374 (line 3, column 1143)
+2021-03-04 18:46:02,071 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-04 18:46:02,328 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-04 18:46:02,537 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-04 18:46:02,550 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 18:46:03,863 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-04 18:46:04,250 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-04 18:46:04,546 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-04 18:46:04,560 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 18:46:10,682 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-04 18:46:11,042 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-04 18:46:11,363 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-04 18:46:11,406 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 18:46:11,943 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-04 18:46:12,311 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-04 18:46:12,626 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-04 18:46:12,642 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 18:46:13,050 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-04 18:46:13,376 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-04 18:46:13,653 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-04 18:46:13,703 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 18:46:15,537 currency.py[line:682] INFO: missing ), unterminated subpattern at position 1833 (line 15, column 36)
+2021-03-04 18:46:15,551 currency.py[line:762] INFO: missing ), unterminated subpattern at position 1833 (line 15, column 36)
+2021-03-04 18:46:17,827 currency.py[line:682] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-04 18:46:17,871 currency.py[line:762] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-04 18:46:36,483 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-04 18:46:36,774 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-04 18:46:37,113 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-04 18:46:37,153 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 18:46:37,778 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-04 18:46:39,470 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-04 18:46:40,250 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-04 18:46:40,268 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 18:46:40,577 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-04 18:46:40,872 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-04 18:46:41,206 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-04 18:46:41,215 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-04 18:46:41,502 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-04 18:46:41,799 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-04 18:46:42,217 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-04 18:46:42,235 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-05 18:27:06,814 currency.py[line:684] INFO: unbalanced parenthesis at position 1374 (line 3, column 1143)
+2021-03-05 18:27:06,817 currency.py[line:764] INFO: unbalanced parenthesis at position 1374 (line 3, column 1143)
+2021-03-05 18:29:41,205 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-05 18:29:41,426 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-05 18:29:41,680 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-05 18:29:41,722 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-05 18:29:43,015 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-05 18:29:43,363 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-05 18:29:43,673 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-05 18:29:43,702 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-05 18:29:48,708 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-05 18:29:49,011 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-05 18:29:49,445 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-05 18:29:49,450 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-05 18:29:49,778 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-05 18:29:50,149 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-05 18:29:50,476 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-05 18:29:50,480 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-05 18:29:50,867 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-05 18:29:51,210 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-05 18:29:51,512 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-05 18:29:51,545 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-05 18:29:52,806 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-05 18:29:53,153 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-05 18:29:53,475 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-05 18:29:53,496 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-05 18:29:53,940 currency.py[line:684] INFO: missing ), unterminated subpattern at position 1833 (line 15, column 36)
+2021-03-05 18:29:53,956 currency.py[line:764] INFO: missing ), unterminated subpattern at position 1833 (line 15, column 36)
+2021-03-05 18:29:56,698 currency.py[line:684] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-05 18:29:56,708 currency.py[line:764] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-05 18:30:13,828 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-05 18:30:14,173 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-05 18:30:14,550 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-05 18:30:14,551 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-05 18:30:14,867 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-05 18:30:15,250 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-05 18:30:15,570 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-05 18:30:15,576 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-05 18:30:16,028 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-05 18:30:16,328 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-05 18:30:16,708 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-05 18:30:16,712 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 22:58:50,153 currency.py[line:684] INFO: unbalanced parenthesis at position 1374 (line 3, column 1143)
+2021-03-06 22:58:50,202 currency.py[line:764] INFO: unbalanced parenthesis at position 1374 (line 3, column 1143)
+2021-03-06 23:01:27,332 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-06 23:01:27,573 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-06 23:01:27,772 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-06 23:01:27,773 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 23:01:29,212 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-06 23:01:29,528 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-06 23:01:29,815 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-06 23:01:29,842 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 23:01:34,832 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-06 23:01:35,147 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-06 23:01:35,461 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-06 23:01:35,462 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 23:01:35,746 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-06 23:01:36,047 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-06 23:01:36,376 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-06 23:01:36,399 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 23:01:36,702 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-06 23:01:37,056 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-06 23:01:37,368 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-06 23:01:37,370 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 23:01:38,393 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-06 23:01:38,709 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-06 23:01:38,989 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-06 23:01:38,990 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 23:01:39,366 currency.py[line:684] INFO: missing ), unterminated subpattern at position 1833 (line 15, column 36)
+2021-03-06 23:01:39,370 currency.py[line:764] INFO: missing ), unterminated subpattern at position 1833 (line 15, column 36)
+2021-03-06 23:01:42,916 currency.py[line:684] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-06 23:01:42,923 currency.py[line:764] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-06 23:02:03,415 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-06 23:02:03,739 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-06 23:02:04,405 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-06 23:02:04,408 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 23:02:04,698 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-06 23:02:04,998 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-06 23:02:05,542 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-06 23:02:05,697 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-06 23:02:06,527 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-06 23:02:06,856 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-06 23:02:07,196 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-06 23:02:07,215 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:19:12,281 currency.py[line:684] INFO: unbalanced parenthesis at position 1374 (line 3, column 1143)
+2021-03-07 18:19:12,389 currency.py[line:764] INFO: unbalanced parenthesis at position 1374 (line 3, column 1143)
+2021-03-07 18:21:39,195 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-07 18:21:39,459 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-07 18:21:39,680 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-07 18:21:39,696 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:21:40,906 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-07 18:21:41,198 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-07 18:21:41,498 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-07 18:21:41,504 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:21:46,771 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-07 18:21:47,070 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-07 18:21:47,426 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-07 18:21:47,436 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:21:47,731 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-07 18:21:48,088 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-07 18:21:48,403 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-07 18:21:48,428 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:21:48,724 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-07 18:21:49,046 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-07 18:21:49,425 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-07 18:21:49,449 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:21:50,685 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-07 18:21:50,957 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-07 18:21:51,241 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-07 18:21:51,251 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:21:51,655 currency.py[line:684] INFO: missing ), unterminated subpattern at position 1833 (line 15, column 36)
+2021-03-07 18:21:51,668 currency.py[line:764] INFO: missing ), unterminated subpattern at position 1833 (line 15, column 36)
+2021-03-07 18:21:54,589 currency.py[line:684] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-07 18:21:54,625 currency.py[line:764] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-07 18:22:10,967 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-07 18:22:11,304 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-07 18:22:11,636 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-07 18:22:11,648 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:22:11,997 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-07 18:22:12,285 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-07 18:22:12,579 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-07 18:22:12,580 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-07 18:22:12,925 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-07 18:22:13,253 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-07 18:22:13,762 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-07 18:22:13,763 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:20:08,299 currency.py[line:684] INFO: unbalanced parenthesis at position 1374 (line 3, column 1143)
+2021-03-08 18:20:08,302 currency.py[line:764] INFO: unbalanced parenthesis at position 1374 (line 3, column 1143)
+2021-03-08 18:22:46,751 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-08 18:22:46,987 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-08 18:22:47,200 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-08 18:22:47,261 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:22:49,034 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-08 18:22:49,399 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-08 18:22:49,738 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-08 18:22:49,747 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:22:54,872 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-08 18:22:55,159 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-08 18:22:55,441 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-08 18:22:55,444 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:22:55,744 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-08 18:22:56,044 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-08 18:22:56,331 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-08 18:22:56,396 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:22:56,704 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-08 18:22:57,025 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-08 18:22:57,424 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-08 18:22:57,426 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:22:58,432 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-08 18:22:58,737 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-08 18:22:59,066 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-08 18:22:59,160 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:22:59,869 currency.py[line:684] INFO: missing ), unterminated subpattern at position 1833 (line 15, column 36)
+2021-03-08 18:22:59,943 currency.py[line:764] INFO: missing ), unterminated subpattern at position 1833 (line 15, column 36)
+2021-03-08 18:23:02,882 currency.py[line:684] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-08 18:23:02,914 currency.py[line:764] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-08 18:23:20,096 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-08 18:23:20,450 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-08 18:23:20,755 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-08 18:23:20,792 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:23:21,124 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-08 18:23:21,448 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-08 18:23:21,718 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-08 18:23:21,721 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-08 18:23:22,175 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-08 18:23:22,483 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-08 18:23:22,808 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-08 18:23:22,832 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:20:53,434 currency.py[line:687] INFO: unbalanced parenthesis at position 1374 (line 3, column 1143)
+2021-03-09 18:20:53,443 currency.py[line:767] INFO: unbalanced parenthesis at position 1374 (line 3, column 1143)
+2021-03-09 18:22:55,854 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-09 18:22:56,099 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-09 18:22:56,310 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-09 18:22:56,312 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:22:57,531 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-09 18:22:57,859 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-09 18:22:58,196 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-09 18:22:58,197 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:23:03,143 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-09 18:23:03,485 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-09 18:23:03,786 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-09 18:23:03,811 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:23:04,380 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-09 18:23:04,702 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-09 18:23:05,027 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-09 18:23:05,032 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:23:05,460 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-09 18:23:05,744 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-09 18:23:06,082 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-09 18:23:06,104 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:23:07,136 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-09 18:23:07,421 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-09 18:23:07,745 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-09 18:23:07,746 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:23:08,122 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1833 (line 15, column 36)
+2021-03-09 18:23:08,142 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1833 (line 15, column 36)
+2021-03-09 18:23:10,625 currency.py[line:687] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-09 18:23:10,645 currency.py[line:767] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-09 18:23:30,993 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-09 18:23:31,278 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-09 18:23:31,613 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-09 18:23:31,726 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:23:32,108 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-09 18:23:32,404 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-09 18:23:32,723 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-09 18:23:32,745 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-09 18:23:33,045 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-09 18:23:33,367 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-09 18:23:33,688 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-09 18:23:33,689 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 18:35:10,972 currency.py[line:687] INFO: unbalanced parenthesis at position 1374 (line 3, column 1143)
+2021-03-10 18:35:11,008 currency.py[line:767] INFO: unbalanced parenthesis at position 1374 (line 3, column 1143)
+2021-03-10 18:37:27,583 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-10 18:37:27,825 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-10 18:37:28,061 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-10 18:37:28,102 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 18:37:29,562 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-10 18:37:29,885 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-10 18:37:30,174 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-10 18:37:30,237 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 18:37:36,578 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-10 18:37:36,892 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-10 18:37:37,176 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-10 18:37:37,185 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 18:37:37,473 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-10 18:37:38,215 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-10 18:37:38,726 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-10 18:37:38,756 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 18:37:39,315 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-10 18:37:40,084 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-10 18:37:40,371 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-10 18:37:40,410 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 18:37:42,194 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-10 18:37:42,482 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-10 18:37:42,781 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-10 18:37:42,782 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 18:37:43,254 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1833 (line 15, column 36)
+2021-03-10 18:37:43,272 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1833 (line 15, column 36)
+2021-03-10 18:37:45,846 currency.py[line:687] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-10 18:37:45,883 currency.py[line:767] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-10 18:38:05,602 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-10 18:38:05,891 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-10 18:38:06,224 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-10 18:38:06,468 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 18:38:06,938 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-10 18:38:07,256 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-10 18:38:07,576 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-10 18:38:07,591 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 18:38:07,883 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-10 18:38:08,203 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-10 18:38:08,542 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-10 18:38:08,556 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-10 18:38:10,232 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:38:10,298 currency.py[line:191] INFO: list index out of range
+2021-03-10 18:38:10,337 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:38:10,385 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-10 18:38:10,385 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:15:31,259 currency.py[line:687] INFO: unbalanced parenthesis at position 1374 (line 3, column 1143)
+2021-03-11 18:15:31,515 currency.py[line:767] INFO: unbalanced parenthesis at position 1374 (line 3, column 1143)
+2021-03-11 18:17:53,266 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-11 18:17:53,495 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-11 18:17:53,715 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-11 18:17:53,789 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:17:55,284 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-11 18:17:55,600 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-11 18:17:56,134 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-11 18:17:56,152 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:18:02,393 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-11 18:18:02,704 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-11 18:18:03,032 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-11 18:18:03,062 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:18:03,726 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-11 18:18:04,031 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-11 18:18:04,333 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-11 18:18:04,356 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:18:04,697 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-11 18:18:05,059 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-11 18:18:05,377 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-11 18:18:05,409 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:18:06,872 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-11 18:18:07,170 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-11 18:18:07,459 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-11 18:18:07,504 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:18:08,100 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1833 (line 15, column 36)
+2021-03-11 18:18:08,164 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1833 (line 15, column 36)
+2021-03-11 18:18:11,575 currency.py[line:687] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-11 18:18:11,583 currency.py[line:767] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-11 18:18:34,393 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-11 18:18:34,691 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-11 18:18:35,161 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-11 18:18:35,162 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:18:35,460 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-11 18:18:35,782 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-11 18:18:36,087 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-11 18:18:36,088 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:18:36,369 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-11 18:18:36,635 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-11 18:18:36,903 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-11 18:18:36,907 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-11 18:18:38,529 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:18:38,615 currency.py[line:191] INFO: list index out of range
+2021-03-11 18:18:38,660 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:18:38,691 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-11 18:18:38,691 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-12 20:52:58,762 currency.py[line:687] INFO: unbalanced parenthesis at position 1374 (line 3, column 1143)
+2021-03-12 20:52:58,819 currency.py[line:767] INFO: unbalanced parenthesis at position 1374 (line 3, column 1143)
+2021-03-12 20:55:26,516 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-12 20:55:26,763 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-12 20:55:26,978 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-12 20:55:26,986 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 20:55:28,743 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-12 20:55:29,112 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-12 20:55:29,398 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-12 20:55:29,404 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 20:55:35,438 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-12 20:55:35,720 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-12 20:55:36,003 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-12 20:55:36,034 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 20:55:36,387 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-12 20:55:36,668 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-12 20:55:36,959 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-12 20:55:36,972 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 20:55:37,251 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-12 20:55:37,590 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-12 20:55:37,862 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-12 20:55:37,877 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 20:55:39,058 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-12 20:55:39,346 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-12 20:55:39,725 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-12 20:55:39,753 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 20:55:40,319 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1833 (line 15, column 36)
+2021-03-12 20:55:40,374 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1833 (line 15, column 36)
+2021-03-12 20:55:43,485 currency.py[line:687] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-12 20:55:43,491 currency.py[line:767] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-12 20:56:02,304 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-12 20:56:02,588 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-12 20:56:02,863 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-12 20:56:02,888 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 20:56:03,295 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-12 20:56:03,615 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-12 20:56:03,903 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-12 20:56:03,909 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 20:56:04,211 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-12 20:56:04,490 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-12 20:56:04,756 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-12 20:56:04,779 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-12 20:56:06,633 currency.py[line:191] INFO: list index out of range
+2021-03-12 20:56:06,635 currency.py[line:191] INFO: list index out of range
+2021-03-12 20:56:06,636 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-12 20:56:06,636 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-12 20:56:06,637 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:39:07,955 currency.py[line:687] INFO: unbalanced parenthesis at position 1374 (line 3, column 1143)
+2021-03-14 13:39:07,977 currency.py[line:767] INFO: unbalanced parenthesis at position 1374 (line 3, column 1143)
+2021-03-14 13:41:22,186 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-14 13:41:22,427 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-14 13:41:22,702 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20110726Ads
+2021-03-14 13:41:22,739 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 13:41:24,543 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-14 13:41:24,837 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-14 13:41:25,160 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/fav/html/20100930Ads/index.htm
+2021-03-14 13:41:25,224 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 13:41:31,639 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-14 13:41:31,961 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-14 13:41:32,290 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33424.aspx
+2021-03-14 13:41:32,322 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 13:41:32,731 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-14 13:41:33,122 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-14 13:41:33,442 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_28455.aspx
+2021-03-14 13:41:33,456 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 13:41:33,732 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-14 13:41:34,042 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-14 13:41:34,355 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_27974.aspx
+2021-03-14 13:41:34,383 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 13:41:35,507 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-14 13:41:35,832 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-14 13:41:36,174 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_22170.aspx
+2021-03-14 13:41:36,218 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 13:41:36,891 currency.py[line:687] INFO: missing ), unterminated subpattern at position 1833 (line 15, column 36)
+2021-03-14 13:41:37,101 currency.py[line:767] INFO: missing ), unterminated subpattern at position 1833 (line 15, column 36)
+2021-03-14 13:41:40,031 currency.py[line:687] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-14 13:41:40,038 currency.py[line:767] INFO: nothing to repeat at position 3141 (line 65, column 109)
+2021-03-14 13:42:04,617 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-14 13:42:04,956 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-14 13:42:05,306 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_33097.aspx
+2021-03-14 13:42:05,374 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 13:42:05,755 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-14 13:42:06,105 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-14 13:42:06,404 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/chinajob2008.aspx
+2021-03-14 13:42:06,436 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 13:42:06,818 http_request.py[line:66] ERROR: [1/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-14 13:42:07,100 http_request.py[line:66] ERROR: [2/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-14 13:42:07,431 http_request.py[line:66] ERROR: [3/3] 404 Client Error: Not Found for url: https://www.cnmn.com.cn/Show_24951.aspx
+2021-03-14 13:42:07,433 currency.py[line:207] INFO: 'NoneType' object has no attribute 'status_code'===网址错误
+2021-03-14 13:42:09,006 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:42:09,074 currency.py[line:191] INFO: list index out of range
+2021-03-14 13:42:09,245 currency.py[line:1033] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:42:09,251 currency.py[line:908] ERROR: 'NoneType' object has no attribute 'xpath'
+2021-03-14 13:42:09,257 currency.py[line:1155] INFO: 'NoneType' object has no attribute 'xpath'

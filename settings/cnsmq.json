@@ -1,0 +1,49 @@
+{
+  "url_config": {
+    "source": "http://www.cnsmq.com/",
+    "domain": "www.cnsmq.com",
+    "turn_page": {
+      "mark": "&page",
+      "type": "",
+      "symbol": "=",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "标准资讯",
+        "xpath": {
+          "id": "",
+          "class": "list lh24 f14",
+          "node": ""
+        }
+      },
+      {
+        "rex": "标准项目计划",
+        "xpath": {
+          "id": "",
+          "class": "list lh24 f14",
+          "node": ""
+        }
+      },
+      {
+        "rex": "国际标准",
+        "xpath": {
+          "id": "",
+          "class": "list lh24 f14",
+          "node": ""
+        }
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
+

@@ -1,0 +1,49 @@
+{
+  "url_config": {
+    "source": "http://www.oilsns.com/",
+    "domain": "www.oilsns.com",
+    "turn_page": {
+      "mark": "page",
+      "type": "",
+      "symbol": "/",
+      "confirm": 0,
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "石油科技",
+        "xpath": {
+          "id": "",
+          "class": "@contains+excerpt excerpt",
+          "node": ""
+        }
+      },
+      {
+        "rex": "行业观察",
+        "xpath": {
+          "id": "",
+          "class": "@contains+excerpt excerpt",
+          "node": ""
+        }
+      },
+      {
+        "rex": "油气报告",
+        "xpath": {
+          "id": "",
+          "class": "thumbnail",
+          "node": ""
+        }
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
+

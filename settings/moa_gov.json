@@ -1,0 +1,75 @@
+{
+  "url_config": {
+    "source": "http://www.moa.gov.cn/",
+    "domain": "www.moa.gov.cn",
+    "turn_page": {
+      "mark": "index",
+      "type": "htm",
+      "symbol": "_",
+      "confirm": 0,
+      "start": 1,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "新闻",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "农业农村部动态",
+            "xpath": {
+              "id": "",
+              "class": "pub-media1-txt-list fullwidth",
+              "node": ""
+            }
+          },
+          {
+            "rex": "全国信息联播",
+            "xpath": {
+              "id": "",
+              "class": "pub-media1 pub-media1_nyncbdt",
+              "node": ""
+            }
+          },
+          {
+            "rex": "部门动态",
+            "xpath": {
+              "id": "",
+              "class": "pub-media1 pub-media1_nyncbdt",
+              "node": ""
+            }
+          },
+          {
+            "rex": "机关党建",
+            "xpath": {
+              "id": "",
+              "class": "pub-media1 pub-media1_nyncbdt",
+              "node": ""
+            }
+          },
+          {
+            "rex": "国际交流",
+            "xpath": {
+              "id": "",
+              "class": "pub-media1 pub-media1_nyncbdt",
+              "node": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "htm",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
+

@@ -1,0 +1,49 @@
+{
+  "url_config": {
+    "source": "http://www.k0912.com/",
+    "domain": "www.k0912.com",
+    "turn_page": {
+      "mark": "&pagination_pageIndex",
+      "type": "",
+      "symbol": "=",
+      "confirm": 0,
+      "start": 1,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "行业资讯",
+        "xpath": {
+          "id": "",
+          "class": "in-new-ul",
+          "node": ""
+        }
+      },
+      {
+        "rex": "政府文件",
+        "xpath": {
+          "id": "",
+          "class": "in-new-ul",
+          "node": ""
+        }
+      },
+      {
+        "rex": "法律法规",
+        "xpath": {
+          "id": "",
+          "class": "in-new-ul",
+          "node": ""
+        }
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
+

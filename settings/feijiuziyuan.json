@@ -1,0 +1,59 @@
+{
+  "url_config": {
+    "source": "http://www.feijiuziyuan.com/",
+    "domain": "www.feijiuziyuan.com",
+    "turn_page": {
+      "mark": "&page",
+      "type": "",
+      "symbol": "=",
+      "start": 2,
+      "page": 3
+    },
+    "classify": [
+      {
+        "rex": "资讯",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "热门资讯",
+            "xpath": {
+              "id": "",
+              "class": "catlist_li",
+              "node": ""
+            }
+          }
+        ]
+      },
+      {
+        "rex": "行情",
+        "xpath": {
+          "id": "",
+          "class": "",
+          "node": ""
+        },
+        "classify": [
+          {
+            "rex": "最新行情",
+            "xpath": {
+              "id": "",
+              "class": "catlist_li",
+              "node": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_config": {
+    "turn_page": {
+      "mark": "",
+      "type": "",
+      "symbol": "",
+      "start": 0
+    }
+  }
+}
